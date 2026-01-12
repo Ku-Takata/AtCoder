@@ -1,4 +1,4 @@
-# AtCoder Practice
+# AtCoder
 
 AtCoderの学習記録用リポジトリです。
 Pythonを用いたアルゴリズムの実装と、基礎文法の習得を目的に取り組んでいます。
