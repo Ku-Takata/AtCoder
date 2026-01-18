@@ -18,6 +18,7 @@ Pythonを用いたアルゴリズムの実装と、基礎文法の習得を目�
 - **Boot camp for Beginners**: 基礎問題の演習。Medium問題を1日3問以上解く。Easy問題は気分転換やウォームアップで解く。
 - **Contest**: Beginners Contestに毎週参加、Heuristic Contestにも参加、その他参加できるContestには全参加。
 - **Past Contest**: 苦手なアルゴリズムの問題演習。
+- **AtCoder凡人が『緑』になるための精選50問詳細解説**: 緑になるために必要なアルゴリズムを学ぶ。
 
 ## 使用言語
 - Python 3.13.7
