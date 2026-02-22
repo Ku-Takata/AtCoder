@@ -4,24 +4,15 @@ for i in range(T):
     A = list(map(int,input().split()))
     B = list(map(int,input().split()))
 
-    egg = [A[0]-B[0], 0]
+    syuusi = []
 
-    for j in range(1,N):
-        egg[0] -= B[j]
-        if egg[0] < 0:
-            egg[0] += A[j]
-        else:
-            egg[1] += A[j]
+    for j in range(N):
+        syuusi.append(A[j]-B[j])
 
-        # 日が過ぎたら新しい方から古い順で卵を左に入れたい
-        if j >= D-1:
-            egg[0] = B[j]
-            egg[1] -= B[j]
-        print(egg)
+    print(syuusi)
 
 # D日過ぎた古い卵を廃棄する
 # 多分貪欲法、苦手
-# キューだった。キューは経験不足。
 
 
 """

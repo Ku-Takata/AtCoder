@@ -10,3 +10,5 @@ for i in range(1,N):
         total += t[i] - t[i-1]
 
 print(total)
+
+# 9 特に難しいポイントはなく、すんなりかけた。Medium最短時間。
