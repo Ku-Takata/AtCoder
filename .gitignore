@@ -1,0 +1,13 @@
+# 実行ファイル（バイナリ）を除外
+*.exe
+*.o
+*.out
+
+# VS Code の一時ファイルや設定（共有したくない場合）
+.vscode/ipch/
+.vscode/msvc.analyzers.standard.json
+
+# OSが自動生成する隠しファイル
+Thumbs.db
+Desktop.ini
+.DS_Store
