@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "C++ Build and Run",
+            "type": "shell",
+            // 最初に chcp 65001 を実行して文字化けを防ぎ、その後にコンパイルと実行を行う
+            "command": "chcp 65001 > nul && g++ ${file} -o ${fileDirname}\\${fileBasenameNoExtension}.exe && ${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+                "clear": true
+            },
+            "problemMatcher": "$gcc"
+        }
+    ]
+}
