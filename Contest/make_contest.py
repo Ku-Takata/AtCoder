@@ -14,11 +14,11 @@ def main():
         problems = ["A", "B", "C", "D", "E", "F", "G"]
     elif choice == '2':
         prefix = "AtCoder_Weekday_Contest"
-        identifier = input("コンテスト番号を入力してください (例: 0015): ")
+        identifier = input("コンテスト番号を入力 (例: 0015): ")
         problems = ["A", "B", "C", "D", "E"]
     elif choice == '3':
         prefix = "AtCoder_Daily_Training"
-        identifier = input("日付などを入力してください (例: 20260227_2): ")
+        identifier = input("日付などを入力 (例: 20260227): ")
         problems = ["A", "B", "C", "D", "E", "F", "G", "H", "I"]
     else:
         print("無効な選択です。処理を終了します。")
