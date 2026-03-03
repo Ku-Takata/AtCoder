@@ -5,27 +5,48 @@ def main():
     print("1: ABC (AtCoder Beginner Contest)  [A - G問題]")
     print("2: AWC (AtCoder Weekday Contest)   [A - E問題]")
     print("3: ADT (AtCoder Daily Training)    [A - I問題]")
+    print("4: ARC (AtCoder Regular Contest)   [A - F問題]")
+    print("5: AHC (AtCoder Heuristic Contest) [A - C問題]")
+    print("6: Other                           [A - D問題]")
     
-    choice = input("番号を入力 (1/2/3): ")
+    choice = input("番号を入力 (1/2/3/4/5/6): ")
     
     if choice == '1':
         prefix = "AtCoder_Beginner_Contest"
+        parent_dir = "ABC"
         identifier = input("コンテスト番号を入力してください (例: 340): ")
         problems = ["A", "B", "C", "D", "E", "F", "G"]
     elif choice == '2':
         prefix = "AtCoder_Weekday_Contest"
+        parent_dir = "AWC"
         identifier = input("コンテスト番号を入力 (例: 0015): ")
         problems = ["A", "B", "C", "D", "E"]
     elif choice == '3':
         prefix = "AtCoder_Daily_Training"
+        parent_dir = "ADT"
         identifier = input("日付などを入力 (例: 20260227): ")
         problems = ["A", "B", "C", "D", "E", "F", "G", "H", "I"]
+    elif choice == '4':
+        prefix = "AtCoder_Regular_Contest"
+        parent_dir = "ARC"
+        identifier = input("コンテスト番号を入力してください (例: 170): ")
+        problems = ["A", "B", "C", "D", "E", "F"]
+    elif choice == '5':
+        prefix = "AtCoder_Heuristic_Contest"
+        parent_dir = "AHC"
+        identifier = input("コンテスト番号を入力してください (例: 030): ")
+        problems = ["A", "B", "C"]
+    elif choice == '6':
+        prefix = "Other"
+        parent_dir = "Other"
+        identifier = input("コンテスト名などを入力してください: ")
+        problems = ["A", "B", "C", "D"]
     else:
         print("無効な選択です。処理を終了します。")
         return
 
     # フォルダ名を指定の形式に作成
-    dir_name = f"{prefix}_{identifier}"
+    dir_name = os.path.join(parent_dir, f"{prefix}_{identifier}")
 
     try:
         # フォルダの作成
