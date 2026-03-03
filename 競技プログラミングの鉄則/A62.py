@@ -1,5 +1,12 @@
+import sys
+sys.setrecursionlimit(10**7)
+
 def dfs(pos):
-    print(pos, end=' ')
+    if visited[pos]:
+        return
+    else:
+        # print(pos, end=' ')
+        visited[pos] = True
     for i in graph[pos]:
         dfs(i)
 
@@ -11,6 +18,14 @@ for i in range(M):
     graph[A].append(B)
     graph[B].append(A)
 
-dfs(0)
+visited = [False]*(N+1)
+dfs(1)
 
-# 明日はここからやる
+for i in range(1,N+1):
+    if visited[i]:
+        continue
+    else:
+        print("The graph is not connected.")
+        exit()
+
+print("The graph is connected.")
