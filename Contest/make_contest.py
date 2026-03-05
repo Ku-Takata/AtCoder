@@ -7,7 +7,7 @@ def main():
     print("3: ADT (AtCoder Daily Training)    [A - I問題]")
     print("4: ARC (AtCoder Regular Contest)   [A - F問題]")
     print("5: AHC (AtCoder Heuristic Contest) [A - C問題]")
-    print("6: Other                           [A - D問題]")
+    print("6: Others                          [A - D問題]")
     
     choice = input("番号を入力 (1/2/3/4/5/6): ")
     
@@ -37,8 +37,8 @@ def main():
         identifier = input("コンテスト番号を入力してください (例: 030): ")
         problems = ["A", "B", "C"]
     elif choice == '6':
-        prefix = "Other"
-        parent_dir = "Other"
+        prefix = "Others"
+        parent_dir = "Others"
         identifier = input("コンテスト名などを入力してください: ")
         problems = ["A", "B", "C", "D"]
     else:
