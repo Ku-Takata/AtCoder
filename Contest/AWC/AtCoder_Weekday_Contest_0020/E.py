@@ -3,3 +3,6 @@ W = list(map(int,input().split()))
 C = list(map(int,input().split()))
 
 shelf = [0]*M
+
+for i in range(N):
+    
