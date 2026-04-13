@@ -1,0 +1,126 @@
+N=16, M=192, C=7でパラメータ探索実験
+
+seed:7
+Moves: 20449 | Beam: 11 | Noise: 1244
+Moves: 19460 | Beam: 10 | Noise: 217
+Moves: 17495 | Beam: 14 | Noise: 588
+Moves: 12804 | Beam: 18 | Noise: 1240
+Moves: 11690 | Beam: 20 | Noise: 167
+Moves: 10657 | Beam: 14 | Noise: 680
+Moves: 9295 | Beam: 21 | Noise: 1911
+Moves: 9163 | Beam: 14 | Noise: 1004
+Moves: 9153 | Beam: 22 | Noise: 1177
+Moves: 8921 | Beam: 21 | Noise: 1839
+Moves: 8729 | Beam: 17 | Noise: 759
+Moves: 8718 | Beam: 29 | Noise: 420
+Moves: 8244 | Beam: 13 | Noise: 846
+Moves: 8077 | Beam: 26 | Noise: 1714
+Moves: 7606 | Beam: 18 | Noise: 494
+Moves: 7140 | Beam: 18 | Noise: 882
+Moves: 6762 | Beam: 31 | Noise: 1944
+Moves: 6201 | Beam: 21 | Noise: 1666
+Moves: 5989 | Beam: 28 | Noise: 615
+Moves: 5746 | Beam: 34 | Noise: 927
+Moves: 5746 | Beam: 20 | Noise: 1332
+Moves: 5576 | Beam: 33 | Noise: 360
+Moves: 5144 | Beam: 21 | Noise: 573
+Moves: 5141 | Beam: 37 | Noise: 493
+Moves: 4805 | Beam: 36 | Noise: 595
+Moves: 4706 | Beam: 33 | Noise: 383
+Moves: 3926 | Beam: 27 | Noise: 1091
+
+seed:9
+Moves: 35077 | Beam: 10 | Noise: 1975
+Moves: 21257 | Beam: 11 | Noise: 1002
+Moves: 16633 | Beam: 12 | Noise: 1655
+Moves: 18164 | Beam: 14 | Noise: 1571
+Moves: 15214 | Beam: 14 | Noise: 1825
+Moves: 14851 | Beam: 14 | Noise: 1105
+Moves: 14094 | Beam: 21 | Noise: 1179
+Moves: 12107 | Beam: 19 | Noise: 230
+Moves: 11762 | Beam: 18 | Noise: 1219
+Moves: 11635 | Beam: 14 | Noise: 1340
+Moves: 10980 | Beam: 11 | Noise: 1508
+Moves: 10612 | Beam: 18 | Noise: 1750
+Moves: 10003 | Beam: 27 | Noise: 1088
+Moves: 9275 | Beam: 21 | Noise: 1336
+Moves: 9085 | Beam: 23 | Noise: 1160
+Moves: 8973 | Beam: 13 | Noise: 480
+Moves: 8812 | Beam: 17 | Noise: 705
+Moves: 8169 | Beam: 22 | Noise: 1246
+Moves: 7186 | Beam: 19 | Noise: 1731
+Moves: 5419 | Beam: 36 | Noise: 1193
+Moves: 4166 | Beam: 44 | Noise: 1862
+
+seed:10
+Moves: 28058 | Beam: 14 | Noise: 1978
+Moves: 8341 | Beam: 14 | Noise: 1855
+Moves: 5407 | Beam: 31 | Noise: 522
+Moves: 5323 | Beam: 32 | Noise: 759
+Moves: 4373 | Beam: 26 | Noise: 1962
+Moves: 4134 | Beam: 21 | Noise: 329
+Moves: 4077 | Beam: 35 | Noise: 704
+Moves: 4044 | Beam: 20 | Noise: 1911
+Moves: 4043 | Beam: 42 | Noise: 1408
+Moves: 3752 | Beam: 39 | Noise: 880
+Moves: 3747 | Beam: 44 | Noise: 990
+Moves: 3698 | Beam: 44 | Noise: 1337
+Moves: 3482 | Beam: 31 | Noise: 1420
+Moves: 3374 | Beam: 49 | Noise: 943
+Moves: 3371 | Beam: 42 | Noise: 1706
+Moves: 3270 | Beam: 30 | Noise: 1308
+Moves: 3268 | Beam: 32 | Noise: 848
+Moves: 3146 | Beam: 14 | Noise: 1359
+Moves: 3093 | Beam: 48 | Noise: 1606
+Moves: 2989 | Beam: 41 | Noise: 1081
+Moves: 2953 | Beam: 43 | Noise: 885
+Moves: 2943 | Beam: 50 | Noise: 1014
+Moves: 2723 | Beam: 40 | Noise: 1486
+Moves: 2605 | Beam: 32 | Noise: 1779
+
+seed:11
+Moves: 4755 | Beam: 34 | Noise: 1096
+Moves: 4702 | Beam: 35 | Noise: 1011
+Moves: 4674 | Beam: 39 | Noise: 1067
+Moves: 4631 | Beam: 30 | Noise: 584
+Moves: 4606 | Beam: 35 | Noise: 827
+Moves: 4597 | Beam: 32 | Noise: 585
+Moves: 4588 | Beam: 38 | Noise: 1804
+Moves: 4496 | Beam: 29 | Noise: 455
+Moves: 4414 | Beam: 45 | Noise: 1249
+Moves: 4317 | Beam: 37 | Noise: 267
+Moves: 4220 | Beam: 42 | Noise: 692
+Moves: 4162 | Beam: 43 | Noise: 228
+Moves: 4138 | Beam: 38 | Noise: 660
+Moves: 4124 | Beam: 45 | Noise: 1217
+Moves: 3836 | Beam: 33 | Noise: 1747
+Moves: 3806 | Beam: 37 | Noise: 242
+Moves: 3765 | Beam: 39 | Noise: 1047
+Moves: 3689 | Beam: 40 | Noise: 549
+Moves: 3653 | Beam: 47 | Noise: 830
+Moves: 3536 | Beam: 50 | Noise: 365
+Moves: 3395 | Beam: 46 | Noise: 151
+Moves: 3345 | Beam: 40 | Noise: 373
+
+seed:12
+Moves: 4803 | Beam: 34 | Noise: 1096
+Moves: 4726 | Beam: 27 | Noise: 787
+Moves: 4650 | Beam: 30 | Noise: 1244
+Moves: 4646 | Beam: 25 | Noise: 1606
+Moves: 4621 | Beam: 28 | Noise: 1291
+Moves: 4609 | Beam: 15 | Noise: 938
+Moves: 4558 | Beam: 35 | Noise: 1296
+Moves: 4555 | Beam: 18 | Noise: 250
+Moves: 4353 | Beam: 21 | Noise: 1061
+Moves: 4182 | Beam: 33 | Noise: 1813
+Moves: 4143 | Beam: 24 | Noise: 405
+Moves: 4124 | Beam: 48 | Noise: 1885
+Moves: 4047 | Beam: 50 | Noise: 282
+Moves: 3866 | Beam: 45 | Noise: 1319
+Moves: 3515 | Beam: 29 | Noise: 436
+Moves: 3499 | Beam: 47 | Noise: 1867
+Moves: 3467 | Beam: 35 | Noise: 1424
+Moves: 3443 | Beam: 49 | Noise: 1753
+Moves: 3179 | Beam: 40 | Noise: 272
+Moves: 3088 | Beam: 38 | Noise: 1770
+Moves: 2963 | Beam: 50 | Noise: 122

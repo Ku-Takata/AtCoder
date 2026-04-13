@@ -1,0 +1,1058 @@
+### seed:53 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : Failed (Time out or Dead End)
+Difficulty   : HARD
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 46 | Noise: 1064 | Pen: 2 | Trn: 89 | Bte: 204 | Grb: 61 | Time: 43ms | Nodes: 27419 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 2 | Beam: 23 | Noise: 504 | Pen: 2 | Trn: 141 | Bte: 104 | Grb: 61 | Time: 164ms | Nodes: 109076 | Result: 6604 moves  <-- Best Updated!
+Trial 3 | Beam: 32 | Noise: 1916 | Pen: 2 | Trn: 147 | Bte: 94 | Grb: 31 | Time: 59ms | Nodes: 34374 | Result: Failed [Early Stopped (Stuck)] (Turn: 991, Matched: 34/192, Garbage: 0)
+Trial 4 | Beam: 43 | Noise: 745 | Pen: 1 | Trn: 50 | Bte: 149 | Grb: 98 | Time: 39ms | Nodes: 14320 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 23/192, Garbage: 0)
+Trial 5 | Beam: 12 | Noise: 1818 | Pen: 3 | Trn: 133 | Bte: 64 | Grb: 28 | Time: 31ms | Nodes: 7114 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 18/192, Garbage: 3)
+Trial 6 | Beam: 11 | Noise: 692 | Pen: 2 | Trn: 89 | Bte: 260 | Grb: 7 | Time: 10ms | Nodes: 3837 | Result: Failed [Early Stopped (Stuck)] (Turn: 201, Matched: 23/192, Garbage: 0)
+Trial 7 | Beam: 48 | Noise: 1617 | Pen: 3 | Trn: 249 | Bte: 258 | Grb: 74 | Time: 45ms | Nodes: 29312 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 8 | Beam: 18 | Noise: 1704 | Pen: 2 | Trn: 130 | Bte: 72 | Grb: 80 | Time: 23ms | Nodes: 10043 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 9 | Beam: 14 | Noise: 953 | Pen: 1 | Trn: 201 | Bte: 208 | Grb: 40 | Time: 89ms | Nodes: 59550 | Result: Failed [Early Stopped (Stuck)] (Turn: 4507, Matched: 131/192, Garbage: 0)
+Trial 10 | Beam: 43 | Noise: 761 | Pen: 1 | Trn: 101 | Bte: 305 | Grb: 38 | Time: 41ms | Nodes: 31371 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 11 | Beam: 49 | Noise: 1440 | Pen: 1 | Trn: 294 | Bte: 72 | Grb: 42 | Time: 49ms | Nodes: 33695 | Result: Failed [Early Stopped (Stuck)] (Turn: 81, Matched: 24/192, Garbage: 0)
+Trial 12 | Beam: 37 | Noise: 1696 | Pen: 3 | Trn: 216 | Bte: 281 | Grb: 50 | Time: 264ms | Nodes: 177829 | Result: 5958 moves  <-- Best Updated!
+Trial 13 | Beam: 24 | Noise: 631 | Pen: 3 | Trn: 107 | Bte: 187 | Grb: 73 | Time: 46ms | Nodes: 15932 | Result: Failed [Early Stopped (Stuck)] (Turn: 762, Matched: 23/192, Garbage: 0)
+Trial 14 | Beam: 12 | Noise: 1784 | Pen: 2 | Trn: 107 | Bte: 160 | Grb: 15 | Time: 15ms | Nodes: 13734 | Result: Failed [Early Stopped (Stuck)] (Turn: 481, Matched: 24/192, Garbage: 4)
+Trial 15 | Beam: 21 | Noise: 1812 | Pen: 1 | Trn: 61 | Bte: 390 | Grb: 83 | Time: 17ms | Nodes: 9134 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 16 | Beam: 21 | Noise: 1711 | Pen: 2 | Trn: 210 | Bte: 154 | Grb: 15 | Time: 168ms | Nodes: 116290 | Result: 6774 moves
+Trial 17 | Beam: 11 | Noise: 1980 | Pen: 2 | Trn: 92 | Bte: 188 | Grb: 42 | Time: 15ms | Nodes: 6356 | Result: Failed [Early Stopped (Stuck)] (Turn: 357, Matched: 23/192, Garbage: 0)
+Trial 18 | Beam: 29 | Noise: 594 | Pen: 3 | Trn: 287 | Bte: 446 | Grb: 77 | Time: 26ms | Nodes: 20226 | Result: Failed [Early Stopped (Stuck)] (Turn: 49, Matched: 24/192, Garbage: 0)
+Trial 19 | Beam: 38 | Noise: 1172 | Pen: 1 | Trn: 29 | Bte: 305 | Grb: 20 | Time: 36ms | Nodes: 22600 | Result: Failed [Early Stopped (Stuck)] (Turn: 86, Matched: 24/192, Garbage: 4)
+Trial 20 | Beam: 42 | Noise: 1318 | Pen: 1 | Trn: 20 | Bte: 180 | Grb: 68 | Time: 80ms | Nodes: 47229 | Result: Failed [Early Stopped (Stuck)] (Turn: 714, Matched: 34/192, Garbage: 0)
+Trial 21 | Beam: 34 | Noise: 1633 | Pen: 1 | Trn: 234 | Bte: 460 | Grb: 81 | Time: 49ms | Nodes: 28386 | Result: Failed [Early Stopped (Stuck)] (Turn: 485, Matched: 24/192, Garbage: 0)
+Trial 22 | Beam: 30 | Noise: 952 | Pen: 1 | Trn: 265 | Bte: 203 | Grb: 42 | Time: 72ms | Nodes: 34984 | Result: Failed [Early Stopped (Stuck)] (Turn: 666, Matched: 48/192, Garbage: 0)
+Trial 23 | Beam: 27 | Noise: 1868 | Pen: 2 | Trn: 256 | Bte: 31 | Grb: 23 | Time: 25ms | Nodes: 14096 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 24 | Beam: 22 | Noise: 1103 | Pen: 3 | Trn: 134 | Bte: 409 | Grb: 62 | Time: 28ms | Nodes: 9465 | Result: Failed [Early Stopped (Stuck)] (Turn: 391, Matched: 23/192, Garbage: 0)
+Trial 25 | Beam: 40 | Noise: 1801 | Pen: 3 | Trn: 200 | Bte: 244 | Grb: 82 | Time: 37ms | Nodes: 25764 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 24/192, Garbage: 0)
+Trial 26 | Beam: 38 | Noise: 996 | Pen: 1 | Trn: 288 | Bte: 496 | Grb: 48 | Time: 34ms | Nodes: 22449 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 24/192, Garbage: 0)
+Trial 27 | Beam: 38 | Noise: 574 | Pen: 1 | Trn: 298 | Bte: 287 | Grb: 25 | Time: 35ms | Nodes: 22166 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 28 | Beam: 11 | Noise: 1911 | Pen: 1 | Trn: 13 | Bte: 448 | Grb: 78 | Time: 22ms | Nodes: 11322 | Result: Failed [Early Stopped (Stuck)] (Turn: 533, Matched: 24/192, Garbage: 0)
+Trial 29 | Beam: 27 | Noise: 894 | Pen: 1 | Trn: 245 | Bte: 77 | Grb: 45 | Time: 66ms | Nodes: 29647 | Result: Failed [Early Stopped (Stuck)] (Turn: 1075, Matched: 24/192, Garbage: 0)
+Trial 30 | Beam: 36 | Noise: 1558 | Pen: 3 | Trn: 99 | Bte: 320 | Grb: 37 | Time: 196ms | Nodes: 132894 | Result: 4370 moves  <-- Best Updated!
+Trial 31 | Beam: 44 | Noise: 834 | Pen: 1 | Trn: 240 | Bte: 358 | Grb: 79 | Time: 40ms | Nodes: 20574 | Result: Failed [Early Stopped (Stuck)] (Turn: 79, Matched: 24/192, Garbage: 0)
+Trial 32 | Beam: 10 | Noise: 1483 | Pen: 3 | Trn: 162 | Bte: 17 | Grb: 42 | Time: 10ms | Nodes: 5151 | Result: Failed [Early Stopped (Stuck)] (Turn: 239, Matched: 24/192, Garbage: 0)
+Trial 33 | Beam: 29 | Noise: 524 | Pen: 1 | Trn: 40 | Bte: 438 | Grb: 46 | Time: 199ms | Nodes: 123661 | Result: 5723 moves
+Trial 34 | Beam: 10 | Noise: 943 | Pen: 3 | Trn: 65 | Bte: 57 | Grb: 57 | Time: 8ms | Nodes: 8898 | Result: Failed [Early Stopped (Stuck)] (Turn: 315, Matched: 24/192, Garbage: 3)
+Trial 35 | Beam: 22 | Noise: 1481 | Pen: 2 | Trn: 203 | Bte: 118 | Grb: 15 | Time: 22ms | Nodes: 14135 | Result: Failed [Early Stopped (Stuck)] (Turn: 202, Matched: 24/192, Garbage: 2)
+Trial 36 | Beam: 17 | Noise: 1285 | Pen: 1 | Trn: 229 | Bte: 322 | Grb: 69 | Time: 160ms | Nodes: 110842 | Result: 7907 moves
+Trial 37 | Beam: 33 | Noise: 901 | Pen: 3 | Trn: 101 | Bte: 206 | Grb: 73 | Time: 29ms | Nodes: 19717 | Result: Failed [Early Stopped (Stuck)] (Turn: 49, Matched: 24/192, Garbage: 0)
+Trial 38 | Beam: 19 | Noise: 1809 | Pen: 2 | Trn: 161 | Bte: 462 | Grb: 54 | Time: 19ms | Nodes: 9973 | Result: Failed [Early Stopped (Stuck)] (Turn: 139, Matched: 23/192, Garbage: 0)
+Trial 39 | Beam: 47 | Noise: 773 | Pen: 2 | Trn: 285 | Bte: 31 | Grb: 16 | Time: 44ms | Nodes: 20475 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 24/192, Garbage: 0)
+Trial 40 | Beam: 44 | Noise: 1291 | Pen: 3 | Trn: 31 | Bte: 35 | Grb: 88 | Time: 39ms | Nodes: 18100 | Result: Failed [Early Stopped (Stuck)] (Turn: 57, Matched: 24/192, Garbage: 6)
+Trial 41 | Beam: 22 | Noise: 554 | Pen: 3 | Trn: 145 | Bte: 264 | Grb: 67 | Time: 158ms | Nodes: 105390 | Result: 5934 moves
+Trial 42 | Beam: 11 | Noise: 997 | Pen: 3 | Trn: 88 | Bte: 304 | Grb: 66 | Time: 8ms | Nodes: 5334 | Result: Failed [Early Stopped (Stuck)] (Turn: 49, Matched: 24/192, Garbage: 0)
+Trial 43 | Beam: 32 | Noise: 578 | Pen: 1 | Trn: 255 | Bte: 217 | Grb: 13 | Time: 29ms | Nodes: 20687 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 44 | Beam: 47 | Noise: 1913 | Pen: 1 | Trn: 98 | Bte: 220 | Grb: 51 | Time: 265ms | Nodes: 184345 | Result: 4641 moves
+Trial 45 | Beam: 37 | Noise: 1861 | Pen: 3 | Trn: 240 | Bte: 239 | Grb: 94 | Time: 246ms | Nodes: 176901 | Result: 5947 moves
+Trial 46 | Beam: 26 | Noise: 694 | Pen: 3 | Trn: 119 | Bte: 127 | Grb: 6 | Time: 27ms | Nodes: 14982 | Result: Failed [Early Stopped (Stuck)] (Turn: 207, Matched: 24/192, Garbage: 0)
+Trial 47 | Beam: 29 | Noise: 1787 | Pen: 1 | Trn: 189 | Bte: 130 | Grb: 3 | Time: 44ms | Nodes: 19094 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 48 | Beam: 27 | Noise: 742 | Pen: 1 | Trn: 216 | Bte: 360 | Grb: 16 | Time: 146ms | Nodes: 102981 | Result: 4235 moves  <-- Best Updated!
+Trial 49 | Beam: 25 | Noise: 924 | Pen: 1 | Trn: 279 | Bte: 124 | Grb: 25 | Time: 142ms | Nodes: 92585 | Result: 4274 moves
+Trial 50 | Beam: 13 | Noise: 1824 | Pen: 2 | Trn: 105 | Bte: 212 | Grb: 0 | Time: 25ms | Nodes: 8187 | Result: Failed [Early Stopped (Stuck)] (Turn: 480, Matched: 23/192, Garbage: 0)
+Trial 51 | Beam: 10 | Noise: 1539 | Pen: 2 | Trn: 220 | Bte: 494 | Grb: 72 | Time: 8ms | Nodes: 8236 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 52 | Beam: 11 | Noise: 1072 | Pen: 3 | Trn: 186 | Bte: 117 | Grb: 64 | Time: 17ms | Nodes: 9670 | Result: Failed [Early Stopped (Stuck)] (Turn: 707, Matched: 24/192, Garbage: 0)
+Trial 53 | Beam: 50 | Noise: 779 | Pen: 3 | Trn: 207 | Bte: 52 | Grb: 21 | Time: 50ms | Nodes: 20940 | Result: Failed [Early Stopped (Stuck)] (Turn: 97, Matched: 24/192, Garbage: 2)
+Trial 54 | Beam: 34 | Noise: 1424 | Pen: 2 | Trn: 278 | Bte: 71 | Grb: 94 | Time: 51ms | Nodes: 18347 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 55 | Beam: 10 | Noise: 1791 | Pen: 3 | Trn: 21 | Bte: 54 | Grb: 62 | Time: 12ms | Nodes: 5182 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 56 | Beam: 31 | Noise: 1925 | Pen: 3 | Trn: 90 | Bte: 128 | Grb: 57 | Time: 28ms | Nodes: 15714 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 57 | Beam: 44 | Noise: 1704 | Pen: 3 | Trn: 39 | Bte: 462 | Grb: 22 | Time: 234ms | Nodes: 147073 | Result: 4111 moves  <-- Best Updated!
+Trial 58 | Beam: 25 | Noise: 1441 | Pen: 3 | Trn: 45 | Bte: 324 | Grb: 35 | Time: 21ms | Nodes: 10697 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 59 | Beam: 36 | Noise: 792 | Pen: 3 | Trn: 209 | Bte: 47 | Grb: 66 | Time: 33ms | Nodes: 13988 | Result: Failed [Early Stopped (Stuck)] (Turn: 83, Matched: 24/192, Garbage: 0)
+Trial 60 | Beam: 40 | Noise: 804 | Pen: 2 | Trn: 92 | Bte: 12 | Grb: 77 | Time: 58ms | Nodes: 16801 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 61 | Beam: 38 | Noise: 1067 | Pen: 3 | Trn: 78 | Bte: 124 | Grb: 8 | Time: 177ms | Nodes: 127328 | Result: 4024 moves  <-- Best Updated!
+Trial 62 | Beam: 38 | Noise: 1010 | Pen: 3 | Trn: 271 | Bte: 466 | Grb: 7 | Time: 199ms | Nodes: 133080 | Result: 4242 moves
+Trial 63 | Beam: 10 | Noise: 1943 | Pen: 3 | Trn: 254 | Bte: 223 | Grb: 14 | Time: 11ms | Nodes: 7200 | Result: Failed [Early Stopped (Stuck)] (Turn: 23, Matched: 10/192, Garbage: 0)
+Trial 64 | Beam: 12 | Noise: 1011 | Pen: 3 | Trn: 220 | Bte: 470 | Grb: 57 | Time: 10ms | Nodes: 3507 | Result: Failed [Early Stopped (Stuck)] (Turn: 124, Matched: 23/192, Garbage: 0)
+Trial 65 | Beam: 45 | Noise: 1147 | Pen: 3 | Trn: 238 | Bte: 157 | Grb: 63 | Time: 42ms | Nodes: 25611 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 24/192, Garbage: 0)
+Trial 66 | Beam: 24 | Noise: 1868 | Pen: 2 | Trn: 248 | Bte: 390 | Grb: 87 | Time: 72ms | Nodes: 21901 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 18/192, Garbage: 0)
+Trial 67 | Beam: 14 | Noise: 1703 | Pen: 1 | Trn: 224 | Bte: 472 | Grb: 6 | Time: 11ms | Nodes: 9704 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 68 | Beam: 48 | Noise: 1817 | Pen: 3 | Trn: 181 | Bte: 397 | Grb: 89 | Time: 157ms | Nodes: 65686 | Result: Failed [Early Stopped (Stuck)] (Turn: 1044, Matched: 42/192, Garbage: 0)
+Trial 69 | Beam: 49 | Noise: 1460 | Pen: 3 | Trn: 292 | Bte: 255 | Grb: 82 | Time: 47ms | Nodes: 30268 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 70 | Beam: 39 | Noise: 531 | Pen: 1 | Trn: 180 | Bte: 297 | Grb: 73 | Time: 38ms | Nodes: 26638 | Result: Failed [Early Stopped (Stuck)] (Turn: 77, Matched: 24/192, Garbage: 0)
+Trial 71 | Beam: 23 | Noise: 572 | Pen: 3 | Trn: 243 | Bte: 28 | Grb: 69 | Time: 20ms | Nodes: 8781 | Result: Failed [Early Stopped (Stuck)] (Turn: 46, Matched: 24/192, Garbage: 1)
+Trial 72 | Beam: 49 | Noise: 1898 | Pen: 2 | Trn: 224 | Bte: 390 | Grb: 86 | Time: 49ms | Nodes: 34476 | Result: Failed [Early Stopped (Stuck)] (Turn: 81, Matched: 24/192, Garbage: 0)
+Trial 73 | Beam: 48 | Noise: 1214 | Pen: 3 | Trn: 119 | Bte: 273 | Grb: 79 | Time: 46ms | Nodes: 30456 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 74 | Beam: 42 | Noise: 642 | Pen: 1 | Trn: 87 | Bte: 82 | Grb: 76 | Time: 84ms | Nodes: 40221 | Result: Failed [Early Stopped (Stuck)] (Turn: 757, Matched: 28/192, Garbage: 0)
+Trial 75 | Beam: 35 | Noise: 1302 | Pen: 2 | Trn: 199 | Bte: 294 | Grb: 64 | Time: 195ms | Nodes: 135052 | Result: 4773 moves
+Trial 76 | Beam: 43 | Noise: 828 | Pen: 3 | Trn: 281 | Bte: 162 | Grb: 32 | Time: 40ms | Nodes: 23334 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 77 | Beam: 39 | Noise: 1194 | Pen: 3 | Trn: 86 | Bte: 220 | Grb: 22 | Time: 61ms | Nodes: 29448 | Result: Failed [Early Stopped (Stuck)] (Turn: 40, Matched: 20/192, Garbage: 0)
+Trial 78 | Beam: 36 | Noise: 1061 | Pen: 1 | Trn: 280 | Bte: 66 | Grb: 83 | Time: 121ms | Nodes: 20260 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 18/192, Garbage: 0)
+Trial 79 | Beam: 13 | Noise: 1559 | Pen: 1 | Trn: 39 | Bte: 396 | Grb: 69 | Time: 13ms | Nodes: 10260 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 80 | Beam: 45 | Noise: 1764 | Pen: 2 | Trn: 286 | Bte: 19 | Grb: 28 | Time: 92ms | Nodes: 46839 | Result: Failed [Early Stopped (Stuck)] (Turn: 1261, Matched: 28/192, Garbage: 1)
+Trial 81 | Beam: 47 | Noise: 1659 | Pen: 1 | Trn: 91 | Bte: 334 | Grb: 54 | Time: 61ms | Nodes: 34640 | Result: Failed [Early Stopped (Stuck)] (Turn: 553, Matched: 24/192, Garbage: 0)
+Trial 82 | Beam: 24 | Noise: 1416 | Pen: 2 | Trn: 104 | Bte: 61 | Grb: 88 | Time: 32ms | Nodes: 13785 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 20/192, Garbage: 0)
+Trial 83 | Beam: 27 | Noise: 887 | Pen: 2 | Trn: 27 | Bte: 138 | Grb: 4 | Time: 141ms | Nodes: 96840 | Result: 4457 moves
+Trial 84 | Beam: 24 | Noise: 1585 | Pen: 1 | Trn: 217 | Bte: 424 | Grb: 60 | Time: 151ms | Nodes: 100239 | Result: 5021 moves
+Trial 85 | Beam: 19 | Noise: 1212 | Pen: 3 | Trn: 30 | Bte: 141 | Grb: 82 | Time: 22ms | Nodes: 10665 | Result: Failed [Early Stopped (Stuck)] (Turn: 254, Matched: 23/192, Garbage: 0)
+Trial 86 | Beam: 29 | Noise: 1087 | Pen: 2 | Trn: 30 | Bte: 129 | Grb: 82 | Time: 247ms | Nodes: 174633 | Result: 7133 moves
+Trial 87 | Beam: 20 | Noise: 1070 | Pen: 1 | Trn: 202 | Bte: 25 | Grb: 84 | Time: 60ms | Nodes: 44174 | Result: Failed [Early Stopped (Stuck)] (Turn: 2966, Matched: 34/192, Garbage: 0)
+Trial 88 | Beam: 44 | Noise: 652 | Pen: 3 | Trn: 167 | Bte: 434 | Grb: 9 | Time: 45ms | Nodes: 34911 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 89 | Beam: 46 | Noise: 1741 | Pen: 1 | Trn: 262 | Bte: 485 | Grb: 5 | Time: 45ms | Nodes: 32498 | Result: Failed [Early Stopped (Stuck)] (Turn: 91, Matched: 24/192, Garbage: 0)
+Trial 90 | Beam: 16 | Noise: 589 | Pen: 2 | Trn: 37 | Bte: 422 | Grb: 1 | Time: 30ms | Nodes: 13966 | Result: Failed [Early Stopped (Stuck)] (Turn: 856, Matched: 34/192, Garbage: 0)
+Trial 91 | Beam: 10 | Noise: 1287 | Pen: 3 | Trn: 236 | Bte: 315 | Grb: 3 | Time: 8ms | Nodes: 7927 | Result: Failed [Early Stopped (Stuck)] (Turn: 77, Matched: 24/192, Garbage: 0)
+Trial 92 | Beam: 42 | Noise: 1368 | Pen: 1 | Trn: 10 | Bte: 160 | Grb: 98 | Time: 73ms | Nodes: 38334 | Result: Failed [Early Stopped (Stuck)] (Turn: 549, Matched: 26/192, Garbage: 0)
+Trial 93 | Beam: 27 | Noise: 746 | Pen: 3 | Trn: 33 | Bte: 416 | Grb: 29 | Time: 25ms | Nodes: 13197 | Result: Failed [Early Stopped (Stuck)] (Turn: 58, Matched: 23/192, Garbage: 0)
+Trial 94 | Beam: 23 | Noise: 1970 | Pen: 1 | Trn: 49 | Bte: 12 | Grb: 27 | Time: 28ms | Nodes: 10997 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 20/192, Garbage: 6)
+Trial 95 | Beam: 30 | Noise: 1509 | Pen: 1 | Trn: 13 | Bte: 377 | Grb: 47 | Time: 45ms | Nodes: 26032 | Result: Failed [Early Stopped (Stuck)] (Turn: 414, Matched: 34/192, Garbage: 0)
+Trial 96 | Beam: 29 | Noise: 1878 | Pen: 2 | Trn: 129 | Bte: 209 | Grb: 98 | Time: 26ms | Nodes: 16152 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 97 | Beam: 34 | Noise: 1678 | Pen: 2 | Trn: 244 | Bte: 395 | Grb: 44 | Time: 28ms | Nodes: 16013 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 24/192, Garbage: 0)
+Trial 98 | Beam: 25 | Noise: 1887 | Pen: 3 | Trn: 78 | Bte: 357 | Grb: 1 | Time: 80ms | Nodes: 23889 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 18/192, Garbage: 0)
+Trial 99 | Beam: 41 | Noise: 1171 | Pen: 2 | Trn: 117 | Bte: 44 | Grb: 71 | Time: 38ms | Nodes: 19750 | Result: Failed [Early Stopped (Stuck)] (Turn: 102, Matched: 24/192, Garbage: 0)
+Trial 100 | Beam: 22 | Noise: 549 | Pen: 2 | Trn: 208 | Bte: 325 | Grb: 27 | Time: 30ms | Nodes: 15662 | Result: Failed [Early Stopped (Stuck)] (Turn: 429, Matched: 23/192, Garbage: 0)
+Trial 101 | Beam: 15 | Noise: 617 | Pen: 2 | Trn: 81 | Bte: 428 | Grb: 88 | Time: 115ms | Nodes: 69474 | Result: Failed [Early Stopped (Stuck)] (Turn: 4413, Matched: 181/192, Garbage: 0)
+Trial 102 | Beam: 39 | Noise: 1119 | Pen: 3 | Trn: 96 | Bte: 413 | Grb: 14 | Time: 35ms | Nodes: 12717 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 23/192, Garbage: 0)
+Trial 103 | Beam: 10 | Noise: 966 | Pen: 2 | Trn: 76 | Bte: 428 | Grb: 38 | Time: 9ms | Nodes: 5787 | Result: Failed [Early Stopped (Stuck)] (Turn: 91, Matched: 23/192, Garbage: 0)
+Trial 104 | Beam: 45 | Noise: 1560 | Pen: 1 | Trn: 215 | Bte: 166 | Grb: 18 | Time: 300ms | Nodes: 196198 | Result: Failed [Time Out] (Turn: 5638, Matched: 188/192, Garbage: 0)
+Trial 105 | Beam: 21 | Noise: 947 | Pen: 3 | Trn: 103 | Bte: 400 | Grb: 92 | Time: 123ms | Nodes: 92720 | Result: 5185 moves
+Trial 106 | Beam: 26 | Noise: 855 | Pen: 2 | Trn: 190 | Bte: 170 | Grb: 12 | Time: 22ms | Nodes: 13187 | Result: Failed [Early Stopped (Stuck)] (Turn: 85, Matched: 24/192, Garbage: 0)
+Trial 107 | Beam: 46 | Noise: 1702 | Pen: 2 | Trn: 281 | Bte: 452 | Grb: 27 | Time: 44ms | Nodes: 32599 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 108 | Beam: 38 | Noise: 725 | Pen: 3 | Trn: 201 | Bte: 403 | Grb: 80 | Time: 144ms | Nodes: 106674 | Result: 3287 moves  <-- Best Updated!
+Trial 109 | Beam: 19 | Noise: 1494 | Pen: 2 | Trn: 127 | Bte: 189 | Grb: 50 | Time: 16ms | Nodes: 11510 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 110 | Beam: 49 | Noise: 1124 | Pen: 3 | Trn: 126 | Bte: 107 | Grb: 43 | Time: 49ms | Nodes: 24699 | Result: Failed [Early Stopped (Stuck)] (Turn: 127, Matched: 24/192, Garbage: 0)
+Trial 111 | Beam: 35 | Noise: 605 | Pen: 2 | Trn: 172 | Bte: 50 | Grb: 68 | Time: 57ms | Nodes: 18942 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 112 | Beam: 20 | Noise: 535 | Pen: 1 | Trn: 16 | Bte: 284 | Grb: 20 | Time: 106ms | Nodes: 82557 | Result: Failed [Early Stopped (Stuck)] (Turn: 3863, Matched: 145/192, Garbage: 0)
+Trial 113 | Beam: 42 | Noise: 1740 | Pen: 2 | Trn: 297 | Bte: 310 | Grb: 74 | Time: 40ms | Nodes: 28979 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 114 | Beam: 22 | Noise: 558 | Pen: 3 | Trn: 226 | Bte: 125 | Grb: 77 | Time: 19ms | Nodes: 6565 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 23/192, Garbage: 0)
+Trial 115 | Beam: 32 | Noise: 604 | Pen: 2 | Trn: 54 | Bte: 223 | Grb: 74 | Time: 65ms | Nodes: 31912 | Result: Failed [Early Stopped (Stuck)] (Turn: 1028, Matched: 28/192, Garbage: 0)
+Trial 116 | Beam: 26 | Noise: 1099 | Pen: 1 | Trn: 30 | Bte: 443 | Grb: 26 | Time: 29ms | Nodes: 17824 | Result: Failed [Early Stopped (Stuck)] (Turn: 249, Matched: 24/192, Garbage: 0)
+Trial 117 | Beam: 12 | Noise: 1735 | Pen: 3 | Trn: 255 | Bte: 420 | Grb: 4 | Time: 10ms | Nodes: 7145 | Result: Failed [Early Stopped (Stuck)] (Turn: 117, Matched: 24/192, Garbage: 0)
+Trial 118 | Beam: 37 | Noise: 1750 | Pen: 3 | Trn: 240 | Bte: 301 | Grb: 25 | Time: 190ms | Nodes: 137088 | Result: 4388 moves
+Trial 119 | Beam: 47 | Noise: 1486 | Pen: 2 | Trn: 300 | Bte: 280 | Grb: 99 | Time: 42ms | Nodes: 19510 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 24/192, Garbage: 0)
+Trial 120 | Beam: 29 | Noise: 1471 | Pen: 1 | Trn: 185 | Bte: 119 | Grb: 73 | Time: 30ms | Nodes: 24677 | Result: Failed [Early Stopped (Stuck)] (Turn: 204, Matched: 24/192, Garbage: 0)
+Trial 121 | Beam: 13 | Noise: 943 | Pen: 3 | Trn: 273 | Bte: 412 | Grb: 34 | Time: 15ms | Nodes: 12330 | Result: Failed [Early Stopped (Stuck)] (Turn: 339, Matched: 24/192, Garbage: 0)
+Trial 122 | Beam: 47 | Noise: 1553 | Pen: 1 | Trn: 55 | Bte: 274 | Grb: 39 | Time: 100ms | Nodes: 51713 | Result: Failed [Early Stopped (Stuck)] (Turn: 785, Matched: 28/192, Garbage: 0)
+Trial 123 | Beam: 26 | Noise: 1391 | Pen: 3 | Trn: 148 | Bte: 104 | Grb: 23 | Time: 218ms | Nodes: 120254 | Result: Failed [Early Stopped (Stuck)] (Turn: 6262, Matched: 124/192, Garbage: 0)
+Trial 124 | Beam: 32 | Noise: 1601 | Pen: 3 | Trn: 35 | Bte: 427 | Grb: 63 | Time: 173ms | Nodes: 115036 | Result: 4113 moves
+Trial 125 | Beam: 22 | Noise: 1278 | Pen: 3 | Trn: 16 | Bte: 240 | Grb: 81 | Time: 122ms | Nodes: 90156 | Result: 5013 moves
+Trial 126 | Beam: 23 | Noise: 1781 | Pen: 3 | Trn: 63 | Bte: 378 | Grb: 48 | Time: 22ms | Nodes: 18097 | Result: Failed [Early Stopped (Stuck)] (Turn: 152, Matched: 24/192, Garbage: 4)
+Trial 127 | Beam: 13 | Noise: 1128 | Pen: 2 | Trn: 35 | Bte: 69 | Grb: 62 | Time: 96ms | Nodes: 39197 | Result: Failed [Early Stopped (Stuck)] (Turn: 5029, Matched: 54/192, Garbage: 5)
+Trial 128 | Beam: 32 | Noise: 1836 | Pen: 3 | Trn: 74 | Bte: 360 | Grb: 99 | Time: 50ms | Nodes: 29075 | Result: Failed [Early Stopped (Stuck)] (Turn: 599, Matched: 34/192, Garbage: 0)
+Trial 129 | Beam: 13 | Noise: 582 | Pen: 3 | Trn: 91 | Bte: 500 | Grb: 84 | Time: 14ms | Nodes: 11119 | Result: Failed [Early Stopped (Stuck)] (Turn: 17, Matched: 10/192, Garbage: 0)
+Trial 130 | Beam: 40 | Noise: 686 | Pen: 2 | Trn: 14 | Bte: 40 | Grb: 11 | Time: 61ms | Nodes: 22003 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 20/192, Garbage: 0)
+Trial 131 | Beam: 38 | Noise: 1450 | Pen: 3 | Trn: 55 | Bte: 115 | Grb: 82 | Time: 35ms | Nodes: 18567 | Result: Failed [Early Stopped (Stuck)] (Turn: 83, Matched: 24/192, Garbage: 0)
+Trial 132 | Beam: 25 | Noise: 883 | Pen: 2 | Trn: 112 | Bte: 361 | Grb: 27 | Time: 164ms | Nodes: 121681 | Result: 5540 moves
+Trial 133 | Beam: 27 | Noise: 628 | Pen: 1 | Trn: 88 | Bte: 182 | Grb: 92 | Time: 33ms | Nodes: 17193 | Result: Failed [Early Stopped (Stuck)] (Turn: 351, Matched: 24/192, Garbage: 0)
+Trial 134 | Beam: 18 | Noise: 990 | Pen: 1 | Trn: 200 | Bte: 450 | Grb: 91 | Time: 19ms | Nodes: 15911 | Result: Failed [Early Stopped (Stuck)] (Turn: 177, Matched: 24/192, Garbage: 0)
+Trial 135 | Beam: 47 | Noise: 1710 | Pen: 1 | Trn: 284 | Bte: 280 | Grb: 74 | Time: 43ms | Nodes: 23415 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 136 | Beam: 50 | Noise: 1877 | Pen: 2 | Trn: 34 | Bte: 442 | Grb: 56 | Time: 47ms | Nodes: 30073 | Result: Failed [Early Stopped (Stuck)] (Turn: 49, Matched: 24/192, Garbage: 0)
+Trial 137 | Beam: 50 | Noise: 1660 | Pen: 3 | Trn: 43 | Bte: 103 | Grb: 38 | Time: 48ms | Nodes: 24399 | Result: Failed [Early Stopped (Stuck)] (Turn: 57, Matched: 24/192, Garbage: 7)
+Trial 138 | Beam: 28 | Noise: 1442 | Pen: 3 | Trn: 183 | Bte: 22 | Grb: 82 | Time: 25ms | Nodes: 12058 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 24/192, Garbage: 0)
+Trial 139 | Beam: 35 | Noise: 1549 | Pen: 3 | Trn: 25 | Bte: 167 | Grb: 15 | Time: 33ms | Nodes: 19354 | Result: Failed [Early Stopped (Stuck)] (Turn: 73, Matched: 24/192, Garbage: 12)
+Trial 140 | Beam: 38 | Noise: 1073 | Pen: 2 | Trn: 239 | Bte: 299 | Grb: 43 | Time: 35ms | Nodes: 23803 | Result: Failed [Early Stopped (Stuck)] (Turn: 79, Matched: 24/192, Garbage: 0)
+Trial 141 | Beam: 33 | Noise: 1208 | Pen: 2 | Trn: 275 | Bte: 86 | Grb: 97 | Time: 50ms | Nodes: 18757 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 20/192, Garbage: 0)
+Trial 142 | Beam: 48 | Noise: 1793 | Pen: 1 | Trn: 103 | Bte: 141 | Grb: 35 | Time: 193ms | Nodes: 122225 | Result: 2956 moves  <-- Best Updated!
+Trial 143 | Beam: 35 | Noise: 582 | Pen: 2 | Trn: 157 | Bte: 223 | Grb: 88 | Time: 31ms | Nodes: 18943 | Result: Failed [Early Stopped (Stuck)] (Turn: 63, Matched: 24/192, Garbage: 0)
+Trial 144 | Beam: 43 | Noise: 533 | Pen: 1 | Trn: 286 | Bte: 98 | Grb: 0 | Time: 28ms | Nodes: 10885 | Result: Failed [Time Out] (Turn: 407, Matched: 42/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (2956 moves) [Trial 142]
+  -> Beam: 48, Noise: 1793, Pen: 1, Trn: 103, Bte: 141, Grb: 35
+Rank 2 (3287 moves) [Trial 108]
+  -> Beam: 38, Noise: 725, Pen: 3, Trn: 201, Bte: 403, Grb: 80
+Rank 3 (4024 moves) [Trial 61]
+  -> Beam: 38, Noise: 1067, Pen: 3, Trn: 78, Bte: 124, Grb: 8
+Rank 4 (4111 moves) [Trial 57]
+  -> Beam: 44, Noise: 1704, Pen: 3, Trn: 39, Bte: 462, Grb: 22
+Rank 5 (4113 moves) [Trial 124]
+  -> Beam: 32, Noise: 1601, Pen: 3, Trn: 35, Bte: 427, Grb: 63
+Rank 6 (4235 moves) [Trial 48]
+  -> Beam: 27, Noise: 742, Pen: 1, Trn: 216, Bte: 360, Grb: 16
+Rank 7 (4242 moves) [Trial 62]
+  -> Beam: 38, Noise: 1010, Pen: 3, Trn: 271, Bte: 466, Grb: 7
+Rank 8 (4274 moves) [Trial 49]
+  -> Beam: 25, Noise: 924, Pen: 1, Trn: 279, Bte: 124, Grb: 25
+Rank 9 (4370 moves) [Trial 30]
+  -> Beam: 36, Noise: 1558, Pen: 3, Trn: 99, Bte: 320, Grb: 37
+Rank 10 (4388 moves) [Trial 118]
+  -> Beam: 37, Noise: 1750, Pen: 3, Trn: 240, Bte: 301, Grb: 25
+Rank 11 (4457 moves) [Trial 83]
+  -> Beam: 27, Noise: 887, Pen: 2, Trn: 27, Bte: 138, Grb: 4
+Rank 12 (4641 moves) [Trial 44]
+  -> Beam: 47, Noise: 1913, Pen: 1, Trn: 98, Bte: 220, Grb: 51
+Rank 13 (4773 moves) [Trial 75]
+  -> Beam: 35, Noise: 1302, Pen: 2, Trn: 199, Bte: 294, Grb: 64
+Rank 14 (5013 moves) [Trial 125]
+  -> Beam: 22, Noise: 1278, Pen: 3, Trn: 16, Bte: 240, Grb: 81
+Rank 15 (5021 moves) [Trial 84]
+  -> Beam: 24, Noise: 1585, Pen: 1, Trn: 217, Bte: 424, Grb: 60
+Rank 16 (5185 moves) [Trial 105]
+  -> Beam: 21, Noise: 947, Pen: 3, Trn: 103, Bte: 400, Grb: 92
+Rank 17 (5540 moves) [Trial 132]
+  -> Beam: 25, Noise: 883, Pen: 2, Trn: 112, Bte: 361, Grb: 27
+Rank 18 (5723 moves) [Trial 33]
+  -> Beam: 29, Noise: 524, Pen: 1, Trn: 40, Bte: 438, Grb: 46
+Rank 19 (5934 moves) [Trial 41]
+  -> Beam: 22, Noise: 554, Pen: 3, Trn: 145, Bte: 264, Grb: 67
+Rank 20 (5947 moves) [Trial 45]
+  -> Beam: 37, Noise: 1861, Pen: 3, Trn: 240, Bte: 239, Grb: 94
+Rank 21 (5958 moves) [Trial 12]
+  -> Beam: 37, Noise: 1696, Pen: 3, Trn: 216, Bte: 281, Grb: 50
+Rank 22 (6604 moves) [Trial 2]
+  -> Beam: 23, Noise: 504, Pen: 2, Trn: 141, Bte: 104, Grb: 61
+Rank 23 (6774 moves) [Trial 16]
+  -> Beam: 21, Noise: 1711, Pen: 2, Trn: 210, Bte: 154, Grb: 15
+Rank 24 (7133 moves) [Trial 86]
+  -> Beam: 29, Noise: 1087, Pen: 2, Trn: 30, Bte: 129, Grb: 82
+Rank 25 (7907 moves) [Trial 36]
+  -> Beam: 17, Noise: 1285, Pen: 1, Trn: 229, Bte: 322, Grb: 69
+======================================
+
+Final Best Moves: 2956
+
+### seed:57 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : Failed (Time out or Dead End)
+Difficulty   : HARD
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 11 | Noise: 1541 | Pen: 3 | Trn: 287 | Bte: 456 | Grb: 7 | Time: 16ms | Nodes: 10132 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 12/192, Garbage: 0)
+Trial 2 | Beam: 44 | Noise: 1740 | Pen: 2 | Trn: 257 | Bte: 365 | Grb: 7 | Time: 69ms | Nodes: 36863 | Result: Failed [Early Stopped (Stuck)] (Turn: 17, Matched: 10/192, Garbage: 0)
+Trial 3 | Beam: 22 | Noise: 1861 | Pen: 1 | Trn: 148 | Bte: 432 | Grb: 42 | Time: 174ms | Nodes: 121813 | Result: 6653 moves  <-- Best Updated!
+Trial 4 | Beam: 41 | Noise: 1798 | Pen: 2 | Trn: 179 | Bte: 161 | Grb: 10 | Time: 299ms | Nodes: 189404 | Result: 5773 moves  <-- Best Updated!
+Trial 5 | Beam: 30 | Noise: 1959 | Pen: 3 | Trn: 298 | Bte: 488 | Grb: 55 | Time: 66ms | Nodes: 28794 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 14/192, Garbage: 0)
+Trial 6 | Beam: 15 | Noise: 1134 | Pen: 3 | Trn: 300 | Bte: 40 | Grb: 46 | Time: 20ms | Nodes: 6827 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 10/192, Garbage: 0)
+Trial 7 | Beam: 24 | Noise: 1735 | Pen: 3 | Trn: 180 | Bte: 117 | Grb: 25 | Time: 39ms | Nodes: 16257 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 14/192, Garbage: 0)
+Trial 8 | Beam: 47 | Noise: 658 | Pen: 1 | Trn: 213 | Bte: 139 | Grb: 82 | Time: 71ms | Nodes: 31872 | Result: Failed [Early Stopped (Stuck)] (Turn: 121, Matched: 36/192, Garbage: 0)
+Trial 9 | Beam: 18 | Noise: 778 | Pen: 3 | Trn: 132 | Bte: 102 | Grb: 1 | Time: 91ms | Nodes: 52964 | Result: Failed [Early Stopped (Stuck)] (Turn: 2989, Matched: 135/192, Garbage: 0)
+Trial 10 | Beam: 19 | Noise: 1210 | Pen: 1 | Trn: 133 | Bte: 479 | Grb: 87 | Time: 27ms | Nodes: 18390 | Result: Failed [Early Stopped (Stuck)] (Turn: 237, Matched: 36/192, Garbage: 0)
+Trial 11 | Beam: 38 | Noise: 1473 | Pen: 3 | Trn: 276 | Bte: 427 | Grb: 42 | Time: 89ms | Nodes: 33669 | Result: Failed [Early Stopped (Stuck)] (Turn: 56, Matched: 20/192, Garbage: 0)
+Trial 12 | Beam: 25 | Noise: 1397 | Pen: 3 | Trn: 279 | Bte: 340 | Grb: 13 | Time: 113ms | Nodes: 67628 | Result: Failed [Early Stopped (Stuck)] (Turn: 2419, Matched: 120/192, Garbage: 0)
+Trial 13 | Beam: 24 | Noise: 811 | Pen: 3 | Trn: 68 | Bte: 369 | Grb: 94 | Time: 147ms | Nodes: 102111 | Result: 4999 moves  <-- Best Updated!
+Trial 14 | Beam: 23 | Noise: 802 | Pen: 1 | Trn: 88 | Bte: 320 | Grb: 79 | Time: 45ms | Nodes: 20564 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 15 | Beam: 12 | Noise: 1748 | Pen: 2 | Trn: 213 | Bte: 201 | Grb: 25 | Time: 14ms | Nodes: 7869 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 8/192, Garbage: 0)
+Trial 16 | Beam: 44 | Noise: 1660 | Pen: 2 | Trn: 282 | Bte: 219 | Grb: 28 | Time: 96ms | Nodes: 34222 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 14/192, Garbage: 0)
+Trial 17 | Beam: 39 | Noise: 519 | Pen: 3 | Trn: 88 | Bte: 40 | Grb: 62 | Time: 91ms | Nodes: 20280 | Result: Failed [Early Stopped (Stuck)] (Turn: 65, Matched: 20/192, Garbage: 0)
+Trial 18 | Beam: 12 | Noise: 999 | Pen: 2 | Trn: 36 | Bte: 315 | Grb: 13 | Time: 18ms | Nodes: 7337 | Result: Failed [Early Stopped (Stuck)] (Turn: 8, Matched: 6/192, Garbage: 0)
+Trial 19 | Beam: 23 | Noise: 1813 | Pen: 2 | Trn: 99 | Bte: 398 | Grb: 87 | Time: 142ms | Nodes: 97499 | Result: 5015 moves
+Trial 20 | Beam: 27 | Noise: 1472 | Pen: 3 | Trn: 74 | Bte: 242 | Grb: 20 | Time: 61ms | Nodes: 24211 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 21 | Beam: 37 | Noise: 1050 | Pen: 1 | Trn: 72 | Bte: 483 | Grb: 24 | Time: 239ms | Nodes: 180481 | Result: 5408 moves
+Trial 22 | Beam: 15 | Noise: 1051 | Pen: 2 | Trn: 90 | Bte: 92 | Grb: 1 | Time: 28ms | Nodes: 14046 | Result: Failed [Early Stopped (Stuck)] (Turn: 652, Matched: 36/192, Garbage: 1)
+Trial 23 | Beam: 27 | Noise: 1239 | Pen: 3 | Trn: 83 | Bte: 403 | Grb: 98 | Time: 41ms | Nodes: 24835 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 12/192, Garbage: 0)
+Trial 24 | Beam: 13 | Noise: 1013 | Pen: 3 | Trn: 259 | Bte: 98 | Grb: 28 | Time: 14ms | Nodes: 8141 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 25 | Beam: 29 | Noise: 1367 | Pen: 2 | Trn: 241 | Bte: 49 | Grb: 73 | Time: 53ms | Nodes: 14699 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 14/192, Garbage: 0)
+Trial 26 | Beam: 22 | Noise: 1665 | Pen: 1 | Trn: 166 | Bte: 208 | Grb: 21 | Time: 38ms | Nodes: 16652 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 27 | Beam: 44 | Noise: 1397 | Pen: 2 | Trn: 200 | Bte: 366 | Grb: 94 | Time: 69ms | Nodes: 39654 | Result: Failed [Early Stopped (Stuck)] (Turn: 230, Matched: 36/192, Garbage: 0)
+Trial 28 | Beam: 14 | Noise: 801 | Pen: 2 | Trn: 208 | Bte: 61 | Grb: 93 | Time: 16ms | Nodes: 6455 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 8/192, Garbage: 0)
+Trial 29 | Beam: 41 | Noise: 892 | Pen: 3 | Trn: 218 | Bte: 214 | Grb: 92 | Time: 48ms | Nodes: 30860 | Result: Failed [Early Stopped (Stuck)] (Turn: 42, Matched: 18/192, Garbage: 0)
+Trial 30 | Beam: 22 | Noise: 1682 | Pen: 1 | Trn: 234 | Bte: 222 | Grb: 82 | Time: 26ms | Nodes: 12642 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 8/192, Garbage: 0)
+Trial 31 | Beam: 28 | Noise: 1147 | Pen: 3 | Trn: 197 | Bte: 457 | Grb: 13 | Time: 57ms | Nodes: 26829 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 32 | Beam: 41 | Noise: 1171 | Pen: 2 | Trn: 168 | Bte: 78 | Grb: 93 | Time: 207ms | Nodes: 150297 | Result: 4247 moves  <-- Best Updated!
+Trial 33 | Beam: 12 | Noise: 1679 | Pen: 2 | Trn: 291 | Bte: 110 | Grb: 42 | Time: 14ms | Nodes: 7085 | Result: Failed [Early Stopped (Stuck)] (Turn: 15, Matched: 10/192, Garbage: 0)
+Trial 34 | Beam: 29 | Noise: 1676 | Pen: 2 | Trn: 216 | Bte: 336 | Grb: 94 | Time: 44ms | Nodes: 24920 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 35 | Beam: 45 | Noise: 1891 | Pen: 1 | Trn: 54 | Bte: 201 | Grb: 43 | Time: 300ms | Nodes: 200598 | Result: Failed [Time Out] (Turn: 5392, Matched: 191/192, Garbage: 0)
+Trial 36 | Beam: 20 | Noise: 1657 | Pen: 1 | Trn: 151 | Bte: 448 | Grb: 2 | Time: 26ms | Nodes: 15126 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 8/192, Garbage: 0)
+Trial 37 | Beam: 43 | Noise: 1576 | Pen: 1 | Trn: 88 | Bte: 204 | Grb: 16 | Time: 61ms | Nodes: 28537 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 10/192, Garbage: 0)
+Trial 38 | Beam: 34 | Noise: 896 | Pen: 2 | Trn: 282 | Bte: 468 | Grb: 88 | Time: 51ms | Nodes: 29363 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 10/192, Garbage: 0)
+Trial 39 | Beam: 45 | Noise: 817 | Pen: 1 | Trn: 114 | Bte: 481 | Grb: 9 | Time: 198ms | Nodes: 148125 | Result: 3681 moves  <-- Best Updated!
+Trial 40 | Beam: 16 | Noise: 1342 | Pen: 2 | Trn: 126 | Bte: 40 | Grb: 100 | Time: 19ms | Nodes: 6852 | Result: Failed [Early Stopped (Stuck)] (Turn: 17, Matched: 10/192, Garbage: 0)
+Trial 41 | Beam: 20 | Noise: 1198 | Pen: 1 | Trn: 278 | Bte: 261 | Grb: 43 | Time: 35ms | Nodes: 16075 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 42 | Beam: 30 | Noise: 889 | Pen: 3 | Trn: 127 | Bte: 85 | Grb: 67 | Time: 66ms | Nodes: 19597 | Result: Failed [Early Stopped (Stuck)] (Turn: 68, Matched: 20/192, Garbage: 0)
+Trial 43 | Beam: 39 | Noise: 1335 | Pen: 3 | Trn: 167 | Bte: 274 | Grb: 68 | Time: 222ms | Nodes: 144408 | Result: 4265 moves
+Trial 44 | Beam: 37 | Noise: 917 | Pen: 2 | Trn: 120 | Bte: 75 | Grb: 9 | Time: 66ms | Nodes: 22857 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 14/192, Garbage: 0)
+Trial 45 | Beam: 47 | Noise: 1437 | Pen: 2 | Trn: 120 | Bte: 239 | Grb: 86 | Time: 213ms | Nodes: 154280 | Result: 3532 moves  <-- Best Updated!
+Trial 46 | Beam: 16 | Noise: 1336 | Pen: 3 | Trn: 186 | Bte: 293 | Grb: 30 | Time: 33ms | Nodes: 14703 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 47 | Beam: 31 | Noise: 744 | Pen: 3 | Trn: 166 | Bte: 52 | Grb: 53 | Time: 44ms | Nodes: 15462 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 48 | Beam: 12 | Noise: 1999 | Pen: 2 | Trn: 93 | Bte: 49 | Grb: 75 | Time: 14ms | Nodes: 4252 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 6/192, Garbage: 1)
+Trial 49 | Beam: 41 | Noise: 1159 | Pen: 2 | Trn: 59 | Bte: 61 | Grb: 85 | Time: 97ms | Nodes: 25794 | Result: Failed [Early Stopped (Stuck)] (Turn: 219, Matched: 44/192, Garbage: 0)
+Trial 50 | Beam: 34 | Noise: 900 | Pen: 2 | Trn: 245 | Bte: 415 | Grb: 86 | Time: 167ms | Nodes: 129090 | Result: 4174 moves
+Trial 51 | Beam: 26 | Noise: 762 | Pen: 2 | Trn: 286 | Bte: 436 | Grb: 43 | Time: 40ms | Nodes: 23561 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 12/192, Garbage: 0)
+Trial 52 | Beam: 38 | Noise: 1746 | Pen: 2 | Trn: 192 | Bte: 106 | Grb: 61 | Time: 81ms | Nodes: 25122 | Result: Failed [Early Stopped (Stuck)] (Turn: 79, Matched: 20/192, Garbage: 0)
+Trial 53 | Beam: 39 | Noise: 1595 | Pen: 1 | Trn: 52 | Bte: 159 | Grb: 46 | Time: 76ms | Nodes: 27038 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 14/192, Garbage: 0)
+Trial 54 | Beam: 36 | Noise: 994 | Pen: 3 | Trn: 25 | Bte: 376 | Grb: 45 | Time: 87ms | Nodes: 32077 | Result: Failed [Early Stopped (Stuck)] (Turn: 55, Matched: 20/192, Garbage: 0)
+Trial 55 | Beam: 50 | Noise: 522 | Pen: 3 | Trn: 294 | Bte: 251 | Grb: 48 | Time: 151ms | Nodes: 49945 | Result: Failed [Early Stopped (Stuck)] (Turn: 478, Matched: 47/192, Garbage: 0)
+Trial 56 | Beam: 29 | Noise: 806 | Pen: 2 | Trn: 29 | Bte: 87 | Grb: 71 | Time: 38ms | Nodes: 17897 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 12/192, Garbage: 3)
+Trial 57 | Beam: 32 | Noise: 1072 | Pen: 1 | Trn: 161 | Bte: 142 | Grb: 67 | Time: 36ms | Nodes: 22583 | Result: Failed [Early Stopped (Stuck)] (Turn: 58, Matched: 18/192, Garbage: 0)
+Trial 58 | Beam: 42 | Noise: 601 | Pen: 3 | Trn: 176 | Bte: 384 | Grb: 49 | Time: 253ms | Nodes: 182679 | Result: 5073 moves
+Trial 59 | Beam: 40 | Noise: 1265 | Pen: 1 | Trn: 270 | Bte: 244 | Grb: 14 | Time: 84ms | Nodes: 31156 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 14/192, Garbage: 0)
+Trial 60 | Beam: 21 | Noise: 1380 | Pen: 2 | Trn: 287 | Bte: 308 | Grb: 78 | Time: 39ms | Nodes: 18767 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 61 | Beam: 13 | Noise: 872 | Pen: 3 | Trn: 223 | Bte: 472 | Grb: 90 | Time: 19ms | Nodes: 12175 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 12/192, Garbage: 0)
+Trial 62 | Beam: 45 | Noise: 1147 | Pen: 3 | Trn: 257 | Bte: 74 | Grb: 31 | Time: 300ms | Nodes: 173295 | Result: Failed [Time Out] (Turn: 3915, Matched: 161/192, Garbage: 0)
+Trial 63 | Beam: 10 | Noise: 1731 | Pen: 3 | Trn: 154 | Bte: 59 | Grb: 72 | Time: 14ms | Nodes: 5377 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 16/192, Garbage: 0)
+Trial 64 | Beam: 26 | Noise: 1024 | Pen: 2 | Trn: 137 | Bte: 136 | Grb: 68 | Time: 34ms | Nodes: 16652 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 8/192, Garbage: 0)
+Trial 65 | Beam: 36 | Noise: 1775 | Pen: 2 | Trn: 49 | Bte: 164 | Grb: 75 | Time: 82ms | Nodes: 26181 | Result: Failed [Early Stopped (Stuck)] (Turn: 70, Matched: 20/192, Garbage: 0)
+Trial 66 | Beam: 24 | Noise: 1950 | Pen: 1 | Trn: 93 | Bte: 53 | Grb: 31 | Time: 38ms | Nodes: 15693 | Result: Failed [Early Stopped (Stuck)] (Turn: 177, Matched: 28/192, Garbage: 1)
+Trial 67 | Beam: 25 | Noise: 1190 | Pen: 3 | Trn: 252 | Bte: 492 | Grb: 66 | Time: 152ms | Nodes: 111773 | Result: 5182 moves
+Trial 68 | Beam: 29 | Noise: 1005 | Pen: 2 | Trn: 265 | Bte: 109 | Grb: 33 | Time: 242ms | Nodes: 154263 | Result: Failed [Early Stopped (Stuck)] (Turn: 5574, Matched: 163/192, Garbage: 0)
+Trial 69 | Beam: 50 | Noise: 1396 | Pen: 2 | Trn: 55 | Bte: 427 | Grb: 0 | Time: 114ms | Nodes: 47613 | Result: Failed [Early Stopped (Stuck)] (Turn: 56, Matched: 20/192, Garbage: 0)
+Trial 70 | Beam: 13 | Noise: 585 | Pen: 2 | Trn: 216 | Bte: 285 | Grb: 54 | Time: 17ms | Nodes: 11479 | Result: Failed [Early Stopped (Stuck)] (Turn: 39, Matched: 12/192, Garbage: 0)
+Trial 71 | Beam: 26 | Noise: 883 | Pen: 3 | Trn: 191 | Bte: 319 | Grb: 96 | Time: 188ms | Nodes: 128337 | Result: 5870 moves
+Trial 72 | Beam: 31 | Noise: 588 | Pen: 2 | Trn: 276 | Bte: 30 | Grb: 56 | Time: 44ms | Nodes: 21142 | Result: Failed [Early Stopped (Stuck)] (Turn: 259, Matched: 32/192, Garbage: 0)
+Trial 73 | Beam: 10 | Noise: 1860 | Pen: 2 | Trn: 205 | Bte: 455 | Grb: 96 | Time: 12ms | Nodes: 8490 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 10/192, Garbage: 0)
+Trial 74 | Beam: 29 | Noise: 1014 | Pen: 2 | Trn: 182 | Bte: 112 | Grb: 81 | Time: 55ms | Nodes: 19470 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 75 | Beam: 17 | Noise: 894 | Pen: 2 | Trn: 152 | Bte: 120 | Grb: 53 | Time: 23ms | Nodes: 9483 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 6/192, Garbage: 0)
+Trial 76 | Beam: 44 | Noise: 1076 | Pen: 2 | Trn: 148 | Bte: 176 | Grb: 95 | Time: 52ms | Nodes: 31760 | Result: Failed [Early Stopped (Stuck)] (Turn: 42, Matched: 18/192, Garbage: 0)
+Trial 77 | Beam: 42 | Noise: 1423 | Pen: 2 | Trn: 287 | Bte: 327 | Grb: 57 | Time: 300ms | Nodes: 181154 | Result: Failed [Time Out] (Turn: 5813, Matched: 180/192, Garbage: 0)
+Trial 78 | Beam: 21 | Noise: 1415 | Pen: 2 | Trn: 158 | Bte: 86 | Grb: 42 | Time: 26ms | Nodes: 12557 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 79 | Beam: 21 | Noise: 1724 | Pen: 1 | Trn: 235 | Bte: 292 | Grb: 88 | Time: 28ms | Nodes: 15880 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 80 | Beam: 18 | Noise: 1087 | Pen: 2 | Trn: 30 | Bte: 30 | Grb: 5 | Time: 21ms | Nodes: 7917 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 10/192, Garbage: 4)
+Trial 81 | Beam: 15 | Noise: 1559 | Pen: 2 | Trn: 21 | Bte: 123 | Grb: 94 | Time: 25ms | Nodes: 9939 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 14/192, Garbage: 0)
+Trial 82 | Beam: 26 | Noise: 909 | Pen: 1 | Trn: 275 | Bte: 34 | Grb: 94 | Time: 37ms | Nodes: 11662 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 12/192, Garbage: 0)
+Trial 83 | Beam: 34 | Noise: 957 | Pen: 3 | Trn: 292 | Bte: 47 | Grb: 43 | Time: 61ms | Nodes: 17534 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 14/192, Garbage: 0)
+Trial 84 | Beam: 34 | Noise: 679 | Pen: 3 | Trn: 150 | Bte: 24 | Grb: 43 | Time: 46ms | Nodes: 13346 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 10/192, Garbage: 0)
+Trial 85 | Beam: 10 | Noise: 1806 | Pen: 3 | Trn: 283 | Bte: 133 | Grb: 45 | Time: 11ms | Nodes: 6708 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 12/192, Garbage: 0)
+Trial 86 | Beam: 30 | Noise: 1279 | Pen: 1 | Trn: 212 | Bte: 229 | Grb: 79 | Time: 96ms | Nodes: 40406 | Result: Failed [Early Stopped (Stuck)] (Turn: 1049, Matched: 56/192, Garbage: 0)
+Trial 87 | Beam: 39 | Noise: 544 | Pen: 3 | Trn: 94 | Bte: 281 | Grb: 5 | Time: 206ms | Nodes: 155401 | Result: 4395 moves
+Trial 88 | Beam: 38 | Noise: 1350 | Pen: 1 | Trn: 277 | Bte: 269 | Grb: 55 | Time: 170ms | Nodes: 60677 | Result: Failed [Early Stopped (Stuck)] (Turn: 1407, Matched: 48/192, Garbage: 0)
+Trial 89 | Beam: 32 | Noise: 1346 | Pen: 1 | Trn: 36 | Bte: 446 | Grb: 98 | Time: 75ms | Nodes: 42561 | Result: Failed [Early Stopped (Stuck)] (Turn: 962, Matched: 32/192, Garbage: 0)
+Trial 90 | Beam: 38 | Noise: 756 | Pen: 3 | Trn: 277 | Bte: 323 | Grb: 25 | Time: 65ms | Nodes: 35055 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 12/192, Garbage: 0)
+Trial 91 | Beam: 38 | Noise: 738 | Pen: 3 | Trn: 255 | Bte: 401 | Grb: 64 | Time: 300ms | Nodes: 222127 | Result: Failed [Time Out] (Turn: 6784, Matched: 191/192, Garbage: 0)
+Trial 92 | Beam: 11 | Noise: 989 | Pen: 3 | Trn: 243 | Bte: 112 | Grb: 9 | Time: 13ms | Nodes: 6969 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 10/192, Garbage: 0)
+Trial 93 | Beam: 49 | Noise: 901 | Pen: 2 | Trn: 253 | Bte: 13 | Grb: 61 | Time: 67ms | Nodes: 23101 | Result: Failed [Early Stopped (Stuck)] (Turn: 108, Matched: 32/192, Garbage: 0)
+Trial 94 | Beam: 33 | Noise: 532 | Pen: 3 | Trn: 48 | Bte: 470 | Grb: 99 | Time: 183ms | Nodes: 123202 | Result: 4334 moves
+Trial 95 | Beam: 15 | Noise: 1291 | Pen: 1 | Trn: 67 | Bte: 354 | Grb: 68 | Time: 81ms | Nodes: 54298 | Result: Failed [Early Stopped (Stuck)] (Turn: 3282, Matched: 135/192, Garbage: 0)
+Trial 96 | Beam: 19 | Noise: 1849 | Pen: 2 | Trn: 113 | Bte: 91 | Grb: 43 | Time: 22ms | Nodes: 9353 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 8/192, Garbage: 1)
+Trial 97 | Beam: 15 | Noise: 1341 | Pen: 1 | Trn: 135 | Bte: 414 | Grb: 88 | Time: 18ms | Nodes: 12174 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 10/192, Garbage: 0)
+Trial 98 | Beam: 30 | Noise: 667 | Pen: 1 | Trn: 211 | Bte: 107 | Grb: 62 | Time: 100ms | Nodes: 28032 | Result: Failed [Early Stopped (Stuck)] (Turn: 603, Matched: 47/192, Garbage: 0)
+Trial 99 | Beam: 18 | Noise: 1178 | Pen: 1 | Trn: 242 | Bte: 347 | Grb: 15 | Time: 156ms | Nodes: 116957 | Result: 7628 moves
+Trial 100 | Beam: 12 | Noise: 1206 | Pen: 1 | Trn: 261 | Bte: 174 | Grb: 96 | Time: 13ms | Nodes: 7864 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 10/192, Garbage: 0)
+Trial 101 | Beam: 32 | Noise: 513 | Pen: 3 | Trn: 210 | Bte: 224 | Grb: 77 | Time: 173ms | Nodes: 75276 | Result: Failed [Early Stopped (Stuck)] (Turn: 2662, Matched: 36/192, Garbage: 0)
+Trial 102 | Beam: 27 | Noise: 782 | Pen: 3 | Trn: 112 | Bte: 415 | Grb: 30 | Time: 52ms | Nodes: 26230 | Result: Failed [Early Stopped (Stuck)] (Turn: 51, Matched: 16/192, Garbage: 0)
+Trial 103 | Beam: 25 | Noise: 1925 | Pen: 2 | Trn: 13 | Bte: 435 | Grb: 34 | Time: 37ms | Nodes: 21092 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 10/192, Garbage: 2)
+Trial 104 | Beam: 43 | Noise: 801 | Pen: 1 | Trn: 241 | Bte: 138 | Grb: 86 | Time: 108ms | Nodes: 30323 | Result: Failed [Early Stopped (Stuck)] (Turn: 77, Matched: 20/192, Garbage: 0)
+Trial 105 | Beam: 25 | Noise: 980 | Pen: 1 | Trn: 226 | Bte: 24 | Grb: 6 | Time: 38ms | Nodes: 8985 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 6/192, Garbage: 3)
+Trial 106 | Beam: 35 | Noise: 523 | Pen: 2 | Trn: 285 | Bte: 368 | Grb: 12 | Time: 60ms | Nodes: 31739 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 12/192, Garbage: 0)
+Trial 107 | Beam: 27 | Noise: 916 | Pen: 1 | Trn: 209 | Bte: 79 | Grb: 35 | Time: 91ms | Nodes: 31559 | Result: Failed [Early Stopped (Stuck)] (Turn: 1068, Matched: 38/192, Garbage: 0)
+Trial 108 | Beam: 36 | Noise: 655 | Pen: 2 | Trn: 118 | Bte: 193 | Grb: 55 | Time: 85ms | Nodes: 64463 | Result: Failed [Early Stopped (Stuck)] (Turn: 1612, Matched: 54/192, Garbage: 0)
+Trial 109 | Beam: 23 | Noise: 1025 | Pen: 1 | Trn: 251 | Bte: 305 | Grb: 8 | Time: 54ms | Nodes: 21071 | Result: Failed [Early Stopped (Stuck)] (Turn: 56, Matched: 20/192, Garbage: 0)
+Trial 110 | Beam: 38 | Noise: 1783 | Pen: 1 | Trn: 141 | Bte: 489 | Grb: 26 | Time: 111ms | Nodes: 36673 | Result: Failed [Early Stopped (Stuck)] (Turn: 277, Matched: 46/192, Garbage: 0)
+Trial 111 | Beam: 15 | Noise: 561 | Pen: 3 | Trn: 14 | Bte: 384 | Grb: 76 | Time: 19ms | Nodes: 11744 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 8/192, Garbage: 0)
+Trial 112 | Beam: 43 | Noise: 1257 | Pen: 2 | Trn: 105 | Bte: 279 | Grb: 4 | Time: 107ms | Nodes: 39143 | Result: Failed [Early Stopped (Stuck)] (Turn: 54, Matched: 14/192, Garbage: 0)
+Trial 113 | Beam: 23 | Noise: 1229 | Pen: 3 | Trn: 121 | Bte: 389 | Grb: 14 | Time: 39ms | Nodes: 21106 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 12/192, Garbage: 0)
+Trial 114 | Beam: 36 | Noise: 1200 | Pen: 3 | Trn: 279 | Bte: 410 | Grb: 34 | Time: 165ms | Nodes: 113076 | Result: 3550 moves
+Trial 115 | Beam: 31 | Noise: 1562 | Pen: 3 | Trn: 52 | Bte: 97 | Grb: 90 | Time: 60ms | Nodes: 22789 | Result: Failed [Time Out] (Turn: 1085, Matched: 34/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (3532 moves) [Trial 45]
+  -> Beam: 47, Noise: 1437, Pen: 2, Trn: 120, Bte: 239, Grb: 86
+Rank 2 (3550 moves) [Trial 114]
+  -> Beam: 36, Noise: 1200, Pen: 3, Trn: 279, Bte: 410, Grb: 34
+Rank 3 (3681 moves) [Trial 39]
+  -> Beam: 45, Noise: 817, Pen: 1, Trn: 114, Bte: 481, Grb: 9
+Rank 4 (4174 moves) [Trial 50]
+  -> Beam: 34, Noise: 900, Pen: 2, Trn: 245, Bte: 415, Grb: 86
+Rank 5 (4247 moves) [Trial 32]
+  -> Beam: 41, Noise: 1171, Pen: 2, Trn: 168, Bte: 78, Grb: 93
+Rank 6 (4265 moves) [Trial 43]
+  -> Beam: 39, Noise: 1335, Pen: 3, Trn: 167, Bte: 274, Grb: 68
+Rank 7 (4334 moves) [Trial 94]
+  -> Beam: 33, Noise: 532, Pen: 3, Trn: 48, Bte: 470, Grb: 99
+Rank 8 (4395 moves) [Trial 87]
+  -> Beam: 39, Noise: 544, Pen: 3, Trn: 94, Bte: 281, Grb: 5
+Rank 9 (4999 moves) [Trial 13]
+  -> Beam: 24, Noise: 811, Pen: 3, Trn: 68, Bte: 369, Grb: 94
+Rank 10 (5015 moves) [Trial 19]
+  -> Beam: 23, Noise: 1813, Pen: 2, Trn: 99, Bte: 398, Grb: 87
+Rank 11 (5073 moves) [Trial 58]
+  -> Beam: 42, Noise: 601, Pen: 3, Trn: 176, Bte: 384, Grb: 49
+Rank 12 (5182 moves) [Trial 67]
+  -> Beam: 25, Noise: 1190, Pen: 3, Trn: 252, Bte: 492, Grb: 66
+Rank 13 (5408 moves) [Trial 21]
+  -> Beam: 37, Noise: 1050, Pen: 1, Trn: 72, Bte: 483, Grb: 24
+Rank 14 (5773 moves) [Trial 4]
+  -> Beam: 41, Noise: 1798, Pen: 2, Trn: 179, Bte: 161, Grb: 10
+Rank 15 (5870 moves) [Trial 71]
+  -> Beam: 26, Noise: 883, Pen: 3, Trn: 191, Bte: 319, Grb: 96
+Rank 16 (6653 moves) [Trial 3]
+  -> Beam: 22, Noise: 1861, Pen: 1, Trn: 148, Bte: 432, Grb: 42
+Rank 17 (7628 moves) [Trial 99]
+  -> Beam: 18, Noise: 1178, Pen: 1, Trn: 242, Bte: 347, Grb: 15
+======================================
+
+Final Best Moves: 3532
+
+### seed:58 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : 4099 moves
+Difficulty   : NORMAL
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 40 | Noise: 871 | Pen: 3 | Trn: 181 | Bte: 78 | Grb: 55 | Time: 44ms | Nodes: 21461 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 22/192, Garbage: 0)
+Trial 2 | Beam: 32 | Noise: 918 | Pen: 1 | Trn: 272 | Bte: 298 | Grb: 44 | Time: 159ms | Nodes: 117970 | Result: 4014 moves  <-- Best Updated!
+Trial 3 | Beam: 35 | Noise: 865 | Pen: 1 | Trn: 288 | Bte: 495 | Grb: 63 | Time: 218ms | Nodes: 146755 | Result: 5073 moves
+Trial 4 | Beam: 40 | Noise: 850 | Pen: 2 | Trn: 281 | Bte: 258 | Grb: 64 | Time: 114ms | Nodes: 36142 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 5 | Beam: 31 | Noise: 673 | Pen: 2 | Trn: 181 | Bte: 472 | Grb: 9 | Time: 99ms | Nodes: 30421 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 6 | Beam: 31 | Noise: 711 | Pen: 1 | Trn: 283 | Bte: 62 | Grb: 4 | Time: 40ms | Nodes: 18932 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 14/192, Garbage: 0)
+Trial 7 | Beam: 35 | Noise: 551 | Pen: 1 | Trn: 59 | Bte: 20 | Grb: 76 | Time: 98ms | Nodes: 15066 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 8 | Beam: 27 | Noise: 526 | Pen: 2 | Trn: 292 | Bte: 386 | Grb: 37 | Time: 124ms | Nodes: 91309 | Result: 3583 moves  <-- Best Updated!
+Trial 9 | Beam: 24 | Noise: 687 | Pen: 1 | Trn: 177 | Bte: 447 | Grb: 82 | Time: 97ms | Nodes: 59271 | Result: Failed [Early Stopped (Stuck)] (Turn: 1769, Matched: 149/192, Garbage: 0)
+Trial 10 | Beam: 24 | Noise: 587 | Pen: 2 | Trn: 116 | Bte: 373 | Grb: 89 | Time: 36ms | Nodes: 24243 | Result: Failed [Early Stopped (Stuck)] (Turn: 678, Matched: 44/192, Garbage: 0)
+Trial 11 | Beam: 37 | Noise: 436 | Pen: 2 | Trn: 170 | Bte: 399 | Grb: 81 | Time: 38ms | Nodes: 15714 | Result: Failed [Early Stopped (Stuck)] (Turn: 120, Matched: 27/192, Garbage: 0)
+Trial 12 | Beam: 38 | Noise: 904 | Pen: 3 | Trn: 248 | Bte: 156 | Grb: 45 | Time: 249ms | Nodes: 182038 | Result: 5669 moves
+Trial 13 | Beam: 21 | Noise: 1164 | Pen: 2 | Trn: 221 | Bte: 178 | Grb: 50 | Time: 22ms | Nodes: 13971 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 22/192, Garbage: 0)
+Trial 14 | Beam: 24 | Noise: 1095 | Pen: 2 | Trn: 88 | Bte: 65 | Grb: 2 | Time: 65ms | Nodes: 15499 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 15 | Beam: 30 | Noise: 798 | Pen: 1 | Trn: 278 | Bte: 350 | Grb: 76 | Time: 124ms | Nodes: 58450 | Result: Failed [Early Stopped (Stuck)] (Turn: 1447, Matched: 108/192, Garbage: 0)
+Trial 16 | Beam: 37 | Noise: 477 | Pen: 2 | Trn: 267 | Bte: 17 | Grb: 41 | Time: 40ms | Nodes: 13382 | Result: Failed [Early Stopped (Stuck)] (Turn: 50, Matched: 22/192, Garbage: 0)
+Trial 17 | Beam: 20 | Noise: 918 | Pen: 2 | Trn: 270 | Bte: 277 | Grb: 80 | Time: 30ms | Nodes: 17797 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 18 | Beam: 26 | Noise: 456 | Pen: 2 | Trn: 134 | Bte: 452 | Grb: 67 | Time: 75ms | Nodes: 25191 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 19 | Beam: 33 | Noise: 467 | Pen: 2 | Trn: 98 | Bte: 89 | Grb: 49 | Time: 154ms | Nodes: 103794 | Result: 3522 moves  <-- Best Updated!
+Trial 20 | Beam: 30 | Noise: 1170 | Pen: 3 | Trn: 220 | Bte: 488 | Grb: 74 | Time: 51ms | Nodes: 25578 | Result: Failed [Early Stopped (Stuck)] (Turn: 15, Matched: 10/192, Garbage: 0)
+Trial 21 | Beam: 28 | Noise: 871 | Pen: 2 | Trn: 262 | Bte: 408 | Grb: 11 | Time: 50ms | Nodes: 26420 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 14/192, Garbage: 0)
+Trial 22 | Beam: 36 | Noise: 795 | Pen: 1 | Trn: 50 | Bte: 302 | Grb: 59 | Time: 40ms | Nodes: 21687 | Result: Failed [Early Stopped (Stuck)] (Turn: 44, Matched: 22/192, Garbage: 0)
+Trial 23 | Beam: 33 | Noise: 405 | Pen: 3 | Trn: 90 | Bte: 64 | Grb: 82 | Time: 171ms | Nodes: 103757 | Result: Failed [Early Stopped (Stuck)] (Turn: 3069, Matched: 154/192, Garbage: 0)
+Trial 24 | Beam: 25 | Noise: 1148 | Pen: 1 | Trn: 214 | Bte: 226 | Grb: 61 | Time: 88ms | Nodes: 33919 | Result: Failed [Early Stopped (Stuck)] (Turn: 918, Matched: 58/192, Garbage: 0)
+Trial 25 | Beam: 31 | Noise: 1148 | Pen: 2 | Trn: 178 | Bte: 293 | Grb: 97 | Time: 237ms | Nodes: 144139 | Result: 5638 moves
+Trial 26 | Beam: 37 | Noise: 574 | Pen: 3 | Trn: 51 | Bte: 311 | Grb: 31 | Time: 171ms | Nodes: 101316 | Result: Failed [Early Stopped (Stuck)] (Turn: 2540, Matched: 145/192, Garbage: 0)
+Trial 27 | Beam: 26 | Noise: 626 | Pen: 2 | Trn: 213 | Bte: 265 | Grb: 61 | Time: 205ms | Nodes: 123597 | Result: Failed [Early Stopped (Stuck)] (Turn: 4867, Matched: 173/192, Garbage: 0)
+Trial 28 | Beam: 32 | Noise: 719 | Pen: 3 | Trn: 107 | Bte: 227 | Grb: 62 | Time: 156ms | Nodes: 116362 | Result: 4233 moves
+Trial 29 | Beam: 20 | Noise: 1138 | Pen: 1 | Trn: 23 | Bte: 100 | Grb: 70 | Time: 27ms | Nodes: 11933 | Result: Failed [Early Stopped (Stuck)] (Turn: 27, Matched: 14/192, Garbage: 0)
+Trial 30 | Beam: 28 | Noise: 451 | Pen: 2 | Trn: 189 | Bte: 267 | Grb: 84 | Time: 74ms | Nodes: 32870 | Result: Failed [Early Stopped (Stuck)] (Turn: 731, Matched: 40/192, Garbage: 0)
+Trial 31 | Beam: 29 | Noise: 755 | Pen: 3 | Trn: 109 | Bte: 368 | Grb: 58 | Time: 50ms | Nodes: 27140 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 32 | Beam: 38 | Noise: 849 | Pen: 2 | Trn: 180 | Bte: 490 | Grb: 59 | Time: 115ms | Nodes: 36749 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 33 | Beam: 35 | Noise: 850 | Pen: 2 | Trn: 96 | Bte: 118 | Grb: 78 | Time: 62ms | Nodes: 20482 | Result: Failed [Early Stopped (Stuck)] (Turn: 122, Matched: 34/192, Garbage: 0)
+Trial 34 | Beam: 39 | Noise: 505 | Pen: 3 | Trn: 291 | Bte: 178 | Grb: 6 | Time: 74ms | Nodes: 46961 | Result: Failed [Early Stopped (Stuck)] (Turn: 637, Matched: 44/192, Garbage: 0)
+Trial 35 | Beam: 27 | Noise: 762 | Pen: 2 | Trn: 13 | Bte: 298 | Grb: 14 | Time: 178ms | Nodes: 99284 | Result: 4138 moves
+Trial 36 | Beam: 22 | Noise: 571 | Pen: 1 | Trn: 255 | Bte: 238 | Grb: 69 | Time: 56ms | Nodes: 18611 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 37 | Beam: 40 | Noise: 526 | Pen: 1 | Trn: 220 | Bte: 484 | Grb: 100 | Time: 215ms | Nodes: 147103 | Result: 3923 moves
+Trial 38 | Beam: 36 | Noise: 1067 | Pen: 1 | Trn: 242 | Bte: 184 | Grb: 38 | Time: 259ms | Nodes: 183257 | Result: 5621 moves
+Trial 39 | Beam: 34 | Noise: 924 | Pen: 3 | Trn: 272 | Bte: 346 | Grb: 39 | Time: 202ms | Nodes: 143594 | Result: 4547 moves
+Trial 40 | Beam: 36 | Noise: 676 | Pen: 3 | Trn: 120 | Bte: 33 | Grb: 63 | Time: 35ms | Nodes: 12900 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 22/192, Garbage: 0)
+Trial 41 | Beam: 32 | Noise: 446 | Pen: 2 | Trn: 195 | Bte: 189 | Grb: 81 | Time: 33ms | Nodes: 10966 | Result: Failed [Early Stopped (Stuck)] (Turn: 73, Matched: 27/192, Garbage: 0)
+Trial 42 | Beam: 27 | Noise: 960 | Pen: 2 | Trn: 99 | Bte: 142 | Grb: 73 | Time: 59ms | Nodes: 27234 | Result: Failed [Early Stopped (Stuck)] (Turn: 710, Matched: 34/192, Garbage: 0)
+Trial 43 | Beam: 35 | Noise: 1060 | Pen: 1 | Trn: 79 | Bte: 68 | Grb: 67 | Time: 52ms | Nodes: 17189 | Result: Failed [Early Stopped (Stuck)] (Turn: 14, Matched: 10/192, Garbage: 0)
+Trial 44 | Beam: 28 | Noise: 757 | Pen: 3 | Trn: 98 | Bte: 328 | Grb: 18 | Time: 189ms | Nodes: 125132 | Result: 5171 moves
+Trial 45 | Beam: 22 | Noise: 818 | Pen: 3 | Trn: 21 | Bte: 177 | Grb: 0 | Time: 157ms | Nodes: 95804 | Result: 5486 moves
+Trial 46 | Beam: 27 | Noise: 495 | Pen: 1 | Trn: 36 | Bte: 141 | Grb: 55 | Time: 30ms | Nodes: 19272 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 22/192, Garbage: 0)
+Trial 47 | Beam: 37 | Noise: 873 | Pen: 2 | Trn: 58 | Bte: 343 | Grb: 96 | Time: 106ms | Nodes: 34943 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 48 | Beam: 21 | Noise: 482 | Pen: 2 | Trn: 135 | Bte: 251 | Grb: 9 | Time: 114ms | Nodes: 90856 | Result: 4679 moves
+Trial 49 | Beam: 26 | Noise: 571 | Pen: 1 | Trn: 216 | Bte: 146 | Grb: 98 | Time: 66ms | Nodes: 19798 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 50 | Beam: 28 | Noise: 995 | Pen: 2 | Trn: 67 | Bte: 413 | Grb: 76 | Time: 44ms | Nodes: 26153 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 14/192, Garbage: 0)
+Trial 51 | Beam: 28 | Noise: 1106 | Pen: 2 | Trn: 32 | Bte: 133 | Grb: 100 | Time: 51ms | Nodes: 31943 | Result: Failed [Early Stopped (Stuck)] (Turn: 740, Matched: 44/192, Garbage: 0)
+Trial 52 | Beam: 21 | Noise: 496 | Pen: 1 | Trn: 276 | Bte: 267 | Grb: 2 | Time: 138ms | Nodes: 95881 | Result: 5201 moves
+Trial 53 | Beam: 38 | Noise: 1091 | Pen: 2 | Trn: 18 | Bte: 223 | Grb: 31 | Time: 41ms | Nodes: 14928 | Result: Failed [Early Stopped (Stuck)] (Turn: 46, Matched: 22/192, Garbage: 0)
+Trial 54 | Beam: 25 | Noise: 797 | Pen: 3 | Trn: 150 | Bte: 185 | Grb: 23 | Time: 43ms | Nodes: 22319 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 14/192, Garbage: 0)
+Trial 55 | Beam: 38 | Noise: 998 | Pen: 2 | Trn: 193 | Bte: 229 | Grb: 74 | Time: 43ms | Nodes: 26589 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 22/192, Garbage: 0)
+Trial 56 | Beam: 27 | Noise: 890 | Pen: 1 | Trn: 99 | Bte: 147 | Grb: 15 | Time: 47ms | Nodes: 30718 | Result: Failed [Early Stopped (Stuck)] (Turn: 504, Matched: 44/192, Garbage: 0)
+Trial 57 | Beam: 34 | Noise: 411 | Pen: 2 | Trn: 164 | Bte: 298 | Grb: 74 | Time: 158ms | Nodes: 108263 | Result: 3395 moves  <-- Best Updated!
+Trial 58 | Beam: 20 | Noise: 537 | Pen: 3 | Trn: 68 | Bte: 63 | Grb: 6 | Time: 103ms | Nodes: 51495 | Result: Failed [Early Stopped (Stuck)] (Turn: 2888, Matched: 134/192, Garbage: 0)
+Trial 59 | Beam: 29 | Noise: 971 | Pen: 1 | Trn: 278 | Bte: 458 | Grb: 57 | Time: 81ms | Nodes: 27950 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 60 | Beam: 32 | Noise: 771 | Pen: 2 | Trn: 58 | Bte: 157 | Grb: 87 | Time: 46ms | Nodes: 23531 | Result: Failed [Early Stopped (Stuck)] (Turn: 23, Matched: 14/192, Garbage: 0)
+Trial 61 | Beam: 25 | Noise: 1030 | Pen: 3 | Trn: 149 | Bte: 437 | Grb: 86 | Time: 38ms | Nodes: 20881 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 10/192, Garbage: 0)
+Trial 62 | Beam: 38 | Noise: 1104 | Pen: 3 | Trn: 297 | Bte: 349 | Grb: 84 | Time: 114ms | Nodes: 37071 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 63 | Beam: 36 | Noise: 614 | Pen: 3 | Trn: 27 | Bte: 288 | Grb: 22 | Time: 41ms | Nodes: 27805 | Result: Failed [Early Stopped (Stuck)] (Turn: 42, Matched: 22/192, Garbage: 0)
+Trial 64 | Beam: 24 | Noise: 952 | Pen: 3 | Trn: 85 | Bte: 12 | Grb: 55 | Time: 28ms | Nodes: 8864 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 2)
+Trial 65 | Beam: 33 | Noise: 758 | Pen: 2 | Trn: 16 | Bte: 126 | Grb: 99 | Time: 34ms | Nodes: 12290 | Result: Failed [Early Stopped (Stuck)] (Turn: 82, Matched: 27/192, Garbage: 0)
+Trial 66 | Beam: 39 | Noise: 790 | Pen: 2 | Trn: 266 | Bte: 164 | Grb: 30 | Time: 67ms | Nodes: 26154 | Result: Failed [Early Stopped (Stuck)] (Turn: 85, Matched: 30/192, Garbage: 0)
+Trial 67 | Beam: 36 | Noise: 703 | Pen: 2 | Trn: 72 | Bte: 111 | Grb: 97 | Time: 85ms | Nodes: 32591 | Result: Failed [Early Stopped (Stuck)] (Turn: 819, Matched: 34/192, Garbage: 0)
+Trial 68 | Beam: 21 | Noise: 577 | Pen: 3 | Trn: 192 | Bte: 16 | Grb: 0 | Time: 31ms | Nodes: 8394 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 69 | Beam: 34 | Noise: 1135 | Pen: 3 | Trn: 258 | Bte: 118 | Grb: 79 | Time: 35ms | Nodes: 10906 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 22/192, Garbage: 0)
+Trial 70 | Beam: 21 | Noise: 1039 | Pen: 2 | Trn: 86 | Bte: 89 | Grb: 45 | Time: 27ms | Nodes: 12214 | Result: Failed [Early Stopped (Stuck)] (Turn: 14, Matched: 10/192, Garbage: 0)
+Trial 71 | Beam: 40 | Noise: 968 | Pen: 3 | Trn: 13 | Bte: 332 | Grb: 99 | Time: 44ms | Nodes: 30075 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 22/192, Garbage: 0)
+Trial 72 | Beam: 40 | Noise: 762 | Pen: 1 | Trn: 256 | Bte: 396 | Grb: 1 | Time: 186ms | Nodes: 130965 | Result: 3413 moves
+Trial 73 | Beam: 36 | Noise: 927 | Pen: 3 | Trn: 190 | Bte: 60 | Grb: 75 | Time: 39ms | Nodes: 18163 | Result: Failed [Early Stopped (Stuck)] (Turn: 46, Matched: 22/192, Garbage: 0)
+Trial 74 | Beam: 37 | Noise: 627 | Pen: 1 | Trn: 216 | Bte: 44 | Grb: 53 | Time: 101ms | Nodes: 20378 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 75 | Beam: 26 | Noise: 1068 | Pen: 2 | Trn: 163 | Bte: 213 | Grb: 50 | Time: 28ms | Nodes: 13361 | Result: Failed [Early Stopped (Stuck)] (Turn: 40, Matched: 22/192, Garbage: 0)
+Trial 76 | Beam: 20 | Noise: 789 | Pen: 1 | Trn: 146 | Bte: 222 | Grb: 43 | Time: 139ms | Nodes: 95747 | Result: Failed [Early Stopped (Stuck)] (Turn: 4954, Matched: 168/192, Garbage: 0)
+Trial 77 | Beam: 38 | Noise: 1126 | Pen: 1 | Trn: 139 | Bte: 70 | Grb: 79 | Time: 41ms | Nodes: 22475 | Result: Failed [Early Stopped (Stuck)] (Turn: 39, Matched: 22/192, Garbage: 0)
+Trial 78 | Beam: 31 | Noise: 873 | Pen: 2 | Trn: 227 | Bte: 276 | Grb: 48 | Time: 87ms | Nodes: 29122 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 79 | Beam: 38 | Noise: 557 | Pen: 1 | Trn: 133 | Bte: 222 | Grb: 12 | Time: 69ms | Nodes: 32478 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 80 | Beam: 23 | Noise: 939 | Pen: 2 | Trn: 205 | Bte: 203 | Grb: 5 | Time: 119ms | Nodes: 103919 | Result: 5076 moves
+Trial 81 | Beam: 35 | Noise: 1042 | Pen: 2 | Trn: 89 | Bte: 344 | Grb: 10 | Time: 65ms | Nodes: 32251 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 14/192, Garbage: 0)
+Trial 82 | Beam: 25 | Noise: 900 | Pen: 1 | Trn: 211 | Bte: 483 | Grb: 30 | Time: 41ms | Nodes: 22889 | Result: Failed [Early Stopped (Stuck)] (Turn: 27, Matched: 14/192, Garbage: 0)
+Trial 83 | Beam: 36 | Noise: 992 | Pen: 1 | Trn: 210 | Bte: 480 | Grb: 52 | Time: 57ms | Nodes: 30454 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 10/192, Garbage: 0)
+Trial 84 | Beam: 35 | Noise: 1124 | Pen: 1 | Trn: 129 | Bte: 269 | Grb: 24 | Time: 145ms | Nodes: 101003 | Result: 3123 moves  <-- Best Updated!
+Trial 85 | Beam: 40 | Noise: 704 | Pen: 3 | Trn: 264 | Bte: 297 | Grb: 54 | Time: 121ms | Nodes: 38657 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 86 | Beam: 31 | Noise: 725 | Pen: 3 | Trn: 23 | Bte: 320 | Grb: 55 | Time: 30ms | Nodes: 9960 | Result: Failed [Early Stopped (Stuck)] (Turn: 76, Matched: 27/192, Garbage: 0)
+Trial 87 | Beam: 40 | Noise: 538 | Pen: 3 | Trn: 160 | Bte: 91 | Grb: 6 | Time: 114ms | Nodes: 29010 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 88 | Beam: 24 | Noise: 426 | Pen: 2 | Trn: 86 | Bte: 44 | Grb: 83 | Time: 62ms | Nodes: 12111 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 89 | Beam: 20 | Noise: 404 | Pen: 3 | Trn: 78 | Bte: 245 | Grb: 83 | Time: 32ms | Nodes: 18480 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 90 | Beam: 35 | Noise: 982 | Pen: 3 | Trn: 156 | Bte: 50 | Grb: 54 | Time: 50ms | Nodes: 17643 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 14/192, Garbage: 0)
+Trial 91 | Beam: 23 | Noise: 567 | Pen: 3 | Trn: 81 | Bte: 73 | Grb: 44 | Time: 175ms | Nodes: 117190 | Result: Failed [Early Stopped (Stuck)] (Turn: 5291, Matched: 186/192, Garbage: 0)
+Trial 92 | Beam: 27 | Noise: 780 | Pen: 3 | Trn: 297 | Bte: 173 | Grb: 69 | Time: 214ms | Nodes: 116503 | Result: Failed [Early Stopped (Stuck)] (Turn: 5271, Matched: 145/192, Garbage: 0)
+Trial 93 | Beam: 35 | Noise: 704 | Pen: 2 | Trn: 288 | Bte: 122 | Grb: 69 | Time: 136ms | Nodes: 91994 | Result: 2689 moves  <-- Best Updated!
+Trial 94 | Beam: 32 | Noise: 982 | Pen: 2 | Trn: 284 | Bte: 26 | Grb: 58 | Time: 77ms | Nodes: 14940 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 95 | Beam: 28 | Noise: 482 | Pen: 3 | Trn: 133 | Bte: 156 | Grb: 27 | Time: 84ms | Nodes: 25716 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 96 | Beam: 28 | Noise: 714 | Pen: 1 | Trn: 273 | Bte: 493 | Grb: 29 | Time: 79ms | Nodes: 27026 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 97 | Beam: 23 | Noise: 463 | Pen: 3 | Trn: 226 | Bte: 251 | Grb: 30 | Time: 39ms | Nodes: 21388 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 98 | Beam: 35 | Noise: 425 | Pen: 3 | Trn: 194 | Bte: 97 | Grb: 81 | Time: 72ms | Nodes: 20345 | Result: Failed [Early Stopped (Stuck)] (Turn: 220, Matched: 34/192, Garbage: 0)
+Trial 99 | Beam: 27 | Noise: 1188 | Pen: 2 | Trn: 105 | Bte: 72 | Grb: 26 | Time: 46ms | Nodes: 17370 | Result: Failed [Early Stopped (Stuck)] (Turn: 134, Matched: 34/192, Garbage: 0)
+Trial 100 | Beam: 39 | Noise: 1200 | Pen: 2 | Trn: 215 | Bte: 85 | Grb: 42 | Time: 109ms | Nodes: 39486 | Result: Failed [Early Stopped (Stuck)] (Turn: 694, Matched: 22/192, Garbage: 0)
+Trial 101 | Beam: 21 | Noise: 658 | Pen: 3 | Trn: 277 | Bte: 107 | Grb: 28 | Time: 107ms | Nodes: 73679 | Result: Failed [Early Stopped (Stuck)] (Turn: 3605, Matched: 165/192, Garbage: 0)
+Trial 102 | Beam: 34 | Noise: 581 | Pen: 2 | Trn: 243 | Bte: 15 | Grb: 55 | Time: 67ms | Nodes: 13867 | Result: Failed [Early Stopped (Stuck)] (Turn: 103, Matched: 32/192, Garbage: 0)
+Trial 103 | Beam: 27 | Noise: 414 | Pen: 3 | Trn: 277 | Bte: 38 | Grb: 24 | Time: 36ms | Nodes: 12597 | Result: Failed [Early Stopped (Stuck)] (Turn: 25, Matched: 14/192, Garbage: 0)
+Trial 104 | Beam: 37 | Noise: 1023 | Pen: 2 | Trn: 244 | Bte: 86 | Grb: 7 | Time: 262ms | Nodes: 180667 | Result: 5524 moves
+Trial 105 | Beam: 28 | Noise: 562 | Pen: 2 | Trn: 43 | Bte: 413 | Grb: 8 | Time: 40ms | Nodes: 23085 | Result: Failed [Early Stopped (Stuck)] (Turn: 369, Matched: 44/192, Garbage: 0)
+Trial 106 | Beam: 40 | Noise: 649 | Pen: 1 | Trn: 285 | Bte: 492 | Grb: 24 | Time: 197ms | Nodes: 133059 | Result: Failed [Time Out] (Turn: 3376, Matched: 191/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (2689 moves) [Trial 93]
+  -> Beam: 35, Noise: 704, Pen: 2, Trn: 288, Bte: 122, Grb: 69
+Rank 2 (3123 moves) [Trial 84]
+  -> Beam: 35, Noise: 1124, Pen: 1, Trn: 129, Bte: 269, Grb: 24
+Rank 3 (3395 moves) [Trial 57]
+  -> Beam: 34, Noise: 411, Pen: 2, Trn: 164, Bte: 298, Grb: 74
+Rank 4 (3413 moves) [Trial 72]
+  -> Beam: 40, Noise: 762, Pen: 1, Trn: 256, Bte: 396, Grb: 1
+Rank 5 (3522 moves) [Trial 19]
+  -> Beam: 33, Noise: 467, Pen: 2, Trn: 98, Bte: 89, Grb: 49
+Rank 6 (3583 moves) [Trial 8]
+  -> Beam: 27, Noise: 526, Pen: 2, Trn: 292, Bte: 386, Grb: 37
+Rank 7 (3923 moves) [Trial 37]
+  -> Beam: 40, Noise: 526, Pen: 1, Trn: 220, Bte: 484, Grb: 100
+Rank 8 (4014 moves) [Trial 2]
+  -> Beam: 32, Noise: 918, Pen: 1, Trn: 272, Bte: 298, Grb: 44
+Rank 9 (4138 moves) [Trial 35]
+  -> Beam: 27, Noise: 762, Pen: 2, Trn: 13, Bte: 298, Grb: 14
+Rank 10 (4233 moves) [Trial 28]
+  -> Beam: 32, Noise: 719, Pen: 3, Trn: 107, Bte: 227, Grb: 62
+Rank 11 (4547 moves) [Trial 39]
+  -> Beam: 34, Noise: 924, Pen: 3, Trn: 272, Bte: 346, Grb: 39
+Rank 12 (4679 moves) [Trial 48]
+  -> Beam: 21, Noise: 482, Pen: 2, Trn: 135, Bte: 251, Grb: 9
+Rank 13 (5073 moves) [Trial 3]
+  -> Beam: 35, Noise: 865, Pen: 1, Trn: 288, Bte: 495, Grb: 63
+Rank 14 (5076 moves) [Trial 80]
+  -> Beam: 23, Noise: 939, Pen: 2, Trn: 205, Bte: 203, Grb: 5
+Rank 15 (5171 moves) [Trial 44]
+  -> Beam: 28, Noise: 757, Pen: 3, Trn: 98, Bte: 328, Grb: 18
+Rank 16 (5201 moves) [Trial 52]
+  -> Beam: 21, Noise: 496, Pen: 1, Trn: 276, Bte: 267, Grb: 2
+Rank 17 (5486 moves) [Trial 45]
+  -> Beam: 22, Noise: 818, Pen: 3, Trn: 21, Bte: 177, Grb: 0
+Rank 18 (5524 moves) [Trial 104]
+  -> Beam: 37, Noise: 1023, Pen: 2, Trn: 244, Bte: 86, Grb: 7
+Rank 19 (5621 moves) [Trial 38]
+  -> Beam: 36, Noise: 1067, Pen: 1, Trn: 242, Bte: 184, Grb: 38
+Rank 20 (5638 moves) [Trial 25]
+  -> Beam: 31, Noise: 1148, Pen: 2, Trn: 178, Bte: 293, Grb: 97
+Rank 21 (5669 moves) [Trial 12]
+  -> Beam: 38, Noise: 904, Pen: 3, Trn: 248, Bte: 156, Grb: 45
+======================================
+
+Final Best Moves: 2689
+
+### seed:59 ###
+Failed
+
+### seed:60 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : Failed (Time out or Dead End)
+Difficulty   : HARD
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 28 | Noise: 800 | Pen: 3 | Trn: 82 | Bte: 284 | Grb: 14 | Time: 152ms | Nodes: 107687 | Result: 4410 moves  <-- Best Updated!
+Trial 2 | Beam: 17 | Noise: 775 | Pen: 3 | Trn: 99 | Bte: 329 | Grb: 41 | Time: 81ms | Nodes: 69086 | Result: 4715 moves
+Trial 3 | Beam: 10 | Noise: 611 | Pen: 2 | Trn: 272 | Bte: 228 | Grb: 65 | Time: 12ms | Nodes: 8612 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 4 | Beam: 12 | Noise: 588 | Pen: 3 | Trn: 295 | Bte: 218 | Grb: 67 | Time: 15ms | Nodes: 10392 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 5 | Beam: 22 | Noise: 1496 | Pen: 1 | Trn: 20 | Bte: 67 | Grb: 66 | Time: 26ms | Nodes: 8046 | Result: Failed [Early Stopped (Stuck)] (Turn: 10, Matched: 6/192, Garbage: 0)
+Trial 6 | Beam: 26 | Noise: 673 | Pen: 2 | Trn: 254 | Bte: 487 | Grb: 89 | Time: 46ms | Nodes: 24901 | Result: Failed [Early Stopped (Stuck)] (Turn: 40, Matched: 16/192, Garbage: 0)
+Trial 7 | Beam: 34 | Noise: 1996 | Pen: 2 | Trn: 105 | Bte: 471 | Grb: 23 | Time: 40ms | Nodes: 31679 | Result: Failed [Early Stopped (Stuck)] (Turn: 180, Matched: 42/192, Garbage: 0)
+Trial 8 | Beam: 19 | Noise: 733 | Pen: 3 | Trn: 152 | Bte: 105 | Grb: 82 | Time: 27ms | Nodes: 12705 | Result: Failed [Early Stopped (Stuck)] (Turn: 65, Matched: 22/192, Garbage: 0)
+Trial 9 | Beam: 38 | Noise: 1621 | Pen: 3 | Trn: 205 | Bte: 306 | Grb: 31 | Time: 253ms | Nodes: 153855 | Result: 4878 moves
+Trial 10 | Beam: 28 | Noise: 1321 | Pen: 2 | Trn: 54 | Bte: 466 | Grb: 100 | Time: 194ms | Nodes: 122932 | Result: 5039 moves
+Trial 11 | Beam: 37 | Noise: 914 | Pen: 2 | Trn: 83 | Bte: 413 | Grb: 86 | Time: 52ms | Nodes: 33531 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 12/192, Garbage: 0)
+Trial 12 | Beam: 43 | Noise: 642 | Pen: 2 | Trn: 204 | Bte: 60 | Grb: 54 | Time: 55ms | Nodes: 22672 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 13 | Beam: 28 | Noise: 1981 | Pen: 1 | Trn: 190 | Bte: 209 | Grb: 55 | Time: 35ms | Nodes: 19225 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 14 | Beam: 13 | Noise: 1599 | Pen: 3 | Trn: 289 | Bte: 25 | Grb: 99 | Time: 12ms | Nodes: 4074 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 6/192, Garbage: 1)
+Trial 15 | Beam: 19 | Noise: 910 | Pen: 2 | Trn: 128 | Bte: 217 | Grb: 66 | Time: 21ms | Nodes: 15559 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 16 | Beam: 15 | Noise: 1205 | Pen: 2 | Trn: 37 | Bte: 159 | Grb: 34 | Time: 27ms | Nodes: 10373 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 8/192, Garbage: 2)
+Trial 17 | Beam: 36 | Noise: 1197 | Pen: 2 | Trn: 28 | Bte: 24 | Grb: 51 | Time: 55ms | Nodes: 16072 | Result: Failed [Early Stopped (Stuck)] (Turn: 50, Matched: 16/192, Garbage: 2)
+Trial 18 | Beam: 18 | Noise: 615 | Pen: 1 | Trn: 120 | Bte: 282 | Grb: 94 | Time: 22ms | Nodes: 15242 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 19 | Beam: 30 | Noise: 1597 | Pen: 1 | Trn: 205 | Bte: 16 | Grb: 82 | Time: 32ms | Nodes: 11649 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 12/192, Garbage: 0)
+Trial 20 | Beam: 12 | Noise: 1763 | Pen: 2 | Trn: 164 | Bte: 325 | Grb: 63 | Time: 13ms | Nodes: 10369 | Result: Failed [Early Stopped (Stuck)] (Turn: 70, Matched: 12/192, Garbage: 0)
+Trial 21 | Beam: 14 | Noise: 1378 | Pen: 3 | Trn: 177 | Bte: 35 | Grb: 3 | Time: 15ms | Nodes: 6635 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 22 | Beam: 22 | Noise: 1511 | Pen: 2 | Trn: 31 | Bte: 172 | Grb: 51 | Time: 104ms | Nodes: 89201 | Result: 4513 moves
+Trial 23 | Beam: 26 | Noise: 1513 | Pen: 1 | Trn: 194 | Bte: 268 | Grb: 18 | Time: 161ms | Nodes: 109703 | Result: Failed [Early Stopped (Stuck)] (Turn: 4347, Matched: 151/192, Garbage: 2)
+Trial 24 | Beam: 19 | Noise: 1666 | Pen: 3 | Trn: 244 | Bte: 486 | Grb: 92 | Time: 44ms | Nodes: 17802 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 25 | Beam: 48 | Noise: 1033 | Pen: 3 | Trn: 210 | Bte: 262 | Grb: 32 | Time: 300ms | Nodes: 204452 | Result: Failed [Time Out] (Turn: 5907, Matched: 152/192, Garbage: 0)
+Trial 26 | Beam: 39 | Noise: 1992 | Pen: 1 | Trn: 110 | Bte: 72 | Grb: 35 | Time: 46ms | Nodes: 20534 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 12/192, Garbage: 2)
+Trial 27 | Beam: 12 | Noise: 1697 | Pen: 1 | Trn: 25 | Bte: 168 | Grb: 83 | Time: 12ms | Nodes: 8029 | Result: Failed [Early Stopped (Stuck)] (Turn: 51, Matched: 12/192, Garbage: 0)
+Trial 28 | Beam: 47 | Noise: 817 | Pen: 2 | Trn: 294 | Bte: 461 | Grb: 82 | Time: 199ms | Nodes: 128041 | Result: 3096 moves  <-- Best Updated!
+Trial 29 | Beam: 37 | Noise: 1603 | Pen: 1 | Trn: 237 | Bte: 166 | Grb: 59 | Time: 164ms | Nodes: 105929 | Result: 3139 moves
+Trial 30 | Beam: 50 | Noise: 1951 | Pen: 3 | Trn: 233 | Bte: 278 | Grb: 2 | Time: 300ms | Nodes: 201359 | Result: Failed [Time Out] (Turn: 4797, Matched: 182/192, Garbage: 0)
+Trial 31 | Beam: 42 | Noise: 1446 | Pen: 2 | Trn: 35 | Bte: 360 | Grb: 21 | Time: 254ms | Nodes: 165141 | Result: 4416 moves
+Trial 32 | Beam: 21 | Noise: 1118 | Pen: 2 | Trn: 209 | Bte: 226 | Grb: 9 | Time: 28ms | Nodes: 17183 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 33 | Beam: 20 | Noise: 1538 | Pen: 2 | Trn: 180 | Bte: 307 | Grb: 84 | Time: 24ms | Nodes: 16981 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 34 | Beam: 18 | Noise: 1491 | Pen: 1 | Trn: 127 | Bte: 279 | Grb: 0 | Time: 69ms | Nodes: 52306 | Result: Failed [Early Stopped (Stuck)] (Turn: 2629, Matched: 126/192, Garbage: 0)
+Trial 35 | Beam: 41 | Noise: 1376 | Pen: 2 | Trn: 300 | Bte: 143 | Grb: 39 | Time: 52ms | Nodes: 27979 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 36 | Beam: 32 | Noise: 596 | Pen: 1 | Trn: 206 | Bte: 440 | Grb: 80 | Time: 40ms | Nodes: 28226 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 37 | Beam: 29 | Noise: 1517 | Pen: 3 | Trn: 163 | Bte: 457 | Grb: 64 | Time: 30ms | Nodes: 22152 | Result: Failed [Early Stopped (Stuck)] (Turn: 150, Matched: 42/192, Garbage: 0)
+Trial 38 | Beam: 17 | Noise: 762 | Pen: 2 | Trn: 292 | Bte: 319 | Grb: 66 | Time: 19ms | Nodes: 15061 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 12/192, Garbage: 0)
+Trial 39 | Beam: 46 | Noise: 1050 | Pen: 1 | Trn: 246 | Bte: 375 | Grb: 40 | Time: 218ms | Nodes: 176621 | Result: 4105 moves
+Trial 40 | Beam: 32 | Noise: 637 | Pen: 1 | Trn: 58 | Bte: 79 | Grb: 90 | Time: 42ms | Nodes: 18098 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 41 | Beam: 37 | Noise: 1943 | Pen: 2 | Trn: 208 | Bte: 62 | Grb: 34 | Time: 45ms | Nodes: 19191 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 12/192, Garbage: 0)
+Trial 42 | Beam: 42 | Noise: 1859 | Pen: 3 | Trn: 49 | Bte: 272 | Grb: 94 | Time: 233ms | Nodes: 155337 | Result: 3827 moves
+Trial 43 | Beam: 33 | Noise: 1585 | Pen: 1 | Trn: 10 | Bte: 29 | Grb: 28 | Time: 41ms | Nodes: 11240 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 6/192, Garbage: 3)
+Trial 44 | Beam: 46 | Noise: 1321 | Pen: 2 | Trn: 148 | Bte: 324 | Grb: 84 | Time: 59ms | Nodes: 42801 | Result: Failed [Early Stopped (Stuck)] (Turn: 270, Matched: 42/192, Garbage: 3)
+Trial 45 | Beam: 46 | Noise: 1565 | Pen: 1 | Trn: 223 | Bte: 179 | Grb: 70 | Time: 116ms | Nodes: 33625 | Result: Failed [Early Stopped (Stuck)] (Turn: 66, Matched: 20/192, Garbage: 0)
+Trial 46 | Beam: 25 | Noise: 1137 | Pen: 3 | Trn: 63 | Bte: 318 | Grb: 93 | Time: 27ms | Nodes: 22214 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 47 | Beam: 49 | Noise: 681 | Pen: 1 | Trn: 239 | Bte: 423 | Grb: 45 | Time: 158ms | Nodes: 88222 | Result: Failed [Early Stopped (Stuck)] (Turn: 1385, Matched: 64/192, Garbage: 0)
+Trial 48 | Beam: 25 | Noise: 1358 | Pen: 3 | Trn: 32 | Bte: 136 | Grb: 70 | Time: 29ms | Nodes: 16999 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 49 | Beam: 43 | Noise: 1187 | Pen: 2 | Trn: 285 | Bte: 440 | Grb: 22 | Time: 64ms | Nodes: 39026 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 50 | Beam: 50 | Noise: 1334 | Pen: 2 | Trn: 17 | Bte: 116 | Grb: 0 | Time: 106ms | Nodes: 36065 | Result: Failed [Early Stopped (Stuck)] (Turn: 72, Matched: 18/192, Garbage: 19)
+Trial 51 | Beam: 28 | Noise: 1832 | Pen: 2 | Trn: 278 | Bte: 391 | Grb: 40 | Time: 37ms | Nodes: 24889 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 52 | Beam: 17 | Noise: 1133 | Pen: 3 | Trn: 136 | Bte: 51 | Grb: 1 | Time: 20ms | Nodes: 9058 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 53 | Beam: 14 | Noise: 700 | Pen: 2 | Trn: 61 | Bte: 226 | Grb: 98 | Time: 24ms | Nodes: 10469 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 8/192, Garbage: 0)
+Trial 54 | Beam: 34 | Noise: 1286 | Pen: 2 | Trn: 299 | Bte: 30 | Grb: 100 | Time: 41ms | Nodes: 13869 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 55 | Beam: 42 | Noise: 1922 | Pen: 2 | Trn: 194 | Bte: 273 | Grb: 33 | Time: 208ms | Nodes: 150025 | Result: 4096 moves
+Trial 56 | Beam: 21 | Noise: 1343 | Pen: 1 | Trn: 278 | Bte: 45 | Grb: 22 | Time: 24ms | Nodes: 7708 | Result: Failed [Early Stopped (Stuck)] (Turn: 11, Matched: 6/192, Garbage: 1)
+Trial 57 | Beam: 27 | Noise: 1916 | Pen: 1 | Trn: 59 | Bte: 408 | Grb: 21 | Time: 33ms | Nodes: 21947 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 12/192, Garbage: 0)
+Trial 58 | Beam: 41 | Noise: 1550 | Pen: 2 | Trn: 76 | Bte: 329 | Grb: 72 | Time: 59ms | Nodes: 35920 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 59 | Beam: 28 | Noise: 1940 | Pen: 3 | Trn: 91 | Bte: 123 | Grb: 59 | Time: 57ms | Nodes: 19088 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 60 | Beam: 32 | Noise: 1093 | Pen: 2 | Trn: 160 | Bte: 479 | Grb: 20 | Time: 44ms | Nodes: 29022 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 61 | Beam: 23 | Noise: 1331 | Pen: 3 | Trn: 38 | Bte: 494 | Grb: 87 | Time: 31ms | Nodes: 21232 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 62 | Beam: 24 | Noise: 1169 | Pen: 2 | Trn: 146 | Bte: 330 | Grb: 49 | Time: 32ms | Nodes: 21606 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 63 | Beam: 22 | Noise: 1655 | Pen: 2 | Trn: 36 | Bte: 429 | Grb: 96 | Time: 175ms | Nodes: 130053 | Result: 7058 moves
+Trial 64 | Beam: 20 | Noise: 1136 | Pen: 1 | Trn: 98 | Bte: 240 | Grb: 13 | Time: 26ms | Nodes: 15224 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 65 | Beam: 46 | Noise: 805 | Pen: 3 | Trn: 10 | Bte: 291 | Grb: 93 | Time: 167ms | Nodes: 102194 | Result: Failed [Early Stopped (Stuck)] (Turn: 1761, Matched: 126/192, Garbage: 0)
+Trial 66 | Beam: 44 | Noise: 1687 | Pen: 2 | Trn: 109 | Bte: 352 | Grb: 65 | Time: 91ms | Nodes: 33614 | Result: Failed [Early Stopped (Stuck)] (Turn: 27, Matched: 8/192, Garbage: 0)
+Trial 67 | Beam: 33 | Noise: 689 | Pen: 2 | Trn: 36 | Bte: 260 | Grb: 18 | Time: 94ms | Nodes: 64830 | Result: Failed [Early Stopped (Stuck)] (Turn: 1567, Matched: 60/192, Garbage: 0)
+Trial 68 | Beam: 42 | Noise: 1447 | Pen: 3 | Trn: 179 | Bte: 343 | Grb: 6 | Time: 268ms | Nodes: 206843 | Result: 5861 moves
+Trial 69 | Beam: 25 | Noise: 1017 | Pen: 2 | Trn: 233 | Bte: 61 | Grb: 76 | Time: 34ms | Nodes: 13896 | Result: Failed [Early Stopped (Stuck)] (Turn: 57, Matched: 16/192, Garbage: 0)
+Trial 70 | Beam: 34 | Noise: 1150 | Pen: 1 | Trn: 123 | Bte: 487 | Grb: 12 | Time: 46ms | Nodes: 30700 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 71 | Beam: 16 | Noise: 1317 | Pen: 1 | Trn: 94 | Bte: 411 | Grb: 5 | Time: 21ms | Nodes: 14043 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 72 | Beam: 47 | Noise: 1224 | Pen: 3 | Trn: 224 | Bte: 76 | Grb: 46 | Time: 60ms | Nodes: 27283 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 12/192, Garbage: 0)
+Trial 73 | Beam: 12 | Noise: 1645 | Pen: 2 | Trn: 261 | Bte: 256 | Grb: 65 | Time: 13ms | Nodes: 9384 | Result: Failed [Early Stopped (Stuck)] (Turn: 50, Matched: 12/192, Garbage: 0)
+Trial 74 | Beam: 36 | Noise: 573 | Pen: 1 | Trn: 264 | Bte: 36 | Grb: 83 | Time: 105ms | Nodes: 18240 | Result: Failed [Early Stopped (Stuck)] (Turn: 75, Matched: 20/192, Garbage: 0)
+Trial 75 | Beam: 33 | Noise: 820 | Pen: 2 | Trn: 82 | Bte: 491 | Grb: 76 | Time: 44ms | Nodes: 30183 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 12/192, Garbage: 0)
+Trial 76 | Beam: 12 | Noise: 1488 | Pen: 2 | Trn: 141 | Bte: 418 | Grb: 60 | Time: 13ms | Nodes: 7250 | Result: Failed [Early Stopped (Stuck)] (Turn: 8, Matched: 6/192, Garbage: 0)
+Trial 77 | Beam: 29 | Noise: 1874 | Pen: 2 | Trn: 132 | Bte: 220 | Grb: 73 | Time: 60ms | Nodes: 22136 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 78 | Beam: 46 | Noise: 1165 | Pen: 3 | Trn: 250 | Bte: 240 | Grb: 15 | Time: 193ms | Nodes: 142109 | Result: 3589 moves
+Trial 79 | Beam: 24 | Noise: 1685 | Pen: 1 | Trn: 229 | Bte: 397 | Grb: 90 | Time: 30ms | Nodes: 19757 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 80 | Beam: 13 | Noise: 1466 | Pen: 1 | Trn: 94 | Bte: 401 | Grb: 94 | Time: 14ms | Nodes: 7421 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 6/192, Garbage: 0)
+Trial 81 | Beam: 17 | Noise: 634 | Pen: 2 | Trn: 113 | Bte: 240 | Grb: 67 | Time: 22ms | Nodes: 15020 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 82 | Beam: 40 | Noise: 1052 | Pen: 1 | Trn: 71 | Bte: 14 | Grb: 68 | Time: 66ms | Nodes: 15810 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 16/192, Garbage: 0)
+Trial 83 | Beam: 48 | Noise: 793 | Pen: 1 | Trn: 293 | Bte: 68 | Grb: 76 | Time: 64ms | Nodes: 25971 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 84 | Beam: 49 | Noise: 1264 | Pen: 3 | Trn: 104 | Bte: 114 | Grb: 72 | Time: 63ms | Nodes: 41070 | Result: Failed [Early Stopped (Stuck)] (Turn: 199, Matched: 42/192, Garbage: 0)
+Trial 85 | Beam: 39 | Noise: 1136 | Pen: 3 | Trn: 54 | Bte: 260 | Grb: 2 | Time: 98ms | Nodes: 35201 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 86 | Beam: 34 | Noise: 807 | Pen: 3 | Trn: 23 | Bte: 480 | Grb: 29 | Time: 94ms | Nodes: 33238 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 20/192, Garbage: 0)
+Trial 87 | Beam: 36 | Noise: 860 | Pen: 1 | Trn: 217 | Bte: 71 | Grb: 77 | Time: 49ms | Nodes: 19545 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 88 | Beam: 28 | Noise: 1389 | Pen: 1 | Trn: 38 | Bte: 422 | Grb: 62 | Time: 52ms | Nodes: 20893 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 8/192, Garbage: 0)
+Trial 89 | Beam: 31 | Noise: 1402 | Pen: 2 | Trn: 140 | Bte: 205 | Grb: 8 | Time: 38ms | Nodes: 22774 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 12/192, Garbage: 0)
+Trial 90 | Beam: 42 | Noise: 875 | Pen: 3 | Trn: 217 | Bte: 356 | Grb: 22 | Time: 60ms | Nodes: 37979 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 91 | Beam: 24 | Noise: 1311 | Pen: 3 | Trn: 204 | Bte: 285 | Grb: 40 | Time: 33ms | Nodes: 21498 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 92 | Beam: 29 | Noise: 1427 | Pen: 1 | Trn: 237 | Bte: 150 | Grb: 5 | Time: 45ms | Nodes: 16326 | Result: Failed [Early Stopped (Stuck)] (Turn: 27, Matched: 8/192, Garbage: 1)
+Trial 93 | Beam: 37 | Noise: 1510 | Pen: 3 | Trn: 121 | Bte: 445 | Grb: 9 | Time: 52ms | Nodes: 33655 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 94 | Beam: 17 | Noise: 1713 | Pen: 3 | Trn: 36 | Bte: 279 | Grb: 26 | Time: 23ms | Nodes: 14509 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 95 | Beam: 43 | Noise: 950 | Pen: 2 | Trn: 103 | Bte: 321 | Grb: 39 | Time: 203ms | Nodes: 153713 | Result: 3769 moves
+Trial 96 | Beam: 26 | Noise: 1685 | Pen: 2 | Trn: 217 | Bte: 371 | Grb: 50 | Time: 33ms | Nodes: 22917 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 97 | Beam: 24 | Noise: 632 | Pen: 1 | Trn: 278 | Bte: 358 | Grb: 95 | Time: 60ms | Nodes: 39536 | Result: Failed [Early Stopped (Stuck)] (Turn: 1222, Matched: 42/192, Garbage: 0)
+Trial 98 | Beam: 27 | Noise: 685 | Pen: 3 | Trn: 252 | Bte: 238 | Grb: 41 | Time: 38ms | Nodes: 23281 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 99 | Beam: 34 | Noise: 595 | Pen: 2 | Trn: 290 | Bte: 216 | Grb: 45 | Time: 47ms | Nodes: 29438 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 100 | Beam: 30 | Noise: 1130 | Pen: 1 | Trn: 81 | Bte: 363 | Grb: 92 | Time: 38ms | Nodes: 25312 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 101 | Beam: 46 | Noise: 1591 | Pen: 2 | Trn: 159 | Bte: 257 | Grb: 7 | Time: 69ms | Nodes: 36802 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 102 | Beam: 45 | Noise: 1745 | Pen: 3 | Trn: 83 | Bte: 122 | Grb: 63 | Time: 54ms | Nodes: 28933 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 12/192, Garbage: 0)
+Trial 103 | Beam: 29 | Noise: 1587 | Pen: 1 | Trn: 199 | Bte: 269 | Grb: 26 | Time: 35ms | Nodes: 21342 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 104 | Beam: 36 | Noise: 1186 | Pen: 1 | Trn: 106 | Bte: 353 | Grb: 73 | Time: 75ms | Nodes: 36488 | Result: Failed [Early Stopped (Stuck)] (Turn: 374, Matched: 52/192, Garbage: 0)
+Trial 105 | Beam: 38 | Noise: 978 | Pen: 2 | Trn: 110 | Bte: 469 | Grb: 58 | Time: 67ms | Nodes: 37165 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 16/192, Garbage: 0)
+Trial 106 | Beam: 22 | Noise: 1521 | Pen: 2 | Trn: 89 | Bte: 388 | Grb: 35 | Time: 40ms | Nodes: 17200 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 8/192, Garbage: 0)
+Trial 107 | Beam: 41 | Noise: 505 | Pen: 2 | Trn: 106 | Bte: 230 | Grb: 21 | Time: 214ms | Nodes: 159985 | Result: 4234 moves
+Trial 108 | Beam: 30 | Noise: 1331 | Pen: 3 | Trn: 87 | Bte: 428 | Grb: 2 | Time: 154ms | Nodes: 96988 | Result: 3645 moves
+Trial 109 | Beam: 24 | Noise: 1869 | Pen: 1 | Trn: 121 | Bte: 175 | Grb: 98 | Time: 39ms | Nodes: 12664 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 8/192, Garbage: 0)
+Trial 110 | Beam: 16 | Noise: 1077 | Pen: 1 | Trn: 82 | Bte: 443 | Grb: 1 | Time: 19ms | Nodes: 11585 | Result: Failed [Early Stopped (Stuck)] (Turn: 316, Matched: 42/192, Garbage: 0)
+Trial 111 | Beam: 29 | Noise: 701 | Pen: 3 | Trn: 38 | Bte: 496 | Grb: 91 | Time: 39ms | Nodes: 26714 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 12/192, Garbage: 0)
+Trial 112 | Beam: 42 | Noise: 1501 | Pen: 3 | Trn: 259 | Bte: 183 | Grb: 24 | Time: 70ms | Nodes: 32433 | Result: Failed [Early Stopped (Stuck)] (Turn: 44, Matched: 16/192, Garbage: 0)
+Trial 113 | Beam: 40 | Noise: 774 | Pen: 2 | Trn: 176 | Bte: 96 | Grb: 40 | Time: 63ms | Nodes: 25345 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 16/192, Garbage: 0)
+Trial 114 | Beam: 33 | Noise: 947 | Pen: 2 | Trn: 252 | Bte: 265 | Grb: 73 | Time: 44ms | Nodes: 28628 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 115 | Beam: 46 | Noise: 1910 | Pen: 3 | Trn: 242 | Bte: 110 | Grb: 89 | Time: 56ms | Nodes: 28045 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 12/192, Garbage: 0)
+Trial 116 | Beam: 43 | Noise: 1318 | Pen: 1 | Trn: 127 | Bte: 224 | Grb: 4 | Time: 255ms | Nodes: 203445 | Result: Failed [Early Stopped (Stuck)] (Turn: 4127, Matched: 185/192, Garbage: 0)
+Trial 117 | Beam: 25 | Noise: 1870 | Pen: 3 | Trn: 195 | Bte: 453 | Grb: 26 | Time: 35ms | Nodes: 22441 | Result: Failed [Early Stopped (Stuck)] (Turn: 31, Matched: 12/192, Garbage: 0)
+Trial 118 | Beam: 15 | Noise: 1223 | Pen: 2 | Trn: 120 | Bte: 297 | Grb: 35 | Time: 18ms | Nodes: 13067 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 119 | Beam: 47 | Noise: 1614 | Pen: 3 | Trn: 274 | Bte: 338 | Grb: 35 | Time: 248ms | Nodes: 150892 | Result: 3501 moves
+Trial 120 | Beam: 10 | Noise: 1146 | Pen: 3 | Trn: 142 | Bte: 305 | Grb: 32 | Time: 12ms | Nodes: 9002 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 12/192, Garbage: 0)
+Trial 121 | Beam: 39 | Noise: 613 | Pen: 3 | Trn: 120 | Bte: 220 | Grb: 80 | Time: 55ms | Nodes: 34175 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 122 | Beam: 44 | Noise: 648 | Pen: 2 | Trn: 245 | Bte: 490 | Grb: 85 | Time: 82ms | Nodes: 42950 | Result: Failed [Early Stopped (Stuck)] (Turn: 58, Matched: 16/192, Garbage: 0)
+Trial 123 | Beam: 32 | Noise: 642 | Pen: 2 | Trn: 30 | Bte: 230 | Grb: 81 | Time: 42ms | Nodes: 27620 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 124 | Beam: 48 | Noise: 1547 | Pen: 3 | Trn: 64 | Bte: 65 | Grb: 22 | Time: 62ms | Nodes: 26124 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 125 | Beam: 49 | Noise: 1377 | Pen: 2 | Trn: 209 | Bte: 97 | Grb: 76 | Time: 75ms | Nodes: 31141 | Result: Failed [Early Stopped (Stuck)] (Turn: 63, Matched: 22/192, Garbage: 0)
+Trial 126 | Beam: 31 | Noise: 874 | Pen: 2 | Trn: 90 | Bte: 481 | Grb: 83 | Time: 39ms | Nodes: 28150 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 12/192, Garbage: 0)
+Trial 127 | Beam: 50 | Noise: 976 | Pen: 3 | Trn: 236 | Bte: 69 | Grb: 10 | Time: 198ms | Nodes: 131767 | Result: 2998 moves  <-- Best Updated!
+Trial 128 | Beam: 42 | Noise: 1047 | Pen: 1 | Trn: 132 | Bte: 12 | Grb: 56 | Time: 57ms | Nodes: 21477 | Result: Failed [Early Stopped (Stuck)] (Turn: 115, Matched: 22/192, Garbage: 0)
+Trial 129 | Beam: 13 | Noise: 852 | Pen: 3 | Trn: 61 | Bte: 430 | Grb: 5 | Time: 16ms | Nodes: 11438 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 12/192, Garbage: 0)
+Trial 130 | Beam: 13 | Noise: 1500 | Pen: 1 | Trn: 172 | Bte: 344 | Grb: 24 | Time: 15ms | Nodes: 10591 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 12/192, Garbage: 0)
+Trial 131 | Beam: 33 | Noise: 1807 | Pen: 2 | Trn: 266 | Bte: 170 | Grb: 6 | Time: 42ms | Nodes: 17930 | Result: Failed [Early Stopped (Stuck)] (Turn: 8, Matched: 6/192, Garbage: 0)
+Trial 132 | Beam: 12 | Noise: 1713 | Pen: 2 | Trn: 217 | Bte: 223 | Grb: 85 | Time: 98ms | Nodes: 49986 | Result: Failed [Early Stopped (Stuck)] (Turn: 4698, Matched: 152/192, Garbage: 0)
+Trial 133 | Beam: 37 | Noise: 823 | Pen: 1 | Trn: 227 | Bte: 57 | Grb: 79 | Time: 38ms | Nodes: 14519 | Result: Failed [Time Out] (Turn: 36, Matched: 12/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (2998 moves) [Trial 127]
+  -> Beam: 50, Noise: 976, Pen: 3, Trn: 236, Bte: 69, Grb: 10
+Rank 2 (3096 moves) [Trial 28]
+  -> Beam: 47, Noise: 817, Pen: 2, Trn: 294, Bte: 461, Grb: 82
+Rank 3 (3139 moves) [Trial 29]
+  -> Beam: 37, Noise: 1603, Pen: 1, Trn: 237, Bte: 166, Grb: 59
+Rank 4 (3501 moves) [Trial 119]
+  -> Beam: 47, Noise: 1614, Pen: 3, Trn: 274, Bte: 338, Grb: 35
+Rank 5 (3589 moves) [Trial 78]
+  -> Beam: 46, Noise: 1165, Pen: 3, Trn: 250, Bte: 240, Grb: 15
+Rank 6 (3645 moves) [Trial 108]
+  -> Beam: 30, Noise: 1331, Pen: 3, Trn: 87, Bte: 428, Grb: 2
+Rank 7 (3769 moves) [Trial 95]
+  -> Beam: 43, Noise: 950, Pen: 2, Trn: 103, Bte: 321, Grb: 39
+Rank 8 (3827 moves) [Trial 42]
+  -> Beam: 42, Noise: 1859, Pen: 3, Trn: 49, Bte: 272, Grb: 94
+Rank 9 (4096 moves) [Trial 55]
+  -> Beam: 42, Noise: 1922, Pen: 2, Trn: 194, Bte: 273, Grb: 33
+Rank 10 (4105 moves) [Trial 39]
+  -> Beam: 46, Noise: 1050, Pen: 1, Trn: 246, Bte: 375, Grb: 40
+Rank 11 (4234 moves) [Trial 107]
+  -> Beam: 41, Noise: 505, Pen: 2, Trn: 106, Bte: 230, Grb: 21
+Rank 12 (4410 moves) [Trial 1]
+  -> Beam: 28, Noise: 800, Pen: 3, Trn: 82, Bte: 284, Grb: 14
+Rank 13 (4416 moves) [Trial 31]
+  -> Beam: 42, Noise: 1446, Pen: 2, Trn: 35, Bte: 360, Grb: 21
+Rank 14 (4513 moves) [Trial 22]
+  -> Beam: 22, Noise: 1511, Pen: 2, Trn: 31, Bte: 172, Grb: 51
+Rank 15 (4715 moves) [Trial 2]
+  -> Beam: 17, Noise: 775, Pen: 3, Trn: 99, Bte: 329, Grb: 41
+Rank 16 (4878 moves) [Trial 9]
+  -> Beam: 38, Noise: 1621, Pen: 3, Trn: 205, Bte: 306, Grb: 31
+Rank 17 (5039 moves) [Trial 10]
+  -> Beam: 28, Noise: 1321, Pen: 2, Trn: 54, Bte: 466, Grb: 100
+Rank 18 (5861 moves) [Trial 68]
+  -> Beam: 42, Noise: 1447, Pen: 3, Trn: 179, Bte: 343, Grb: 6
+Rank 19 (7058 moves) [Trial 63]
+  -> Beam: 22, Noise: 1655, Pen: 2, Trn: 36, Bte: 429, Grb: 96
+======================================
+
+Final Best Moves: 2998
+
+### seed:61 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : Failed (Time out or Dead End)
+Difficulty   : HARD
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 13 | Noise: 1609 | Pen: 1 | Trn: 246 | Bte: 363 | Grb: 8 | Time: 41ms | Nodes: 23849 | Result: Failed [Early Stopped (Stuck)] (Turn: 1312, Matched: 72/192, Garbage: 0)
+Trial 2 | Beam: 40 | Noise: 510 | Pen: 3 | Trn: 213 | Bte: 206 | Grb: 78 | Time: 156ms | Nodes: 54104 | Result: Failed [Early Stopped (Stuck)] (Turn: 990, Matched: 50/192, Garbage: 0)
+Trial 3 | Beam: 29 | Noise: 1846 | Pen: 3 | Trn: 55 | Bte: 390 | Grb: 24 | Time: 150ms | Nodes: 101271 | Result: 3919 moves  <-- Best Updated!
+Trial 4 | Beam: 22 | Noise: 939 | Pen: 3 | Trn: 283 | Bte: 328 | Grb: 43 | Time: 145ms | Nodes: 106795 | Result: 5519 moves
+Trial 5 | Beam: 41 | Noise: 756 | Pen: 3 | Trn: 294 | Bte: 500 | Grb: 90 | Time: 201ms | Nodes: 135882 | Result: 3417 moves  <-- Best Updated!
+Trial 6 | Beam: 44 | Noise: 898 | Pen: 2 | Trn: 263 | Bte: 124 | Grb: 81 | Time: 91ms | Nodes: 30952 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 18/192, Garbage: 0)
+Trial 7 | Beam: 28 | Noise: 1698 | Pen: 1 | Trn: 35 | Bte: 466 | Grb: 43 | Time: 105ms | Nodes: 50970 | Result: Failed [Early Stopped (Stuck)] (Turn: 1530, Matched: 46/192, Garbage: 0)
+Trial 8 | Beam: 19 | Noise: 763 | Pen: 3 | Trn: 299 | Bte: 496 | Grb: 39 | Time: 90ms | Nodes: 64219 | Result: 3803 moves
+Trial 9 | Beam: 15 | Noise: 941 | Pen: 2 | Trn: 247 | Bte: 279 | Grb: 70 | Time: 31ms | Nodes: 12932 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 16/192, Garbage: 0)
+Trial 10 | Beam: 43 | Noise: 1161 | Pen: 2 | Trn: 220 | Bte: 370 | Grb: 97 | Time: 51ms | Nodes: 17784 | Result: Failed [Early Stopped (Stuck)] (Turn: 52, Matched: 24/192, Garbage: 0)
+Trial 11 | Beam: 17 | Noise: 1715 | Pen: 2 | Trn: 177 | Bte: 427 | Grb: 78 | Time: 20ms | Nodes: 11917 | Result: Failed [Early Stopped (Stuck)] (Turn: 54, Matched: 24/192, Garbage: 0)
+Trial 12 | Beam: 26 | Noise: 1780 | Pen: 2 | Trn: 248 | Bte: 372 | Grb: 96 | Time: 184ms | Nodes: 141926 | Result: 6224 moves
+Trial 13 | Beam: 19 | Noise: 1404 | Pen: 1 | Trn: 185 | Bte: 64 | Grb: 16 | Time: 37ms | Nodes: 11225 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 16/192, Garbage: 0)
+Trial 14 | Beam: 25 | Noise: 1466 | Pen: 3 | Trn: 297 | Bte: 329 | Grb: 54 | Time: 124ms | Nodes: 91914 | Result: 4102 moves
+Trial 15 | Beam: 16 | Noise: 1859 | Pen: 3 | Trn: 229 | Bte: 390 | Grb: 96 | Time: 86ms | Nodes: 60185 | Result: 4294 moves
+Trial 16 | Beam: 32 | Noise: 1138 | Pen: 3 | Trn: 269 | Bte: 197 | Grb: 54 | Time: 222ms | Nodes: 142837 | Result: 5020 moves
+Trial 17 | Beam: 39 | Noise: 654 | Pen: 3 | Trn: 250 | Bte: 122 | Grb: 73 | Time: 198ms | Nodes: 125201 | Result: Failed [Early Stopped (Stuck)] (Turn: 2649, Matched: 151/192, Garbage: 0)
+Trial 18 | Beam: 25 | Noise: 1562 | Pen: 3 | Trn: 156 | Bte: 148 | Grb: 68 | Time: 58ms | Nodes: 18560 | Result: Failed [Early Stopped (Stuck)] (Turn: 52, Matched: 22/192, Garbage: 0)
+Trial 19 | Beam: 24 | Noise: 1446 | Pen: 1 | Trn: 86 | Bte: 146 | Grb: 53 | Time: 176ms | Nodes: 126459 | Result: 6245 moves
+Trial 20 | Beam: 40 | Noise: 1514 | Pen: 1 | Trn: 39 | Bte: 256 | Grb: 6 | Time: 183ms | Nodes: 101515 | Result: Failed [Early Stopped (Stuck)] (Turn: 2522, Matched: 92/192, Garbage: 0)
+Trial 21 | Beam: 44 | Noise: 819 | Pen: 3 | Trn: 59 | Bte: 212 | Grb: 58 | Time: 237ms | Nodes: 181254 | Result: 4680 moves
+Trial 22 | Beam: 10 | Noise: 1200 | Pen: 1 | Trn: 23 | Bte: 313 | Grb: 85 | Time: 21ms | Nodes: 11211 | Result: Failed [Early Stopped (Stuck)] (Turn: 528, Matched: 56/192, Garbage: 0)
+Trial 23 | Beam: 37 | Noise: 953 | Pen: 2 | Trn: 153 | Bte: 397 | Grb: 17 | Time: 147ms | Nodes: 107128 | Result: Failed [Early Stopped (Stuck)] (Turn: 2365, Matched: 140/192, Garbage: 0)
+Trial 24 | Beam: 12 | Noise: 1573 | Pen: 3 | Trn: 59 | Bte: 274 | Grb: 46 | Time: 25ms | Nodes: 9945 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 16/192, Garbage: 0)
+Trial 25 | Beam: 48 | Noise: 942 | Pen: 3 | Trn: 200 | Bte: 51 | Grb: 8 | Time: 119ms | Nodes: 28523 | Result: Failed [Early Stopped (Stuck)] (Turn: 50, Matched: 22/192, Garbage: 0)
+Trial 26 | Beam: 11 | Noise: 1685 | Pen: 2 | Trn: 153 | Bte: 300 | Grb: 33 | Time: 25ms | Nodes: 9621 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 16/192, Garbage: 0)
+Trial 27 | Beam: 12 | Noise: 1170 | Pen: 1 | Trn: 217 | Bte: 497 | Grb: 83 | Time: 86ms | Nodes: 48855 | Result: Failed [Early Stopped (Stuck)] (Turn: 4057, Matched: 123/192, Garbage: 0)
+Trial 28 | Beam: 42 | Noise: 1980 | Pen: 2 | Trn: 63 | Bte: 279 | Grb: 55 | Time: 249ms | Nodes: 177278 | Result: 4746 moves
+Trial 29 | Beam: 14 | Noise: 841 | Pen: 2 | Trn: 260 | Bte: 73 | Grb: 98 | Time: 78ms | Nodes: 49124 | Result: Failed [Early Stopped (Stuck)] (Turn: 3424, Matched: 164/192, Garbage: 0)
+Trial 30 | Beam: 40 | Noise: 1559 | Pen: 3 | Trn: 37 | Bte: 147 | Grb: 13 | Time: 96ms | Nodes: 30116 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 20/192, Garbage: 0)
+Trial 31 | Beam: 41 | Noise: 1214 | Pen: 1 | Trn: 119 | Bte: 211 | Grb: 18 | Time: 258ms | Nodes: 181261 | Result: 4780 moves
+Trial 32 | Beam: 19 | Noise: 799 | Pen: 2 | Trn: 239 | Bte: 483 | Grb: 82 | Time: 125ms | Nodes: 75102 | Result: Failed [Early Stopped (Stuck)] (Turn: 3782, Matched: 140/192, Garbage: 0)
+Trial 33 | Beam: 20 | Noise: 527 | Pen: 2 | Trn: 209 | Bte: 198 | Grb: 98 | Time: 127ms | Nodes: 68530 | Result: Failed [Early Stopped (Stuck)] (Turn: 3898, Matched: 117/192, Garbage: 0)
+Trial 34 | Beam: 40 | Noise: 1144 | Pen: 2 | Trn: 182 | Bte: 298 | Grb: 58 | Time: 178ms | Nodes: 136148 | Result: 3571 moves
+Trial 35 | Beam: 36 | Noise: 1606 | Pen: 1 | Trn: 156 | Bte: 79 | Grb: 33 | Time: 80ms | Nodes: 46978 | Result: Failed [Early Stopped (Stuck)] (Turn: 866, Matched: 74/192, Garbage: 0)
+Trial 36 | Beam: 46 | Noise: 1925 | Pen: 1 | Trn: 171 | Bte: 448 | Grb: 90 | Time: 116ms | Nodes: 67840 | Result: Failed [Early Stopped (Stuck)] (Turn: 966, Matched: 56/192, Garbage: 0)
+Trial 37 | Beam: 50 | Noise: 1048 | Pen: 2 | Trn: 202 | Bte: 43 | Grb: 36 | Time: 101ms | Nodes: 27747 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 18/192, Garbage: 0)
+Trial 38 | Beam: 30 | Noise: 1463 | Pen: 2 | Trn: 215 | Bte: 439 | Grb: 18 | Time: 131ms | Nodes: 96971 | Result: 3402 moves  <-- Best Updated!
+Trial 39 | Beam: 46 | Noise: 1861 | Pen: 3 | Trn: 277 | Bte: 149 | Grb: 76 | Time: 117ms | Nodes: 31672 | Result: Failed [Early Stopped (Stuck)] (Turn: 50, Matched: 22/192, Garbage: 0)
+Trial 40 | Beam: 50 | Noise: 986 | Pen: 3 | Trn: 37 | Bte: 44 | Grb: 54 | Time: 139ms | Nodes: 27855 | Result: Failed [Early Stopped (Stuck)] (Turn: 58, Matched: 26/192, Garbage: 0)
+Trial 41 | Beam: 40 | Noise: 903 | Pen: 3 | Trn: 237 | Bte: 247 | Grb: 25 | Time: 162ms | Nodes: 89412 | Result: Failed [Early Stopped (Stuck)] (Turn: 1572, Matched: 140/192, Garbage: 0)
+Trial 42 | Beam: 36 | Noise: 1506 | Pen: 3 | Trn: 298 | Bte: 475 | Grb: 31 | Time: 164ms | Nodes: 121075 | Result: 3617 moves
+Trial 43 | Beam: 46 | Noise: 853 | Pen: 3 | Trn: 259 | Bte: 479 | Grb: 2 | Time: 218ms | Nodes: 164794 | Result: 4190 moves
+Trial 44 | Beam: 26 | Noise: 1601 | Pen: 2 | Trn: 192 | Bte: 232 | Grb: 100 | Time: 135ms | Nodes: 106983 | Result: Failed [Early Stopped (Stuck)] (Turn: 3313, Matched: 188/192, Garbage: 0)
+Trial 45 | Beam: 40 | Noise: 1841 | Pen: 3 | Trn: 270 | Bte: 370 | Grb: 10 | Time: 206ms | Nodes: 156856 | Result: 4224 moves
+Trial 46 | Beam: 18 | Noise: 1051 | Pen: 3 | Trn: 247 | Bte: 246 | Grb: 81 | Time: 20ms | Nodes: 6999 | Result: Failed [Early Stopped (Stuck)] (Turn: 49, Matched: 24/192, Garbage: 0)
+Trial 47 | Beam: 48 | Noise: 1099 | Pen: 3 | Trn: 172 | Bte: 175 | Grb: 32 | Time: 203ms | Nodes: 141502 | Result: 3244 moves  <-- Best Updated!
+Trial 48 | Beam: 21 | Noise: 1228 | Pen: 3 | Trn: 128 | Bte: 222 | Grb: 2 | Time: 91ms | Nodes: 68896 | Result: 3605 moves
+Trial 49 | Beam: 44 | Noise: 1959 | Pen: 3 | Trn: 186 | Bte: 367 | Grb: 96 | Time: 55ms | Nodes: 23353 | Result: Failed [Early Stopped (Stuck)] (Turn: 63, Matched: 24/192, Garbage: 0)
+Trial 50 | Beam: 28 | Noise: 1934 | Pen: 3 | Trn: 112 | Bte: 99 | Grb: 13 | Time: 242ms | Nodes: 140101 | Result: 5824 moves
+Trial 51 | Beam: 32 | Noise: 1667 | Pen: 1 | Trn: 237 | Bte: 167 | Grb: 57 | Time: 79ms | Nodes: 22912 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 20/192, Garbage: 0)
+Trial 52 | Beam: 37 | Noise: 1247 | Pen: 3 | Trn: 145 | Bte: 100 | Grb: 63 | Time: 239ms | Nodes: 182693 | Result: 5470 moves
+Trial 53 | Beam: 32 | Noise: 1718 | Pen: 2 | Trn: 56 | Bte: 402 | Grb: 34 | Time: 152ms | Nodes: 109094 | Result: 3646 moves
+Trial 54 | Beam: 20 | Noise: 1831 | Pen: 3 | Trn: 133 | Bte: 376 | Grb: 15 | Time: 102ms | Nodes: 68733 | Result: Failed [Early Stopped (Stuck)] (Turn: 3229, Matched: 140/192, Garbage: 0)
+Trial 55 | Beam: 26 | Noise: 762 | Pen: 2 | Trn: 94 | Bte: 96 | Grb: 61 | Time: 153ms | Nodes: 99909 | Result: 4515 moves
+Trial 56 | Beam: 37 | Noise: 1652 | Pen: 1 | Trn: 182 | Bte: 191 | Grb: 42 | Time: 66ms | Nodes: 36421 | Result: Failed [Early Stopped (Stuck)] (Turn: 399, Matched: 56/192, Garbage: 0)
+Trial 57 | Beam: 50 | Noise: 943 | Pen: 3 | Trn: 85 | Bte: 217 | Grb: 60 | Time: 288ms | Nodes: 158976 | Result: 3740 moves
+Trial 58 | Beam: 11 | Noise: 1651 | Pen: 3 | Trn: 78 | Bte: 233 | Grb: 80 | Time: 76ms | Nodes: 34195 | Result: Failed [Early Stopped (Stuck)] (Turn: 3589, Matched: 67/192, Garbage: 0)
+Trial 59 | Beam: 41 | Noise: 1346 | Pen: 1 | Trn: 169 | Bte: 332 | Grb: 57 | Time: 183ms | Nodes: 142355 | Result: 3943 moves
+Trial 60 | Beam: 40 | Noise: 530 | Pen: 2 | Trn: 57 | Bte: 294 | Grb: 73 | Time: 52ms | Nodes: 22163 | Result: Failed [Early Stopped (Stuck)] (Turn: 89, Matched: 24/192, Garbage: 0)
+Trial 61 | Beam: 32 | Noise: 741 | Pen: 1 | Trn: 46 | Bte: 104 | Grb: 56 | Time: 180ms | Nodes: 128493 | Result: 4972 moves
+Trial 62 | Beam: 37 | Noise: 663 | Pen: 3 | Trn: 277 | Bte: 419 | Grb: 24 | Time: 203ms | Nodes: 155125 | Result: 4352 moves
+Trial 63 | Beam: 18 | Noise: 1192 | Pen: 3 | Trn: 84 | Bte: 389 | Grb: 86 | Time: 128ms | Nodes: 84393 | Result: Failed [Early Stopped (Stuck)] (Turn: 5006, Matched: 126/192, Garbage: 0)
+Trial 64 | Beam: 29 | Noise: 783 | Pen: 1 | Trn: 231 | Bte: 488 | Grb: 86 | Time: 190ms | Nodes: 146399 | Result: 5334 moves
+Trial 65 | Beam: 30 | Noise: 1232 | Pen: 2 | Trn: 206 | Bte: 146 | Grb: 66 | Time: 78ms | Nodes: 31490 | Result: Failed [Early Stopped (Stuck)] (Turn: 708, Matched: 44/192, Garbage: 0)
+Trial 66 | Beam: 50 | Noise: 1583 | Pen: 1 | Trn: 202 | Bte: 116 | Grb: 96 | Time: 169ms | Nodes: 36515 | Result: Failed [Early Stopped (Stuck)] (Turn: 254, Matched: 42/192, Garbage: 0)
+Trial 67 | Beam: 32 | Noise: 580 | Pen: 2 | Trn: 179 | Bte: 35 | Grb: 82 | Time: 64ms | Nodes: 16841 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 18/192, Garbage: 0)
+Trial 68 | Beam: 35 | Noise: 1085 | Pen: 1 | Trn: 47 | Bte: 146 | Grb: 24 | Time: 212ms | Nodes: 120233 | Result: Failed [Early Stopped (Stuck)] (Turn: 3333, Matched: 148/192, Garbage: 0)
+Trial 69 | Beam: 35 | Noise: 929 | Pen: 2 | Trn: 242 | Bte: 92 | Grb: 12 | Time: 202ms | Nodes: 123503 | Result: Failed [Early Stopped (Stuck)] (Turn: 3441, Matched: 138/192, Garbage: 0)
+Trial 70 | Beam: 28 | Noise: 1763 | Pen: 1 | Trn: 144 | Bte: 39 | Grb: 21 | Time: 54ms | Nodes: 14523 | Result: Failed [Early Stopped (Stuck)] (Turn: 35, Matched: 16/192, Garbage: 1)
+Trial 71 | Beam: 37 | Noise: 766 | Pen: 1 | Trn: 276 | Bte: 200 | Grb: 21 | Time: 159ms | Nodes: 124350 | Result: 3604 moves
+Trial 72 | Beam: 33 | Noise: 1675 | Pen: 2 | Trn: 268 | Bte: 433 | Grb: 72 | Time: 198ms | Nodes: 141237 | Result: 4804 moves
+Trial 73 | Beam: 17 | Noise: 1329 | Pen: 3 | Trn: 141 | Bte: 250 | Grb: 53 | Time: 84ms | Nodes: 41817 | Result: Failed [Early Stopped (Stuck)] (Turn: 2286, Matched: 99/192, Garbage: 0)
+Trial 74 | Beam: 48 | Noise: 1605 | Pen: 3 | Trn: 286 | Bte: 79 | Grb: 39 | Time: 124ms | Nodes: 29805 | Result: Failed [Early Stopped (Stuck)] (Turn: 39, Matched: 20/192, Garbage: 0)
+Trial 75 | Beam: 12 | Noise: 905 | Pen: 2 | Trn: 215 | Bte: 176 | Grb: 85 | Time: 69ms | Nodes: 44701 | Result: Failed [Early Stopped (Stuck)] (Turn: 3698, Matched: 131/192, Garbage: 0)
+Trial 76 | Beam: 17 | Noise: 791 | Pen: 3 | Trn: 75 | Bte: 272 | Grb: 28 | Time: 22ms | Nodes: 10388 | Result: Failed [Time Out] (Turn: 647, Matched: 54/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (3244 moves) [Trial 47]
+  -> Beam: 48, Noise: 1099, Pen: 3, Trn: 172, Bte: 175, Grb: 32
+Rank 2 (3402 moves) [Trial 38]
+  -> Beam: 30, Noise: 1463, Pen: 2, Trn: 215, Bte: 439, Grb: 18
+Rank 3 (3417 moves) [Trial 5]
+  -> Beam: 41, Noise: 756, Pen: 3, Trn: 294, Bte: 500, Grb: 90
+Rank 4 (3571 moves) [Trial 34]
+  -> Beam: 40, Noise: 1144, Pen: 2, Trn: 182, Bte: 298, Grb: 58
+Rank 5 (3604 moves) [Trial 71]
+  -> Beam: 37, Noise: 766, Pen: 1, Trn: 276, Bte: 200, Grb: 21
+Rank 6 (3605 moves) [Trial 48]
+  -> Beam: 21, Noise: 1228, Pen: 3, Trn: 128, Bte: 222, Grb: 2
+Rank 7 (3617 moves) [Trial 42]
+  -> Beam: 36, Noise: 1506, Pen: 3, Trn: 298, Bte: 475, Grb: 31
+Rank 8 (3646 moves) [Trial 53]
+  -> Beam: 32, Noise: 1718, Pen: 2, Trn: 56, Bte: 402, Grb: 34
+Rank 9 (3740 moves) [Trial 57]
+  -> Beam: 50, Noise: 943, Pen: 3, Trn: 85, Bte: 217, Grb: 60
+Rank 10 (3803 moves) [Trial 8]
+  -> Beam: 19, Noise: 763, Pen: 3, Trn: 299, Bte: 496, Grb: 39
+Rank 11 (3919 moves) [Trial 3]
+  -> Beam: 29, Noise: 1846, Pen: 3, Trn: 55, Bte: 390, Grb: 24
+Rank 12 (3943 moves) [Trial 59]
+  -> Beam: 41, Noise: 1346, Pen: 1, Trn: 169, Bte: 332, Grb: 57
+Rank 13 (4102 moves) [Trial 14]
+  -> Beam: 25, Noise: 1466, Pen: 3, Trn: 297, Bte: 329, Grb: 54
+Rank 14 (4190 moves) [Trial 43]
+  -> Beam: 46, Noise: 853, Pen: 3, Trn: 259, Bte: 479, Grb: 2
+Rank 15 (4224 moves) [Trial 45]
+  -> Beam: 40, Noise: 1841, Pen: 3, Trn: 270, Bte: 370, Grb: 10
+Rank 16 (4294 moves) [Trial 15]
+  -> Beam: 16, Noise: 1859, Pen: 3, Trn: 229, Bte: 390, Grb: 96
+Rank 17 (4352 moves) [Trial 62]
+  -> Beam: 37, Noise: 663, Pen: 3, Trn: 277, Bte: 419, Grb: 24
+Rank 18 (4515 moves) [Trial 55]
+  -> Beam: 26, Noise: 762, Pen: 2, Trn: 94, Bte: 96, Grb: 61
+Rank 19 (4680 moves) [Trial 21]
+  -> Beam: 44, Noise: 819, Pen: 3, Trn: 59, Bte: 212, Grb: 58
+Rank 20 (4746 moves) [Trial 28]
+  -> Beam: 42, Noise: 1980, Pen: 2, Trn: 63, Bte: 279, Grb: 55
+Rank 21 (4780 moves) [Trial 31]
+  -> Beam: 41, Noise: 1214, Pen: 1, Trn: 119, Bte: 211, Grb: 18
+Rank 22 (4804 moves) [Trial 72]
+  -> Beam: 33, Noise: 1675, Pen: 2, Trn: 268, Bte: 433, Grb: 72
+Rank 23 (4972 moves) [Trial 61]
+  -> Beam: 32, Noise: 741, Pen: 1, Trn: 46, Bte: 104, Grb: 56
+Rank 24 (5020 moves) [Trial 16]
+  -> Beam: 32, Noise: 1138, Pen: 3, Trn: 269, Bte: 197, Grb: 54
+Rank 25 (5334 moves) [Trial 64]
+  -> Beam: 29, Noise: 783, Pen: 1, Trn: 231, Bte: 488, Grb: 86
+Rank 26 (5470 moves) [Trial 52]
+  -> Beam: 37, Noise: 1247, Pen: 3, Trn: 145, Bte: 100, Grb: 63
+Rank 27 (5519 moves) [Trial 4]
+  -> Beam: 22, Noise: 939, Pen: 3, Trn: 283, Bte: 328, Grb: 43
+Rank 28 (5824 moves) [Trial 50]
+  -> Beam: 28, Noise: 1934, Pen: 3, Trn: 112, Bte: 99, Grb: 13
+Rank 29 (6224 moves) [Trial 12]
+  -> Beam: 26, Noise: 1780, Pen: 2, Trn: 248, Bte: 372, Grb: 96
+Rank 30 (6245 moves) [Trial 19]
+  -> Beam: 24, Noise: 1446, Pen: 1, Trn: 86, Bte: 146, Grb: 53
+======================================
+
+Final Best Moves: 3244
+
+### seed:62 ###
+
+=== [Phase 1] Probe Start (0.3s) ===
+Probe Result : Failed (Time out or Dead End)
+Difficulty   : HARD
+====================================
+
+=== [Phase 2] Main Search Start ===
+Trial 1 | Beam: 45 | Noise: 1150 | Pen: 1 | Trn: 25 | Bte: 251 | Grb: 13 | Time: 61ms | Nodes: 33952 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 2 | Beam: 43 | Noise: 1612 | Pen: 3 | Trn: 37 | Bte: 233 | Grb: 85 | Time: 256ms | Nodes: 184656 | Result: 5231 moves  <-- Best Updated!
+Trial 3 | Beam: 43 | Noise: 1115 | Pen: 2 | Trn: 10 | Bte: 362 | Grb: 27 | Time: 253ms | Nodes: 194495 | Result: 4857 moves  <-- Best Updated!
+Trial 4 | Beam: 40 | Noise: 1599 | Pen: 1 | Trn: 72 | Bte: 74 | Grb: 48 | Time: 150ms | Nodes: 48147 | Result: Failed [Early Stopped (Stuck)] (Turn: 1214, Matched: 42/192, Garbage: 0)
+Trial 5 | Beam: 41 | Noise: 1718 | Pen: 3 | Trn: 230 | Bte: 413 | Grb: 96 | Time: 171ms | Nodes: 84579 | Result: Failed [Early Stopped (Stuck)] (Turn: 2074, Matched: 52/192, Garbage: 0)
+Trial 6 | Beam: 29 | Noise: 924 | Pen: 1 | Trn: 107 | Bte: 232 | Grb: 61 | Time: 42ms | Nodes: 23841 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 16/192, Garbage: 0)
+Trial 7 | Beam: 28 | Noise: 1832 | Pen: 1 | Trn: 154 | Bte: 456 | Grb: 50 | Time: 34ms | Nodes: 22889 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 8 | Beam: 16 | Noise: 1970 | Pen: 1 | Trn: 72 | Bte: 231 | Grb: 97 | Time: 17ms | Nodes: 10003 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 9 | Beam: 39 | Noise: 1879 | Pen: 1 | Trn: 248 | Bte: 293 | Grb: 29 | Time: 80ms | Nodes: 42894 | Result: Failed [Early Stopped (Stuck)] (Turn: 559, Matched: 52/192, Garbage: 0)
+Trial 10 | Beam: 34 | Noise: 1006 | Pen: 1 | Trn: 259 | Bte: 438 | Grb: 12 | Time: 179ms | Nodes: 140958 | Result: 4532 moves  <-- Best Updated!
+Trial 11 | Beam: 16 | Noise: 1180 | Pen: 2 | Trn: 125 | Bte: 25 | Grb: 61 | Time: 17ms | Nodes: 6190 | Result: Failed [Early Stopped (Stuck)] (Turn: 19, Matched: 10/192, Garbage: 1)
+Trial 12 | Beam: 34 | Noise: 1168 | Pen: 2 | Trn: 111 | Bte: 460 | Grb: 51 | Time: 200ms | Nodes: 137748 | Result: 4844 moves
+Trial 13 | Beam: 21 | Noise: 927 | Pen: 3 | Trn: 163 | Bte: 198 | Grb: 100 | Time: 32ms | Nodes: 16651 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 16/192, Garbage: 0)
+Trial 14 | Beam: 12 | Noise: 1572 | Pen: 3 | Trn: 235 | Bte: 485 | Grb: 95 | Time: 13ms | Nodes: 10216 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 15 | Beam: 21 | Noise: 1600 | Pen: 2 | Trn: 211 | Bte: 449 | Grb: 54 | Time: 27ms | Nodes: 17958 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 16 | Beam: 46 | Noise: 884 | Pen: 1 | Trn: 165 | Bte: 495 | Grb: 60 | Time: 77ms | Nodes: 43231 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 16/192, Garbage: 0)
+Trial 17 | Beam: 48 | Noise: 559 | Pen: 1 | Trn: 36 | Bte: 189 | Grb: 34 | Time: 64ms | Nodes: 37421 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 18 | Beam: 50 | Noise: 565 | Pen: 3 | Trn: 26 | Bte: 220 | Grb: 18 | Time: 95ms | Nodes: 47632 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 16/192, Garbage: 0)
+Trial 19 | Beam: 31 | Noise: 507 | Pen: 3 | Trn: 239 | Bte: 294 | Grb: 98 | Time: 41ms | Nodes: 26266 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 20 | Beam: 47 | Noise: 1188 | Pen: 2 | Trn: 163 | Bte: 237 | Grb: 74 | Time: 101ms | Nodes: 41094 | Result: Failed [Early Stopped (Stuck)] (Turn: 333, Matched: 48/192, Garbage: 0)
+Trial 21 | Beam: 42 | Noise: 1868 | Pen: 1 | Trn: 228 | Bte: 56 | Grb: 28 | Time: 49ms | Nodes: 19787 | Result: Failed [Early Stopped (Stuck)] (Turn: 17, Matched: 10/192, Garbage: 1)
+Trial 22 | Beam: 10 | Noise: 1389 | Pen: 3 | Trn: 230 | Bte: 160 | Grb: 17 | Time: 11ms | Nodes: 6760 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 8/192, Garbage: 0)
+Trial 23 | Beam: 32 | Noise: 1497 | Pen: 3 | Trn: 70 | Bte: 291 | Grb: 66 | Time: 44ms | Nodes: 26840 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 24 | Beam: 15 | Noise: 915 | Pen: 3 | Trn: 145 | Bte: 21 | Grb: 9 | Time: 17ms | Nodes: 6016 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 10/192, Garbage: 1)
+Trial 25 | Beam: 16 | Noise: 1921 | Pen: 2 | Trn: 76 | Bte: 380 | Grb: 29 | Time: 18ms | Nodes: 13255 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 26 | Beam: 37 | Noise: 780 | Pen: 3 | Trn: 242 | Bte: 294 | Grb: 7 | Time: 78ms | Nodes: 34417 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 20/192, Garbage: 0)
+Trial 27 | Beam: 28 | Noise: 1996 | Pen: 2 | Trn: 198 | Bte: 357 | Grb: 45 | Time: 153ms | Nodes: 127873 | Result: 4819 moves
+Trial 28 | Beam: 15 | Noise: 697 | Pen: 3 | Trn: 262 | Bte: 36 | Grb: 16 | Time: 20ms | Nodes: 7344 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 16/192, Garbage: 0)
+Trial 29 | Beam: 46 | Noise: 618 | Pen: 3 | Trn: 66 | Bte: 104 | Grb: 15 | Time: 87ms | Nodes: 29157 | Result: Failed [Early Stopped (Stuck)] (Turn: 44, Matched: 18/192, Garbage: 0)
+Trial 30 | Beam: 47 | Noise: 1935 | Pen: 3 | Trn: 87 | Bte: 340 | Grb: 10 | Time: 69ms | Nodes: 39282 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 31 | Beam: 42 | Noise: 843 | Pen: 2 | Trn: 255 | Bte: 435 | Grb: 34 | Time: 74ms | Nodes: 41091 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 16/192, Garbage: 0)
+Trial 32 | Beam: 10 | Noise: 1441 | Pen: 2 | Trn: 135 | Bte: 280 | Grb: 52 | Time: 75ms | Nodes: 50040 | Result: Failed [Early Stopped (Stuck)] (Turn: 5406, Matched: 165/192, Garbage: 0)
+Trial 33 | Beam: 30 | Noise: 1576 | Pen: 3 | Trn: 115 | Bte: 388 | Grb: 17 | Time: 56ms | Nodes: 28679 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 16/192, Garbage: 0)
+Trial 34 | Beam: 39 | Noise: 1726 | Pen: 3 | Trn: 84 | Bte: 17 | Grb: 56 | Time: 62ms | Nodes: 16392 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 18/192, Garbage: 0)
+Trial 35 | Beam: 15 | Noise: 1755 | Pen: 2 | Trn: 258 | Bte: 388 | Grb: 37 | Time: 20ms | Nodes: 13477 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 14/192, Garbage: 0)
+Trial 36 | Beam: 10 | Noise: 1340 | Pen: 1 | Trn: 262 | Bte: 420 | Grb: 27 | Time: 20ms | Nodes: 10767 | Result: Failed [Early Stopped (Stuck)] (Turn: 344, Matched: 18/192, Garbage: 0)
+Trial 37 | Beam: 11 | Noise: 1354 | Pen: 2 | Trn: 87 | Bte: 196 | Grb: 71 | Time: 36ms | Nodes: 16049 | Result: Failed [Early Stopped (Stuck)] (Turn: 1339, Matched: 36/192, Garbage: 0)
+Trial 38 | Beam: 12 | Noise: 645 | Pen: 3 | Trn: 106 | Bte: 324 | Grb: 34 | Time: 14ms | Nodes: 10221 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 39 | Beam: 16 | Noise: 809 | Pen: 2 | Trn: 189 | Bte: 201 | Grb: 34 | Time: 20ms | Nodes: 13637 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 14/192, Garbage: 0)
+Trial 40 | Beam: 36 | Noise: 1335 | Pen: 2 | Trn: 77 | Bte: 457 | Grb: 19 | Time: 91ms | Nodes: 33114 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 41 | Beam: 45 | Noise: 1651 | Pen: 3 | Trn: 163 | Bte: 179 | Grb: 79 | Time: 60ms | Nodes: 32722 | Result: Failed [Early Stopped (Stuck)] (Turn: 22, Matched: 10/192, Garbage: 0)
+Trial 42 | Beam: 23 | Noise: 1955 | Pen: 3 | Trn: 71 | Bte: 255 | Grb: 53 | Time: 38ms | Nodes: 19509 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 16/192, Garbage: 0)
+Trial 43 | Beam: 27 | Noise: 665 | Pen: 1 | Trn: 221 | Bte: 477 | Grb: 49 | Time: 34ms | Nodes: 22898 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 44 | Beam: 28 | Noise: 758 | Pen: 2 | Trn: 205 | Bte: 340 | Grb: 48 | Time: 67ms | Nodes: 27960 | Result: Failed [Early Stopped (Stuck)] (Turn: 425, Matched: 48/192, Garbage: 0)
+Trial 45 | Beam: 34 | Noise: 784 | Pen: 1 | Trn: 262 | Bte: 236 | Grb: 67 | Time: 56ms | Nodes: 27857 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 46 | Beam: 19 | Noise: 949 | Pen: 3 | Trn: 205 | Bte: 445 | Grb: 19 | Time: 33ms | Nodes: 17991 | Result: Failed [Early Stopped (Stuck)] (Turn: 42, Matched: 16/192, Garbage: 0)
+Trial 47 | Beam: 43 | Noise: 680 | Pen: 2 | Trn: 233 | Bte: 114 | Grb: 88 | Time: 70ms | Nodes: 29431 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 16/192, Garbage: 0)
+Trial 48 | Beam: 30 | Noise: 1743 | Pen: 3 | Trn: 159 | Bte: 341 | Grb: 38 | Time: 51ms | Nodes: 28100 | Result: Failed [Early Stopped (Stuck)] (Turn: 45, Matched: 16/192, Garbage: 0)
+Trial 49 | Beam: 32 | Noise: 1038 | Pen: 1 | Trn: 225 | Bte: 288 | Grb: 19 | Time: 74ms | Nodes: 27826 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 50 | Beam: 23 | Noise: 1812 | Pen: 2 | Trn: 199 | Bte: 228 | Grb: 25 | Time: 27ms | Nodes: 16509 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 10/192, Garbage: 0)
+Trial 51 | Beam: 35 | Noise: 1476 | Pen: 3 | Trn: 283 | Bte: 63 | Grb: 6 | Time: 45ms | Nodes: 20039 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 14/192, Garbage: 0)
+Trial 52 | Beam: 48 | Noise: 1267 | Pen: 2 | Trn: 155 | Bte: 363 | Grb: 65 | Time: 114ms | Nodes: 43107 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 53 | Beam: 49 | Noise: 709 | Pen: 2 | Trn: 197 | Bte: 230 | Grb: 79 | Time: 86ms | Nodes: 42684 | Result: Failed [Early Stopped (Stuck)] (Turn: 34, Matched: 16/192, Garbage: 0)
+Trial 54 | Beam: 18 | Noise: 870 | Pen: 1 | Trn: 174 | Bte: 86 | Grb: 27 | Time: 18ms | Nodes: 10078 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 55 | Beam: 12 | Noise: 1455 | Pen: 2 | Trn: 268 | Bte: 245 | Grb: 54 | Time: 80ms | Nodes: 49541 | Result: Failed [Early Stopped (Stuck)] (Turn: 4575, Matched: 150/192, Garbage: 0)
+Trial 56 | Beam: 24 | Noise: 1051 | Pen: 2 | Trn: 250 | Bte: 100 | Grb: 60 | Time: 27ms | Nodes: 13902 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 57 | Beam: 14 | Noise: 1360 | Pen: 2 | Trn: 141 | Bte: 349 | Grb: 36 | Time: 85ms | Nodes: 55932 | Result: Failed [Early Stopped (Stuck)] (Turn: 4187, Matched: 107/192, Garbage: 0)
+Trial 58 | Beam: 39 | Noise: 561 | Pen: 2 | Trn: 45 | Bte: 402 | Grb: 3 | Time: 58ms | Nodes: 33730 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 59 | Beam: 42 | Noise: 1040 | Pen: 2 | Trn: 252 | Bte: 120 | Grb: 32 | Time: 55ms | Nodes: 29495 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 14/192, Garbage: 0)
+Trial 60 | Beam: 14 | Noise: 1979 | Pen: 1 | Trn: 230 | Bte: 410 | Grb: 94 | Time: 15ms | Nodes: 9712 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 8/192, Garbage: 0)
+Trial 61 | Beam: 35 | Noise: 1134 | Pen: 1 | Trn: 126 | Bte: 390 | Grb: 44 | Time: 44ms | Nodes: 29171 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 62 | Beam: 31 | Noise: 1730 | Pen: 2 | Trn: 187 | Bte: 468 | Grb: 6 | Time: 42ms | Nodes: 26164 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 63 | Beam: 13 | Noise: 619 | Pen: 1 | Trn: 275 | Bte: 358 | Grb: 52 | Time: 13ms | Nodes: 9745 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 8/192, Garbage: 0)
+Trial 64 | Beam: 23 | Noise: 1059 | Pen: 2 | Trn: 167 | Bte: 62 | Grb: 36 | Time: 26ms | Nodes: 11958 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 65 | Beam: 43 | Noise: 1712 | Pen: 3 | Trn: 117 | Bte: 104 | Grb: 54 | Time: 50ms | Nodes: 22882 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 8/192, Garbage: 0)
+Trial 66 | Beam: 46 | Noise: 1790 | Pen: 1 | Trn: 281 | Bte: 93 | Grb: 73 | Time: 57ms | Nodes: 23498 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 10/192, Garbage: 0)
+Trial 67 | Beam: 44 | Noise: 1738 | Pen: 3 | Trn: 78 | Bte: 251 | Grb: 13 | Time: 116ms | Nodes: 38567 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 12/192, Garbage: 0)
+Trial 68 | Beam: 23 | Noise: 879 | Pen: 3 | Trn: 183 | Bte: 260 | Grb: 99 | Time: 118ms | Nodes: 102348 | Result: 4900 moves
+Trial 69 | Beam: 44 | Noise: 537 | Pen: 2 | Trn: 57 | Bte: 205 | Grb: 56 | Time: 106ms | Nodes: 39093 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 70 | Beam: 42 | Noise: 592 | Pen: 2 | Trn: 73 | Bte: 58 | Grb: 62 | Time: 52ms | Nodes: 21262 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 71 | Beam: 29 | Noise: 772 | Pen: 1 | Trn: 105 | Bte: 241 | Grb: 94 | Time: 38ms | Nodes: 14184 | Result: Failed [Early Stopped (Stuck)] (Turn: 133, Matched: 32/192, Garbage: 0)
+Trial 72 | Beam: 34 | Noise: 1416 | Pen: 3 | Trn: 244 | Bte: 269 | Grb: 87 | Time: 44ms | Nodes: 28216 | Result: Failed [Early Stopped (Stuck)] (Turn: 19, Matched: 10/192, Garbage: 0)
+Trial 73 | Beam: 25 | Noise: 1930 | Pen: 3 | Trn: 180 | Bte: 47 | Grb: 76 | Time: 48ms | Nodes: 12368 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 74 | Beam: 24 | Noise: 1174 | Pen: 1 | Trn: 147 | Bte: 27 | Grb: 32 | Time: 25ms | Nodes: 10302 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 75 | Beam: 37 | Noise: 542 | Pen: 1 | Trn: 142 | Bte: 498 | Grb: 15 | Time: 181ms | Nodes: 127188 | Result: 3753 moves  <-- Best Updated!
+Trial 76 | Beam: 43 | Noise: 507 | Pen: 3 | Trn: 119 | Bte: 464 | Grb: 54 | Time: 171ms | Nodes: 74390 | Result: Failed [Early Stopped (Stuck)] (Turn: 1845, Matched: 52/192, Garbage: 0)
+Trial 77 | Beam: 43 | Noise: 500 | Pen: 1 | Trn: 207 | Bte: 496 | Grb: 98 | Time: 56ms | Nodes: 35833 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 78 | Beam: 21 | Noise: 957 | Pen: 1 | Trn: 153 | Bte: 277 | Grb: 49 | Time: 33ms | Nodes: 17927 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 79 | Beam: 21 | Noise: 1204 | Pen: 2 | Trn: 101 | Bte: 181 | Grb: 25 | Time: 59ms | Nodes: 22272 | Result: Failed [Early Stopped (Stuck)] (Turn: 683, Matched: 36/192, Garbage: 0)
+Trial 80 | Beam: 42 | Noise: 567 | Pen: 2 | Trn: 251 | Bte: 112 | Grb: 35 | Time: 280ms | Nodes: 184636 | Result: 5220 moves
+Trial 81 | Beam: 12 | Noise: 602 | Pen: 1 | Trn: 68 | Bte: 280 | Grb: 79 | Time: 60ms | Nodes: 25604 | Result: Failed [Early Stopped (Stuck)] (Turn: 2033, Matched: 54/192, Garbage: 0)
+Trial 82 | Beam: 19 | Noise: 1459 | Pen: 3 | Trn: 182 | Bte: 82 | Grb: 28 | Time: 26ms | Nodes: 11540 | Result: Failed [Early Stopped (Stuck)] (Turn: 37, Matched: 16/192, Garbage: 0)
+Trial 83 | Beam: 32 | Noise: 1982 | Pen: 2 | Trn: 22 | Bte: 252 | Grb: 65 | Time: 42ms | Nodes: 22914 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 10/192, Garbage: 0)
+Trial 84 | Beam: 40 | Noise: 1946 | Pen: 3 | Trn: 137 | Bte: 45 | Grb: 32 | Time: 50ms | Nodes: 20002 | Result: Failed [Early Stopped (Stuck)] (Turn: 33, Matched: 14/192, Garbage: 0)
+Trial 85 | Beam: 36 | Noise: 1886 | Pen: 2 | Trn: 197 | Bte: 450 | Grb: 62 | Time: 81ms | Nodes: 32610 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 86 | Beam: 17 | Noise: 1145 | Pen: 1 | Trn: 153 | Bte: 372 | Grb: 5 | Time: 20ms | Nodes: 12904 | Result: Failed [Early Stopped (Stuck)] (Turn: 13, Matched: 8/192, Garbage: 0)
+Trial 87 | Beam: 41 | Noise: 1994 | Pen: 3 | Trn: 120 | Bte: 244 | Grb: 77 | Time: 55ms | Nodes: 32235 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 88 | Beam: 30 | Noise: 1908 | Pen: 1 | Trn: 89 | Bte: 140 | Grb: 93 | Time: 118ms | Nodes: 49264 | Result: Failed [Early Stopped (Stuck)] (Turn: 1761, Matched: 48/192, Garbage: 0)
+Trial 89 | Beam: 15 | Noise: 990 | Pen: 2 | Trn: 95 | Bte: 197 | Grb: 48 | Time: 18ms | Nodes: 11826 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 90 | Beam: 34 | Noise: 1271 | Pen: 2 | Trn: 145 | Bte: 141 | Grb: 48 | Time: 43ms | Nodes: 23563 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 14/192, Garbage: 0)
+Trial 91 | Beam: 46 | Noise: 1325 | Pen: 2 | Trn: 239 | Bte: 100 | Grb: 92 | Time: 57ms | Nodes: 26244 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 92 | Beam: 43 | Noise: 1944 | Pen: 2 | Trn: 274 | Bte: 61 | Grb: 24 | Time: 62ms | Nodes: 24405 | Result: Failed [Early Stopped (Stuck)] (Turn: 39, Matched: 16/192, Garbage: 0)
+Trial 93 | Beam: 34 | Noise: 934 | Pen: 3 | Trn: 82 | Bte: 392 | Grb: 98 | Time: 49ms | Nodes: 31783 | Result: Failed [Early Stopped (Stuck)] (Turn: 29, Matched: 14/192, Garbage: 0)
+Trial 94 | Beam: 11 | Noise: 572 | Pen: 3 | Trn: 48 | Bte: 18 | Grb: 70 | Time: 11ms | Nodes: 3963 | Result: Failed [Early Stopped (Stuck)] (Turn: 43, Matched: 14/192, Garbage: 0)
+Trial 95 | Beam: 19 | Noise: 922 | Pen: 1 | Trn: 269 | Bte: 122 | Grb: 99 | Time: 37ms | Nodes: 12106 | Result: Failed [Early Stopped (Stuck)] (Turn: 48, Matched: 20/192, Garbage: 0)
+Trial 96 | Beam: 34 | Noise: 1686 | Pen: 3 | Trn: 207 | Bte: 373 | Grb: 59 | Time: 47ms | Nodes: 28829 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 97 | Beam: 48 | Noise: 592 | Pen: 2 | Trn: 154 | Bte: 212 | Grb: 18 | Time: 102ms | Nodes: 41323 | Result: Failed [Early Stopped (Stuck)] (Turn: 47, Matched: 20/192, Garbage: 0)
+Trial 98 | Beam: 30 | Noise: 1858 | Pen: 2 | Trn: 296 | Bte: 76 | Grb: 97 | Time: 50ms | Nodes: 16490 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 16/192, Garbage: 0)
+Trial 99 | Beam: 44 | Noise: 1797 | Pen: 3 | Trn: 241 | Bte: 282 | Grb: 97 | Time: 216ms | Nodes: 167739 | Result: 4261 moves
+Trial 100 | Beam: 37 | Noise: 1572 | Pen: 1 | Trn: 193 | Bte: 331 | Grb: 14 | Time: 49ms | Nodes: 28714 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 101 | Beam: 36 | Noise: 964 | Pen: 2 | Trn: 283 | Bte: 282 | Grb: 66 | Time: 80ms | Nodes: 32320 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 102 | Beam: 24 | Noise: 1694 | Pen: 2 | Trn: 226 | Bte: 169 | Grb: 97 | Time: 37ms | Nodes: 17875 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 16/192, Garbage: 0)
+Trial 103 | Beam: 20 | Noise: 1808 | Pen: 2 | Trn: 107 | Bte: 73 | Grb: 54 | Time: 21ms | Nodes: 10059 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 104 | Beam: 12 | Noise: 856 | Pen: 1 | Trn: 246 | Bte: 384 | Grb: 100 | Time: 13ms | Nodes: 9741 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 105 | Beam: 35 | Noise: 1446 | Pen: 2 | Trn: 56 | Bte: 289 | Grb: 40 | Time: 49ms | Nodes: 28911 | Result: Failed [Early Stopped (Stuck)] (Turn: 23, Matched: 10/192, Garbage: 0)
+Trial 106 | Beam: 43 | Noise: 1323 | Pen: 3 | Trn: 120 | Bte: 225 | Grb: 18 | Time: 100ms | Nodes: 35764 | Result: Failed [Early Stopped (Stuck)] (Turn: 140, Matched: 38/192, Garbage: 0)
+Trial 107 | Beam: 43 | Noise: 585 | Pen: 3 | Trn: 106 | Bte: 155 | Grb: 11 | Time: 80ms | Nodes: 33657 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 108 | Beam: 44 | Noise: 1419 | Pen: 2 | Trn: 38 | Bte: 405 | Grb: 25 | Time: 106ms | Nodes: 40058 | Result: Failed [Early Stopped (Stuck)] (Turn: 28, Matched: 12/192, Garbage: 0)
+Trial 109 | Beam: 19 | Noise: 1861 | Pen: 3 | Trn: 154 | Bte: 247 | Grb: 38 | Time: 40ms | Nodes: 16216 | Result: Failed [Early Stopped (Stuck)] (Turn: 27, Matched: 12/192, Garbage: 0)
+Trial 110 | Beam: 42 | Noise: 1539 | Pen: 2 | Trn: 192 | Bte: 277 | Grb: 99 | Time: 57ms | Nodes: 33600 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 111 | Beam: 13 | Noise: 1282 | Pen: 1 | Trn: 22 | Bte: 42 | Grb: 62 | Time: 13ms | Nodes: 5759 | Result: Failed [Early Stopped (Stuck)] (Turn: 20, Matched: 10/192, Garbage: 2)
+Trial 112 | Beam: 22 | Noise: 1746 | Pen: 2 | Trn: 149 | Bte: 189 | Grb: 44 | Time: 26ms | Nodes: 14742 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 113 | Beam: 43 | Noise: 1662 | Pen: 3 | Trn: 44 | Bte: 27 | Grb: 21 | Time: 66ms | Nodes: 20504 | Result: Failed [Early Stopped (Stuck)] (Turn: 38, Matched: 18/192, Garbage: 0)
+Trial 114 | Beam: 12 | Noise: 1061 | Pen: 3 | Trn: 189 | Bte: 117 | Grb: 7 | Time: 12ms | Nodes: 6859 | Result: Failed [Early Stopped (Stuck)] (Turn: 9, Matched: 8/192, Garbage: 0)
+Trial 115 | Beam: 37 | Noise: 827 | Pen: 2 | Trn: 229 | Bte: 411 | Grb: 9 | Time: 96ms | Nodes: 34356 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 116 | Beam: 36 | Noise: 1690 | Pen: 1 | Trn: 80 | Bte: 219 | Grb: 58 | Time: 186ms | Nodes: 139322 | Result: 4405 moves
+Trial 117 | Beam: 17 | Noise: 1874 | Pen: 2 | Trn: 110 | Bte: 209 | Grb: 39 | Time: 37ms | Nodes: 20273 | Result: Failed [Early Stopped (Stuck)] (Turn: 744, Matched: 40/192, Garbage: 0)
+Trial 118 | Beam: 44 | Noise: 1894 | Pen: 3 | Trn: 271 | Bte: 497 | Grb: 71 | Time: 81ms | Nodes: 42096 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 16/192, Garbage: 0)
+Trial 119 | Beam: 29 | Noise: 1635 | Pen: 2 | Trn: 243 | Bte: 358 | Grb: 47 | Time: 208ms | Nodes: 154598 | Result: 6057 moves
+Trial 120 | Beam: 37 | Noise: 663 | Pen: 1 | Trn: 132 | Bte: 394 | Grb: 45 | Time: 49ms | Nodes: 31053 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 121 | Beam: 12 | Noise: 1794 | Pen: 1 | Trn: 127 | Bte: 418 | Grb: 97 | Time: 13ms | Nodes: 9360 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 122 | Beam: 40 | Noise: 1361 | Pen: 2 | Trn: 28 | Bte: 23 | Grb: 8 | Time: 51ms | Nodes: 16871 | Result: Failed [Early Stopped (Stuck)] (Turn: 24, Matched: 10/192, Garbage: 2)
+Trial 123 | Beam: 26 | Noise: 586 | Pen: 1 | Trn: 251 | Bte: 372 | Grb: 37 | Time: 30ms | Nodes: 21859 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 124 | Beam: 47 | Noise: 1631 | Pen: 3 | Trn: 212 | Bte: 382 | Grb: 15 | Time: 72ms | Nodes: 39784 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 125 | Beam: 38 | Noise: 1779 | Pen: 1 | Trn: 25 | Bte: 115 | Grb: 96 | Time: 193ms | Nodes: 65710 | Result: Failed [Early Stopped (Stuck)] (Turn: 1924, Matched: 59/192, Garbage: 0)
+Trial 126 | Beam: 37 | Noise: 1089 | Pen: 1 | Trn: 69 | Bte: 312 | Grb: 58 | Time: 47ms | Nodes: 29712 | Result: Failed [Early Stopped (Stuck)] (Turn: 18, Matched: 10/192, Garbage: 0)
+Trial 127 | Beam: 18 | Noise: 1898 | Pen: 2 | Trn: 227 | Bte: 419 | Grb: 11 | Time: 23ms | Nodes: 15152 | Result: Failed [Early Stopped (Stuck)] (Turn: 21, Matched: 10/192, Garbage: 0)
+Trial 128 | Beam: 17 | Noise: 705 | Pen: 3 | Trn: 276 | Bte: 300 | Grb: 90 | Time: 23ms | Nodes: 15333 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 14/192, Garbage: 0)
+Trial 129 | Beam: 21 | Noise: 1116 | Pen: 3 | Trn: 268 | Bte: 463 | Grb: 84 | Time: 26ms | Nodes: 18139 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 130 | Beam: 39 | Noise: 1170 | Pen: 3 | Trn: 20 | Bte: 191 | Grb: 89 | Time: 64ms | Nodes: 30638 | Result: Failed [Early Stopped (Stuck)] (Turn: 41, Matched: 16/192, Garbage: 0)
+Trial 131 | Beam: 39 | Noise: 1645 | Pen: 3 | Trn: 93 | Bte: 335 | Grb: 43 | Time: 70ms | Nodes: 35837 | Result: Failed [Early Stopped (Stuck)] (Turn: 30, Matched: 16/192, Garbage: 0)
+Trial 132 | Beam: 30 | Noise: 1072 | Pen: 2 | Trn: 92 | Bte: 273 | Grb: 98 | Time: 251ms | Nodes: 159610 | Result: Failed [Early Stopped (Stuck)] (Turn: 5234, Matched: 176/192, Garbage: 0)
+Trial 133 | Beam: 34 | Noise: 1203 | Pen: 1 | Trn: 281 | Bte: 110 | Grb: 37 | Time: 197ms | Nodes: 139169 | Result: 4867 moves
+Trial 134 | Beam: 26 | Noise: 953 | Pen: 2 | Trn: 172 | Bte: 276 | Grb: 23 | Time: 61ms | Nodes: 23433 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 135 | Beam: 37 | Noise: 824 | Pen: 3 | Trn: 34 | Bte: 364 | Grb: 81 | Time: 58ms | Nodes: 34779 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 14/192, Garbage: 0)
+Trial 136 | Beam: 25 | Noise: 941 | Pen: 2 | Trn: 227 | Bte: 309 | Grb: 69 | Time: 37ms | Nodes: 22869 | Result: Failed [Early Stopped (Stuck)] (Turn: 36, Matched: 14/192, Garbage: 0)
+Trial 137 | Beam: 15 | Noise: 1173 | Pen: 1 | Trn: 32 | Bte: 46 | Grb: 7 | Time: 98ms | Nodes: 80705 | Result: 6301 moves
+Trial 138 | Beam: 29 | Noise: 1498 | Pen: 2 | Trn: 130 | Bte: 40 | Grb: 82 | Time: 35ms | Nodes: 12473 | Result: Failed [Early Stopped (Stuck)] (Turn: 16, Matched: 10/192, Garbage: 0)
+Trial 139 | Beam: 37 | Noise: 672 | Pen: 1 | Trn: 157 | Bte: 117 | Grb: 27 | Time: 88ms | Nodes: 36038 | Result: Failed [Early Stopped (Stuck)] (Turn: 427, Matched: 38/192, Garbage: 0)
+Trial 140 | Beam: 37 | Noise: 1742 | Pen: 1 | Trn: 110 | Bte: 487 | Grb: 85 | Time: 62ms | Nodes: 33551 | Result: Failed [Early Stopped (Stuck)] (Turn: 32, Matched: 16/192, Garbage: 0)
+Trial 141 | Beam: 43 | Noise: 847 | Pen: 2 | Trn: 75 | Bte: 282 | Grb: 26 | Time: 100ms | Nodes: 39099 | Result: Failed [Early Stopped (Stuck)] (Turn: 26, Matched: 12/192, Garbage: 0)
+Trial 142 | Beam: 44 | Noise: 721 | Pen: 1 | Trn: 104 | Bte: 34 | Grb: 15 | Time: 72ms | Nodes: 30743 | Result: Failed [Time Out] (Turn: 1179, Matched: 78/192, Garbage: 0)
+====================================
+
+=== [Ranking of Successful Trials] ===
+Rank 1 (3753 moves) [Trial 75]
+  -> Beam: 37, Noise: 542, Pen: 1, Trn: 142, Bte: 498, Grb: 15
+Rank 2 (4261 moves) [Trial 99]
+  -> Beam: 44, Noise: 1797, Pen: 3, Trn: 241, Bte: 282, Grb: 97
+Rank 3 (4405 moves) [Trial 116]
+  -> Beam: 36, Noise: 1690, Pen: 1, Trn: 80, Bte: 219, Grb: 58
+Rank 4 (4532 moves) [Trial 10]
+  -> Beam: 34, Noise: 1006, Pen: 1, Trn: 259, Bte: 438, Grb: 12
+Rank 5 (4819 moves) [Trial 27]
+  -> Beam: 28, Noise: 1996, Pen: 2, Trn: 198, Bte: 357, Grb: 45
+Rank 6 (4844 moves) [Trial 12]
+  -> Beam: 34, Noise: 1168, Pen: 2, Trn: 111, Bte: 460, Grb: 51
+Rank 7 (4857 moves) [Trial 3]
+  -> Beam: 43, Noise: 1115, Pen: 2, Trn: 10, Bte: 362, Grb: 27
+Rank 8 (4867 moves) [Trial 133]
+  -> Beam: 34, Noise: 1203, Pen: 1, Trn: 281, Bte: 110, Grb: 37
+Rank 9 (4900 moves) [Trial 68]
+  -> Beam: 23, Noise: 879, Pen: 3, Trn: 183, Bte: 260, Grb: 99
+Rank 10 (5220 moves) [Trial 80]
+  -> Beam: 42, Noise: 567, Pen: 2, Trn: 251, Bte: 112, Grb: 35
+Rank 11 (5231 moves) [Trial 2]
+  -> Beam: 43, Noise: 1612, Pen: 3, Trn: 37, Bte: 233, Grb: 85
+Rank 12 (6057 moves) [Trial 119]
+  -> Beam: 29, Noise: 1635, Pen: 2, Trn: 243, Bte: 358, Grb: 47
+Rank 13 (6301 moves) [Trial 137]
+  -> Beam: 15, Noise: 1173, Pen: 1, Trn: 32, Bte: 46, Grb: 7
+======================================
+
+Final Best Moves: 3753
