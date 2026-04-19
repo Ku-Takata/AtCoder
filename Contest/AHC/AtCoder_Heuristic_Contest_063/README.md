@@ -13,8 +13,8 @@
 ___
 
 ## 1. 最終結果
-![結果順位](./images/result_ranking.png)
-![スコア](./images/result_score.png)
+<img src="./images/result_ranking.png" width="1000" alt="結果順位">
+<img src="./images/result_score.png" width="50%" alt="スコア">
 
 画像の通り、結果は90位でスコアは20532、パフォーマンスは2102、レートは水色になりました。
 
@@ -120,6 +120,7 @@ ___
 ## 3. 取り組み方の工夫
 ### 3.1 ジェネレーター・ビジュアライザーの利用
 [AHC063 入力ジェネレータ・ビジュアライザ](https://img.atcoder.jp/ahc063/EbfTtMTp.html?lang=ja&_gl=1*3adide*_ga*OTA5NDI3NjIxLjE3NjU0MjYzMzk.*_ga_RC512FD18N*czE3NzYwNzQ2NDYkbzMzOSRnMSR0MTc3NjA4NzE2OSRqNTgkbDAkaDA.)
+
 このツールには大変お世話になった。
 毎回のヒューリスティックコンテストにあるが、考察にかなり役立ち、これを使わない手は無い。
 どこで上手くいっていないのかや、手動による良い動きの検証などができる。
@@ -167,3 +168,4 @@ C++を理解し、書くのがかなり大変だった。
 - より高度なアルゴリズムの学習
 - 軽量化、見やすいコードの学習
 - 思いついたことを高速に書く実装力
+- ランダムテスト用のコードを作って事前にどういったケースに強い・弱いのかを調査
