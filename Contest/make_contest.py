@@ -35,7 +35,7 @@ def main():
         prefix = "AtCoder_Heuristic_Contest"
         parent_dir = "AHC"
         identifier = input("コンテスト番号を入力してください (例: 030): ")
-        problems = ["A", "B", "C"]
+        problems = ["A"]
     elif choice == '6':
         prefix = "Others"
         parent_dir = "Others"

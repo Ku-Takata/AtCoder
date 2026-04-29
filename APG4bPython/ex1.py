@@ -1,2 +1,0 @@
-print("こんにちは")
-print("AtCoder")
