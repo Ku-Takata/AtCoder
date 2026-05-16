@@ -1,0 +1,31 @@
+X = int(input())
+Q = int(input())
+
+# 毎回中央値探索はできない
+# 中央値がどのように変わっていくかを考えると、
+# 現段階の中央値よりも大きい値が2つなら前の中央値が左にシフト
+# 小さい値2つなら前の中央値が右にシフト
+# 大きいのと小さいのなら変化なし
+# つまり一旦全部のABをリストにまとめて、逆順で中央値よりも大きかったか小さかったかを判定したらいけそう
+# WA???
+# 手元で確認したら同じ値かつ小さい値や大きい値が来たときにおかしくなってそう
+# というかこれ優先度付キューで解けそう
+
+import heapq
+low = [-X]
+high = []
+
+for i in range(Q):
+    a, b = map(int, input().split())
+    for v in (a, b):
+        if v <= -low[0]:
+            heapq.heappush(low, -v)
+        else:
+            heapq.heappush(high, v)
+
+    while len(low) > len(high) + 1:
+        heapq.heappush(high, -heapq.heappop(low))
+    while len(high) > len(low):
+        heapq.heappush(low, -heapq.heappop(high))
+
+    print(-low[0])
