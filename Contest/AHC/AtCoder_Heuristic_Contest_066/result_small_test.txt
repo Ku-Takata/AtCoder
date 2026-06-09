@@ -1,0 +1,45 @@
+bit_macro2
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 216,380
+Average Score: 216.38
+Max Exec Time: 1.090 s
+════════════════════════════════════════
+
+delete_bonus
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 210,895
+Average Score: 210.90
+Max Exec Time: 0.761 s
+════════════════════════════════════════
+delete_bonus BEAM_WIDTH = 10000 なぜかこれがテストデータでは一番良い
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 207,896
+Average Score: 207.90
+Max Exec Time: 1.668 s
+════════════════════════════════════════
+
+ban_1macro + TSP + max_macro = 29 + BEAM_WIDTH = 10000
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 201,059
+Average Score: 201.06
+Max Exec Time: 1.871 s
+════════════════════════════════════════
+ban_1macro + TSP + max_macro = 29 + BEAM_WIDTH = 5000
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 204,726
+Average Score: 204.73
+Max Exec Time: 1.034 s
+════════════════════════════════════════
+
+動的ビーム幅 + Maxマクロ文字列29
+════════════════════════════════════════
+Tested Cases : 1000
+Total Score  : 203,481
+Average Score: 203.48
+Max Exec Time: 1.195 s
+════════════════════════════════════════
