@@ -6,10 +6,14 @@ def main():
     print("2: AWC (AtCoder Weekday Contest)   [A - E問題]")
     print("3: ADT (AtCoder Daily Training)    [A - I問題]")
     print("4: ARC (AtCoder Regular Contest)   [A - F問題]")
-    print("5: AHC (AtCoder Heuristic Contest) [A - C問題]")
-    print("6: Others                          [A - D問題]")
+    print("5: AHC (AtCoder Heuristic Contest) [A問題 (C++)]")
+    print("6: ABC_Virtual (Virtual Participation) [A - G問題]")
+    print("7: Others                          [A - D問題]")
     
-    choice = input("番号を入力 (1/2/3/4/5/6): ")
+    choice = input("番号を入力 (1/2/3/4/5/6/7): ")
+    
+    # デフォルトの拡張子はPython
+    file_extension = ".py"
     
     if choice == '1':
         prefix = "AtCoder_Beginner_Contest"
@@ -36,7 +40,13 @@ def main():
         parent_dir = "AHC"
         identifier = input("コンテスト番号を入力してください (例: 030): ")
         problems = ["A"]
+        file_extension = ".cpp"  # AHCはC++ファイルを作成
     elif choice == '6':
+        prefix = "ABC_Virtual"
+        parent_dir = "ABC_Virtual"
+        identifier = input("コンテスト番号または日付を入力してください (例: 340 / 20260623): ")
+        problems = ["A", "B", "C", "D", "E", "F", "G"]
+    elif choice == '7':
         prefix = "Others"
         parent_dir = "Others"
         identifier = input("コンテスト名などを入力してください: ")
@@ -55,15 +65,16 @@ def main():
 
         # 問題ファイルの作成
         for p in problems:
-            file_path = os.path.join(dir_name, f"{p}.py")
+            # 選択された拡張子（.py または .cpp）を使用
+            file_path = os.path.join(dir_name, f"{p}{file_extension}")
 
             # 既存のファイルを上書きしないように確認
             if not os.path.exists(file_path):
                 with open(file_path, "w", encoding="utf-8") as f:
                     pass # 中身は空
-                print(f"  - Created: {p}.py")
+                print(f"  - Created: {p}{file_extension}")
             else:
-                print(f"  - Already exists: {p}.py")
+                print(f"  - Already exists: {p}{file_extension}")
 
         print("\nAll tasks completed successfully!")
 
