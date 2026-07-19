@@ -149,15 +149,16 @@ def main():
     if mode == '1':
         url = input("\n問題のURLを入力してください:\n> ").strip()
         print("\nリアルタイム参加中のコンテストなど、ログイン制限がかかっている問題ですか？")
-        print("必要な場合はブラウザのCookieから 'REPSESS' の値を入力してください（空欄でEnter）")
-        repsess = input("REPSESS: ").strip()
+        print("必要な場合はブラウザのCookieから 'REVEL_SESSION' の値を入力してください（空欄でEnter）")
+        repsess = input("REVEL_SESSION: ").strip()
         
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         }
         cookies = {}
         if repsess:
-            cookies['REPSESS'] = repsess
+            # クッキーの送信キー名を 'REVEL_SESSION' に修正
+            cookies['REVEL_SESSION'] = repsess
             
         try:
             response = requests.get(url, headers=headers, cookies=cookies)
