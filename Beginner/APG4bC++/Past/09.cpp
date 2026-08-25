@@ -10,8 +10,12 @@ int main() {
     cout << x << endl;
 
     // ここにプログラムを追記
-    int ans = x*(a+b);
-    cout << ans << endl;
-    cout << ans*ans << endl;
-    cout << ans*ans-1 << endl;
+    x *= (a+b);
+    cout << x << endl;
+
+    x *= x;
+    cout << x << endl;
+
+    x--;
+    cout << x << endl;
 }

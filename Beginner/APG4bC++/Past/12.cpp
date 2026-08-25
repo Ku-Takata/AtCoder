@@ -7,16 +7,14 @@ int main() {
 
     // ここにプログラムを追記
     int ans = 1;
-
-    for (int i = 1; i < (int)S.size(); i += 2) {
-        char op = S.at(i);
-        if (op == '+') {
-            ans++;
+    for (size_t i = 0; i < S.size(); i++)
+    {
+        if (S.at(i) == '+') {
+            ans += 1;
         }
-        else {
-            ans--;
+        else if (S.at(i) == '-') {
+            ans -= 1;
         }
     }
-
     cout << ans << endl;
 }

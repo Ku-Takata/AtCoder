@@ -5,5 +5,6 @@ int main() {
     cin.tie(0);
     ios::sync_with_stdio(0);
 
-    cout << 100 * (100+1) / 2 << endl;
+    cout << "こんにちは" << endl;
+    cout << "AtCoder" << endl;
 }

@@ -6,20 +6,20 @@ int main() {
     cin >> A >> B;
 
     // ここにプログラムを追記
+    string ans_A = "", ans_B = "";
+
     int i = 0;
-    cout << "A:";
     while (i < A) {
-        cout << "]";
+        ans_A += "]";
         i++;
     }
 
-    cout << endl;
-
-    i = 0;
-    cout << "B:";
-    while (i < B) {
-        cout << "]";
-        i++;
+    int j = 0;
+    while (j < B) {
+        ans_B += "]";
+        j++;
     }
-    cout << endl;
+
+    cout << "A:" << ans_A << endl;
+    cout << "B:" << ans_B << endl;
 }

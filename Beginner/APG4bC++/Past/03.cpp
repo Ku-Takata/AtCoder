@@ -2,7 +2,5 @@
 using namespace std;
 
 int main() {
-    int a,b;
-    cin >> a >> b;
-    cout << a+b << endl;
+    cout << 100*(100+1)/2 << endl;
 }
