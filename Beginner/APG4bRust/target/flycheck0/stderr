@@ -1,12 +1,59 @@
-   0.014252200s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint: stale: changed "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs"
-   0.014271500s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:           (vs) "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\target\\debug\\.fingerprint\\APG4bRust-9c98966ce2ce0797\\dep-bin-ex9"
-   0.014275700s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 13434368518, nanos: 69299100 } < FileTime { seconds: 13434368526, nanos: 975953500 }
-   0.014358600s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint: fingerprint dirty for APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust)/Check { test: false }/TargetInner { name: "ex9", doc: true, ..: with_path("C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs", Edition2024) }
-   0.014373100s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\target\\debug\\.fingerprint\\APG4bRust-9c98966ce2ce0797\\dep-bin-ex9", reference_mtime: FileTime { seconds: 13434368518, nanos: 69299100 }, stale: "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs", stale_mtime: FileTime { seconds: 13434368526, nanos: 975953500 } }))
-   0.014844000s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint: stale: changed "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs"
-   0.014853900s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:           (vs) "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\target\\debug\\.fingerprint\\APG4bRust-388ebd221658bc65\\dep-test-bin-ex9"
-   0.014858100s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 13434368518, nanos: 69299100 } < FileTime { seconds: 13434368526, nanos: 975953500 }
-   0.014917400s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint: fingerprint dirty for APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust)/Check { test: true }/TargetInner { name: "ex9", doc: true, ..: with_path("C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs", Edition2024) }
-   0.014924200s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex9"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\target\\debug\\.fingerprint\\APG4bRust-388ebd221658bc65\\dep-test-bin-ex9", reference_mtime: FileTime { seconds: 13434368518, nanos: 69299100 }, stale: "C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex9.rs", stale_mtime: FileTime { seconds: 13434368526, nanos: 975953500 } }))
+   0.014648200s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex17"}: cargo::core::compiler::fingerprint: fingerprint error for APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust)/Check { test: false }/TargetInner { name: "ex17", doc: true, ..: with_path("C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex17.rs", Edition2024) }
+   0.014681300s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex17"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust\target\debug\.fingerprint\APG4bRust-aa117120af590cef\bin-ex17`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.019753300s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex17"}: cargo::core::compiler::fingerprint: fingerprint error for APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust)/Check { test: true }/TargetInner { name: "ex17", doc: true, ..: with_path("C:\\Users\\kuon9\\Documents\\AtCoder\\Beginner\\APG4bRust\\src\\bin\\ex17.rs", Edition2024) }
+   0.019771100s  INFO prepare_target{force=false package_id=APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust) target="ex17"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust\target\debug\.fingerprint\APG4bRust-18869a50bb1e8299\test-bin-ex17`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
     Checking APG4bRust v0.1.0 (C:\Users\kuon9\Documents\AtCoder\Beginner\APG4bRust)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.09s
+error: could not compile `APG4bRust` (bin "ex17") due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
