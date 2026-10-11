@@ -1,0 +1,26 @@
+BRANCH: A44
+PHASE: name=geometry elapsed_ms=34.287 before=571 after=505
+PHASE: name=bridge elapsed_ms=8.577 before=505 after=499 saved_ops=6
+PHASE_STATS: name=bridge trials=16225 accepted=5 saved_ops=6 replay_steps=695622 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.003 before=499 after=492 saved_ops=7
+PHASE_STATS: name=compact trials=0 accepted=7 saved_ops=7 replay_steps=0 rejoin_accepts=0 compact_nodes=834228 budget_stops=213
+PHASE: name=final elapsed_ms=0.573 before=492 after=492 saved_ops=0
+CANDIDATE: raw=571 final=492
+PHASE: name=geometry elapsed_ms=32.588 before=575 after=497
+PHASE: name=bridge elapsed_ms=8.327 before=497 after=491 saved_ops=6
+PHASE_STATS: name=bridge trials=15983 accepted=5 saved_ops=6 replay_steps=672598 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.003 before=491 after=484 saved_ops=7
+PHASE_STATS: name=compact trials=0 accepted=7 saved_ops=7 replay_steps=0 rejoin_accepts=0 compact_nodes=847767 budget_stops=215
+PHASE: name=final elapsed_ms=0.572 before=484 after=484 saved_ops=0
+CANDIDATE: raw=575 final=484
+PHASE: name=geometry elapsed_ms=32.838 before=578 after=497
+PHASE: name=bridge elapsed_ms=8.073 before=497 after=491 saved_ops=6
+PHASE_STATS: name=bridge trials=15826 accepted=5 saved_ops=6 replay_steps=668811 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.001 before=491 after=484 saved_ops=7
+PHASE_STATS: name=compact trials=0 accepted=7 saved_ops=7 replay_steps=0 rejoin_accepts=0 compact_nodes=833608 budget_stops=212
+PHASE: name=final elapsed_ms=0.530 before=484 after=484 saved_ops=0
+CANDIDATE: raw=578 final=484
+POOL: raw_best_ops=571 pool_candidates=6 processed_candidates=3
+STAT: beam_iters=0 sa_iters=1533 beam_score=0 sa_score=571 winner=SimulatedAnnealing+Prune final_score=484 best_order=[4, 2, 1, 3, 0] best_strats=[5, 5, 3, 3, 0] best_modes=[2, 2, 2, 2, 2]
+PATCH: trials=194440 accepted=253 saved_ops=264 replay_steps=7077551 rejoin_accepts=232 compact_nodes=2515603 budget_stops=640
+TIME: elapsed_ms=1679.712

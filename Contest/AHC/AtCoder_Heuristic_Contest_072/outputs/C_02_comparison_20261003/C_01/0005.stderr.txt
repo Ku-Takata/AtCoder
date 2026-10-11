@@ -1,0 +1,19 @@
+BRANCH: A44
+PHASE: name=geometry elapsed_ms=57.067 before=1370 after=933
+PHASE: name=bridge elapsed_ms=10.152 before=933 after=923 saved_ops=10
+PHASE_STATS: name=bridge trials=19158 accepted=7 saved_ops=10 replay_steps=879497 rejoin_accepts=7 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.004 before=923 after=918 saved_ops=5
+PHASE_STATS: name=compact trials=0 accepted=5 saved_ops=5 replay_steps=0 rejoin_accepts=0 compact_nodes=759471 budget_stops=158
+PHASE: name=final elapsed_ms=1.618 before=918 after=911 saved_ops=7
+CANDIDATE: raw=1370 final=911
+PHASE: name=geometry elapsed_ms=71.263 before=1381 after=924
+PHASE: name=bridge elapsed_ms=9.932 before=924 after=914 saved_ops=10
+PHASE_STATS: name=bridge trials=18271 accepted=7 saved_ops=10 replay_steps=856067 rejoin_accepts=7 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.000 before=914 after=909 saved_ops=5
+PHASE_STATS: name=compact trials=0 accepted=5 saved_ops=5 replay_steps=0 rejoin_accepts=0 compact_nodes=769233 budget_stops=159
+PHASE: name=final elapsed_ms=1.573 before=909 after=903 saved_ops=6
+CANDIDATE: raw=1381 final=903
+POOL: raw_best_ops=1370 pool_candidates=6 processed_candidates=2
+STAT: beam_iters=0 sa_iters=2420 beam_score=0 sa_score=1370 winner=SimulatedAnnealing+Prune final_score=903 best_order=[1, 5, 3, 6, 2, 8, 0, 7, 4] best_strats=[3, 1, 5, 4, 3, 0, 0, 3, 0] best_modes=[2, 1, 1, 2, 2, 2, 1, 2, 3]
+PATCH: trials=168098 accepted=892 saved_ops=937 replay_steps=6878789 rejoin_accepts=882 compact_nodes=1528704 budget_stops=317
+TIME: elapsed_ms=1654.974

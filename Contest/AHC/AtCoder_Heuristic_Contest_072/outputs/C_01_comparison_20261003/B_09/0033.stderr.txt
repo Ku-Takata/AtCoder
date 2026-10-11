@@ -1,0 +1,1 @@
+STAT: beam_iters=0 sa_iters=8131 beam_score=0 sa_score=229 winner=SimulatedAnnealing+Prune final_score=202 best_order=[2, 0, 7, 8, 6, 5, 3, 4, 1] best_strats=[3, 5, 5, 2, 5, 5, 4, 5, 4] best_modes=[0, 3, 1, 2, 0, 0, 1, 1, 1]

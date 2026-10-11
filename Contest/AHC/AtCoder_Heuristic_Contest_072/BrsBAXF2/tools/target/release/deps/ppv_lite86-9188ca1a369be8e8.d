@@ -1,0 +1,11 @@
+C:\Users\kuon9\Downloads\BrsBAXF2\tools\target\release\deps\ppv_lite86-9188ca1a369be8e8.d: C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\lib.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\soft.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\types.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\kuon9\Downloads\BrsBAXF2\tools\target\release\deps\libppv_lite86-9188ca1a369be8e8.rlib: C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\lib.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\soft.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\types.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\kuon9\Downloads\BrsBAXF2\tools\target\release\deps\libppv_lite86-9188ca1a369be8e8.rmeta: C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\lib.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\soft.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\types.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\lib.rs:
+C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\soft.rs:
+C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\types.rs:
+C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\mod.rs:
+C:\Users\kuon9\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.21\src\x86_64\sse2.rs:

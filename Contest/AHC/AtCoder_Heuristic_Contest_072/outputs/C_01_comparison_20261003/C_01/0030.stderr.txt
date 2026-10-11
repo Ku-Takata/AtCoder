@@ -1,0 +1,4 @@
+BRANCH: B01
+STAT: nodes=380015 best_score=607 slimes_left=0 moves=607 raw_moves=727 pruned=120 elapsed_ms=1750
+PATCH: trials=11984 accepted=115 saved_ops=115 replay_steps=466643 rejoin_accepts=115 compact_nodes=0 budget_stops=4
+TIME: elapsed_ms=1782.484

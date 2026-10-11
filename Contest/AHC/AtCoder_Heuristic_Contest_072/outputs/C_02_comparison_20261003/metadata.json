@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-03",
+  "tail_mode": "compact-fast",
+  "compiler": "rustc 1.96.0 (ac68faa20 2026-05-25)",
+  "options": [
+    "--edition=2021",
+    "-O"
+  ],
+  "source_hashes": {
+    "C_01": "B5BDC5F64924C97E4AD37F4FB1788AAC5EAD35B6D1D464226832CF7E7384FD5A",
+    "C_02": "C1052DB85C1E394AF1A5A06292B2A17FFDCA8FB0901A070DC7F4BC23963EF7C8"
+  },
+  "validator_hash": "B411112725F58099CA56FC16960A8F3A3DCF577A074430CB21865F918F4AA905",
+  "seeds": "0000..0099",
+  "repetitions": 1
+}

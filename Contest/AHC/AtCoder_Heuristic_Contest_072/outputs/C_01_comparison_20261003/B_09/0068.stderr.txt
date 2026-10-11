@@ -1,0 +1,1 @@
+STAT: nodes=380004 best_score=665 slimes_left=0 moves=665 raw_moves=745 pruned=80 elapsed_ms=1750

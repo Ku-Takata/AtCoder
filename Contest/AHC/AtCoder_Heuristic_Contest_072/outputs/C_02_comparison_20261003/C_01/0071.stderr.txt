@@ -1,0 +1,33 @@
+BRANCH: A44
+PHASE: name=geometry elapsed_ms=28.423 before=854 after=776
+PHASE: name=bridge elapsed_ms=4.584 before=776 after=768 saved_ops=8
+PHASE_STATS: name=bridge trials=8044 accepted=5 saved_ops=8 replay_steps=343080 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.004 before=768 after=761 saved_ops=7
+PHASE_STATS: name=compact trials=0 accepted=6 saved_ops=7 replay_steps=0 rejoin_accepts=0 compact_nodes=715533 budget_stops=126
+PHASE: name=final elapsed_ms=1.290 before=761 after=755 saved_ops=6
+CANDIDATE: raw=854 final=755
+PHASE: name=geometry elapsed_ms=25.333 before=857 after=779
+PHASE: name=bridge elapsed_ms=4.717 before=779 after=771 saved_ops=8
+PHASE_STATS: name=bridge trials=8018 accepted=5 saved_ops=8 replay_steps=342231 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.003 before=771 after=765 saved_ops=6
+PHASE_STATS: name=compact trials=0 accepted=5 saved_ops=6 replay_steps=0 rejoin_accepts=0 compact_nodes=718959 budget_stops=125
+PHASE: name=final elapsed_ms=1.302 before=765 after=759 saved_ops=6
+CANDIDATE: raw=857 final=759
+PHASE: name=geometry elapsed_ms=24.777 before=858 after=781
+PHASE: name=bridge elapsed_ms=4.527 before=781 after=773 saved_ops=8
+PHASE_STATS: name=bridge trials=8282 accepted=5 saved_ops=8 replay_steps=342392 rejoin_accepts=5 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.002 before=773 after=767 saved_ops=6
+PHASE_STATS: name=compact trials=0 accepted=5 saved_ops=6 replay_steps=0 rejoin_accepts=0 compact_nodes=729380 budget_stops=127
+PHASE: name=final elapsed_ms=1.284 before=767 after=761 saved_ops=6
+CANDIDATE: raw=858 final=761
+PHASE: name=geometry elapsed_ms=0.902 before=860 after=810
+PHASE: name=bridge elapsed_ms=4.954 before=810 after=790 saved_ops=20
+PHASE_STATS: name=bridge trials=8634 accepted=14 saved_ops=20 replay_steps=383326 rejoin_accepts=14 compact_nodes=0 budget_stops=0
+PHASE: name=compact elapsed_ms=50.000 before=790 after=775 saved_ops=15
+PHASE_STATS: name=compact trials=0 accepted=13 saved_ops=15 replay_steps=0 rejoin_accepts=0 compact_nodes=748202 budget_stops=137
+PHASE: name=final elapsed_ms=1.518 before=775 after=763 saved_ops=12
+CANDIDATE: raw=860 final=763
+POOL: raw_best_ops=854 pool_candidates=6 processed_candidates=4
+STAT: beam_iters=0 sa_iters=1865 beam_score=0 sa_score=854 winner=SimulatedAnnealing+Prune final_score=755 best_order=[9, 3, 10, 11, 5, 6, 1, 8, 2, 0, 4, 7] best_strats=[4, 5, 3, 3, 3, 5, 3, 3, 3, 3, 3, 4] best_modes=[2, 0, 0, 1, 1, 2, 1, 2, 1, 2, 0, 2]
+PATCH: trials=115441 accepted=356 saved_ops=391 replay_steps=4246569 rejoin_accepts=327 compact_nodes=2912074 budget_stops=517
+TIME: elapsed_ms=1707.560

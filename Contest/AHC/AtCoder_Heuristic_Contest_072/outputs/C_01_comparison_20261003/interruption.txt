@@ -1,0 +1,1 @@
+Original Downloads tools folder was moved during case 0006. Completed pairs were kept. The unfinished pair was restarted using unchanged solver binaries; interrupted output was preserved.

@@ -1,0 +1,2 @@
+['rustc', '--edition=2021', '-O', 'C:\\Users\\kuon9\\Documents\\AtCoder\\Contest\\AHC\\AtCoder_Heuristic_Contest_072\\C_01.rs', '-o', 'C:\\Users\\kuon9\\Documents\\AtCoder\\Contest\\AHC\\AtCoder_Heuristic_Contest_072\\outputs\\C_02_comparison_20261003\\binaries\\C_01.exe']
+warn: could not canonicalize path C:\Users\kuon9

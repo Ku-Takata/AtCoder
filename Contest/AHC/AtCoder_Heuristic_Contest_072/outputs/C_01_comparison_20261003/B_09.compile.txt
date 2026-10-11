@@ -1,0 +1,2 @@
+COMMAND: ['rustc', '--edition=2021', '-O', 'C:\\Users\\kuon9\\Documents\\AtCoder\\Contest\\AHC\\AtCoder_Heuristic_Contest_072\\B_series\\B_09.rs', '-o', 'C:\\Users\\kuon9\\Documents\\AtCoder\\Contest\\AHC\\AtCoder_Heuristic_Contest_072\\outputs\\C_01_comparison_20261003\\binaries\\B_09.exe']
+warn: could not canonicalize path C:\Users\kuon9

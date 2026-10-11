@@ -1,0 +1,17 @@
+16 4
+.dbc#..#...##a#.
+a.#..#.##.cc..cd
+d##..#..#.#.cb.#
+##d.c..c..#..#dd
+.dd..da..#...#d.
+c###.cd##c...#d#
+d#a##d..#c##...d
+.cCdc#d#c.cc.d.#
+D##c#.bcd#.d#..#
+.ddd..c.#ac..d.#
+.c#.#.#...c#...#
+dd.Bd##d#d#.#c.#
+ddd#cc.#.d..#dc#
+.Accd.#.#.cd.#.#
+#bd..##d#cd..#.#
+#.dcc.#cc.d##...
